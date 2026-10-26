@@ -1,0 +1,6 @@
+config_id,cmr_at_10,category_diversity,total_emissions_kg,avg_preference_score,avg_emission_score,popularity_gini,geographic_spread_km,unique_districts,catalog_coverage
+C1_baseline,1.0,5.714,203.317,0.685,0.5,0.474,252.311,6.286,0.6222
+C2_pref_emissions,1.0,5.571,179.14,0.636,0.793,0.468,162.469,5.429,0.7333
+C3_pref_emis_pop,1.0,5.571,185.751,0.655,0.732,0.144,196.517,6.0,0.6
+C4_pref_emis_pop_seas,1.0,5.714,184.51,0.649,0.742,0.144,192.047,5.714,0.6
+C5_full,1.0,5.857,185.557,0.638,0.738,0.144,191.0,6.0,0.6222

@@ -1,0 +1,75 @@
+source_name,source_city,source_state,visit_records_count,canonical_attraction_id,canonical_name,matching_method,match_confidence,review_status,provenance_class,source_reference,notes
+Indian Museum,Kolkata,West Bengal,170,,,unmatched,0.516,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Samanar Hills,Madurai,Tamil Nadu,174,,,unmatched,0.609,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Gandhi Museum,Madurai,Tamil Nadu,178,,,unmatched,0.581,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Taj Mahal,Agra,Uttar Pradesh,182,raj_008,Jal Mahal,fuzzy_low_ambiguous,0.778,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Jal Mahal', flagged for manual review"
+Hawa Mahal,Jaipur,Rajasthan,182,raj_002,Hawa Mahal,exact,1.0,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Exact string match with canonical name
+Victoria Memorial,Kolkata,West Bengal,181,,,unmatched,0.485,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Ooty Lake,Ooty,Tamil Nadu,176,,,unmatched,0.6,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+India Gate,Delhi,Delhi,172,,,unmatched,0.5,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Mughal Gardens,Srinagar,Jammu & Kashmir,179,raj_013,Fateh Sagar Lake,fuzzy_low_ambiguous,0.69,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Fateh Sagar Lake', flagged for manual review"
+Nahargarh Fort,Jaipur,Rajasthan,181,raj_005,Nahargarh Fort,exact,1.0,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Exact string match with canonical name
+Ramoji Film City,Hyderabad,Telangana,174,,,unmatched,0.438,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Meenakshi Temple,Madurai,Tamil Nadu,183,raj_011,Jagdish Temple,fuzzy_low_ambiguous,0.667,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Jagdish Temple', flagged for manual review"
+Lotus Temple,Delhi,Delhi,170,raj_041,Osian Temples,fuzzy_low_ambiguous,0.72,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Osian Temples', flagged for manual review"
+Hazratbal Shrine,Srinagar,Jammu & Kashmir,177,,,unmatched,0.45,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Karanji Lake,Mysore,Karnataka,178,raj_022,Pushkar Lake,fuzzy_low_ambiguous,0.667,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Pushkar Lake', flagged for manual review"
+Elephanta Caves,Mumbai,Maharashtra,170,,,unmatched,0.533,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Siddhivinayak Temple,Mumbai,Maharashtra,177,,,unmatched,0.649,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Varanasi Ghats,Varanasi,Uttar Pradesh,179,,,unmatched,0.5,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Kashi Vishwanath Temple,Varanasi,Uttar Pradesh,178,raj_043,Shrinathji Temple,fuzzy_low_ambiguous,0.7,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Shrinathji Temple', flagged for manual review"
+Howrah Bridge,Kolkata,West Bengal,167,,,unmatched,0.483,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Hadimba Temple,Manali,Himachal Pradesh,172,raj_029,Guru Shikhar,fuzzy_low_ambiguous,0.741,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Guru Shikhar', flagged for manual review"
+Thirumalai Nayakkar Palace,Madurai,Tamil Nadu,177,,,unmatched,0.533,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Jantar Mantar,Jaipur,Rajasthan,165,raj_004,"Jantar Mantar, Jaipur",alias_verified,0.95,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Matched verified alias 'jantar mantar'
+Backwaters,Alleppey,Kerala,175,,,unmatched,0.455,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Jal Mahal,Jaipur,Rajasthan,170,raj_008,Jal Mahal,exact,1.0,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Exact string match with canonical name
+Doddabetta Peak,Ooty,Tamil Nadu,173,,,unmatched,0.486,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Wagah Border,Amritsar,Punjab,178,,,unmatched,0.583,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+City Palace,Jaipur,Rajasthan,172,raj_003,"City Palace, Jaipur",alias_verified,0.98,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Matched City Palace Jaipur via default/alias
+Amber Fort,Jaipur,Rajasthan,183,raj_001,Amber Fort (Amer Fort),alias_verified,0.95,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Matched verified alias 'amber fort'
+Alappuzha Beach,Alleppey,Kerala,175,,,unmatched,0.417,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Pari Mahal,Srinagar,Jammu & Kashmir,172,raj_008,Jal Mahal,fuzzy_low_ambiguous,0.737,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Jal Mahal', flagged for manual review"
+Golconda Fort,Hyderabad,Telangana,175,raj_021,Kuldhara Abandoned Village,fuzzy_low_ambiguous,0.75,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Kuldhara Abandoned Village', flagged for manual review"
+Gateway of India,Mumbai,Maharashtra,171,,,unmatched,0.581,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Birla Mandir,Hyderabad,Telangana,172,raj_009,"City Palace, Udaipur",alias_verified,0.95,accepted,sourced,Kaggle Indian Tourist Places Dataset (2024),Matched verified alias 'birla mandir'
+Beas River,Manali,Himachal Pradesh,182,,,unmatched,0.4,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Charminar,Hyderabad,Telangana,182,,,unmatched,0.556,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Humayun's Tomb,Delhi,Delhi,174,,,unmatched,0.444,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Mysore Zoo,Mysore,Karnataka,177,,,unmatched,0.462,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Salar Jung Museum,Hyderabad,Telangana,174,,,unmatched,0.571,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Dakshineswar Kali Temple,Kolkata,West Bengal,178,raj_027,Dilwara Jain Temples,fuzzy_low_ambiguous,0.682,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Dilwara Jain Temples', flagged for manual review"
+Chhatrapati Shivaji Museum,Mumbai,Maharashtra,176,,,unmatched,0.419,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Jallianwala Bagh,Amritsar,Punjab,177,,,unmatched,0.48,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Dal Lake,Srinagar,Jammu & Kashmir,179,raj_028,Nakki Lake,fuzzy_low_ambiguous,0.667,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Nakki Lake', flagged for manual review"
+Partition Museum,Amritsar,Punjab,185,,,unmatched,0.588,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Sundarbans,Kolkata,West Bengal,174,,,unmatched,0.5,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Brindavan Gardens,Mysore,Karnataka,175,,,unmatched,0.625,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Rose Garden,Ooty,Tamil Nadu,179,raj_013,Fateh Sagar Lake,fuzzy_low_ambiguous,0.692,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Fateh Sagar Lake', flagged for manual review"
+Marari Beach,Alleppey,Kerala,172,,,unmatched,0.516,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Red Fort,Delhi,Delhi,170,raj_001,Amber Fort (Amer Fort),fuzzy_low_ambiguous,0.706,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Amber Fort (Amer Fort)', flagged for manual review"
+Ramnagar Fort,Varanasi,Uttar Pradesh,170,raj_014,Mehrangarh Fort,fuzzy_low_ambiguous,0.786,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Mehrangarh Fort', flagged for manual review"
+Durgiana Temple,Amritsar,Punjab,176,raj_042,Desert National Park,fuzzy_low_ambiguous,0.733,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Desert National Park', flagged for manual review"
+Juhu Beach,Mumbai,Maharashtra,172,,,unmatched,0.4,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Durgakund Temple,Varanasi,Uttar Pradesh,184,,,unmatched,0.645,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Solang Valley,Manali,Himachal Pradesh,184,,,unmatched,0.48,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Botanical Garden,Ooty,Tamil Nadu,170,,,unmatched,0.581,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Old Manali,Manali,Himachal Pradesh,179,,,unmatched,0.632,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Koodal Azhagar Temple,Madurai,Tamil Nadu,170,,,unmatched,0.611,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Emerald Lake,Ooty,Tamil Nadu,170,,,unmatched,0.621,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Krishnapuram Palace,Alleppey,Kerala,177,,,unmatched,0.588,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Sarnath,Varanasi,Uttar Pradesh,179,,,unmatched,0.571,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Gulmarg Gondola,Gulmarg,Jammu & Kashmir,171,,,unmatched,0.488,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Marine Drive,Mumbai,Maharashtra,183,,,unmatched,0.519,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Shankaracharya Temple,Srinagar,Jammu & Kashmir,175,raj_029,Guru Shikhar,fuzzy_low_ambiguous,0.714,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Guru Shikhar', flagged for manual review"
+St. Philomena's Church,Mysore,Karnataka,186,,,unmatched,0.359,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Rohtang Pass,Manali,Himachal Pradesh,180,,,unmatched,0.48,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Chamundi Hill,Mysore,Karnataka,175,,,unmatched,0.522,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Science City,Kolkata,West Bengal,169,,,unmatched,0.348,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Mysore Palace,Mysore,Karnataka,169,raj_001,Amber Fort (Amer Fort),fuzzy_low_ambiguous,0.72,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Amber Fort (Amer Fort)', flagged for manual review"
+Ooty Toy Train,Ooty,Tamil Nadu,167,,,unmatched,0.385,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Golden Temple,Amritsar,Punjab,181,raj_041,Osian Temples,fuzzy_low_ambiguous,0.692,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Osian Temples', flagged for manual review"
+Manu Temple,Manali,Himachal Pradesh,180,raj_042,Desert National Park,fuzzy_low_ambiguous,0.769,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Desert National Park', flagged for manual review"
+Hussain Sagar Lake,Hyderabad,Telangana,175,raj_025,Ana Sagar Lake,fuzzy_low_ambiguous,0.812,needs_review,unknown,Kaggle Indian Tourist Places Dataset (2024),"Ambiguous fuzzy match to 'Ana Sagar Lake', flagged for manual review"
+Munroe Island,Alleppey,Kerala,177,,,unmatched,0.522,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold
+Qutub Minar,Delhi,Delhi,169,,,unmatched,0.522,unmatched,unknown,Kaggle Indian Tourist Places Dataset (2024),Below similarity threshold

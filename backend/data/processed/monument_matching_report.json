@@ -1,0 +1,11 @@
+{
+  "total_raw_records": 13000,
+  "unique_places_india": 74,
+  "total_mappings_generated": 74,
+  "accepted_matches": 7,
+  "unmatched_places": 47,
+  "catalog_coverage_matched": "7 / 45 (15.6%)",
+  "matched_rajasthan_visit_records": 1225,
+  "registry_file": "D:\\Btech_Projects\\mini_project\\backend\\data\\processed\\monument_matching_registry.csv",
+  "cleaned_data_file": "D:\\Btech_Projects\\mini_project\\backend\\data\\processed\\cleaned_tourist_places_rajasthan.csv"
+}

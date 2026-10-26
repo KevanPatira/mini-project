@@ -1,0 +1,119 @@
+# ==============================================================================
+# AuraTour - Git Ignore Configuration
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Secrets, Credentials & Environment Files
+# ------------------------------------------------------------------------------
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+*.pkcs12
+*.pfx
+*.p12
+*.token
+*.cert
+*.crt
+id_rsa*
+id_ed25519*
+secrets/
+credentials.json
+service-account*.json
+token.json
+
+# ------------------------------------------------------------------------------
+# 2. Sensitive / Participant Data
+# ------------------------------------------------------------------------------
+# Protect user study survey responses and participant data from public commits
+backend/data/results/user_study_responses.json
+backend/data/results/submissions/
+*.sqlite
+*.sqlite3
+*.db
+
+# ------------------------------------------------------------------------------
+# 3. Large Datasets & Archives (>50MB / GitHub 100MB limit safety)
+# ------------------------------------------------------------------------------
+# Raw GIS GeoPackage (~1.8 GB) - MUST NEVER BE COMMITTED TO GITHUB
+central-zone-261022-free.gpkg/
+*.gpkg
+*.geopackage
+
+# Compressed archives
+*.zip
+*.tar
+*.gz
+*.tgz
+*.rar
+*.7z
+kaggle_indian_tourist_places_dataset.zip
+
+# Raw unstructured bulk dumps (keep structure via .gitkeep)
+backend/data/raw/*.json
+backend/data/raw/*.geojson
+backend/data/weather/*.json
+
+# ------------------------------------------------------------------------------
+# 4. Agent & Internal IDE Artifacts
+# ------------------------------------------------------------------------------
+.agent/
+.agents/
+.gemini/
+
+# ------------------------------------------------------------------------------
+# 5. Python Build, Cache & Virtual Environments
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+*.egg-info/
+*.egg
+build/
+dist/
+venv/
+.venv/
+env/
+ENV/
+
+# ------------------------------------------------------------------------------
+# 6. Frontend / Node.js
+# ------------------------------------------------------------------------------
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+backend/package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# ------------------------------------------------------------------------------
+# 7. Operating System & Editor Files
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

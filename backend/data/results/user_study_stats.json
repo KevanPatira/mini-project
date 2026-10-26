@@ -1,0 +1,19 @@
+{
+  "status": "intake_phase_active",
+  "participant_count": 0,
+  "target_cohort": "30-50",
+  "exclusion_audit": {
+    "total_raw": 0,
+    "excluded_missing_consent": 0,
+    "excluded_incomplete": 0,
+    "excluded_test_ids": 0,
+    "excluded_duplicates": 0,
+    "valid_count": 0
+  },
+  "power_analysis": {
+    "n_35_power": 0.889,
+    "n_50_power": 0.967,
+    "test": "Wilcoxon Signed-Rank Test (two-tailed)",
+    "alpha": 0.05
+  }
+}

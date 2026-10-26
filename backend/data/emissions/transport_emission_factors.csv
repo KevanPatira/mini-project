@@ -1,0 +1,5 @@
+transport_mode,emission_factor_g_co2_per_pkm,source,occupancy_assumption
+train,17.0,WRI India / India GHG Program (2023-24),National standard average
+bus,40.0,WRI India / India GHG Program (2023-24),National standard average
+car,150.0,WRI India / India GHG Program (2023-24),National standard average
+flight,130.0,WRI India / India GHG Program (2023-24),National standard average

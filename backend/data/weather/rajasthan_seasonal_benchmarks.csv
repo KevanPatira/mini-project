@@ -1,0 +1,13 @@
+month_num,month_name,seasonal_demand_index,avg_max_temp_c,avg_min_temp_c,rainfall_mm,tourism_season,data_provenance
+1,Jan,0.8,22,8,7,Peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+2,Feb,0.75,26,11,5,Moderate,Open-Meteo & IMD Historical Norms / Heuristic demand
+3,Mar,0.6,32,16,4,Moderate,Open-Meteo & IMD Historical Norms / Heuristic demand
+4,Apr,0.35,38,22,3,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+5,May,0.15,41,27,12,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+6,Jun,0.1,40,28,55,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+7,Jul,0.15,34,26,210,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+8,Aug,0.15,32,24,220,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+9,Sep,0.2,33,23,75,Off-peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+10,Oct,0.65,33,19,12,Moderate,Open-Meteo & IMD Historical Norms / Heuristic demand
+11,Nov,0.85,29,13,4,Peak,Open-Meteo & IMD Historical Norms / Heuristic demand
+12,Dec,0.9,24,9,3,Peak,Open-Meteo & IMD Historical Norms / Heuristic demand

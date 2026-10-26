@@ -1,0 +1,36 @@
+persona_id,persona_name,origin,config_id,cmr_at_10,category_diversity,total_emissions_kg,avg_preference_score,avg_emission_score,popularity_gini,geographic_spread_km,unique_districts,top_attraction
+P1,Heritage Explorer,delhi,C1_baseline,1.0,3,85.54,1.0,0.5,0.4892,261.09,7,"City Palace, Jaipur"
+P1,Heritage Explorer,delhi,C2_pref_emissions,1.0,3,58.78,0.9067,0.8111,0.5897,131.24,5,Mandawa Havelis
+P1,Heritage Explorer,delhi,C3_pref_emis_pop,1.0,3,72.01,0.9533,0.6995,0.3255,213.23,7,Mandawa Havelis
+P1,Heritage Explorer,delhi,C4_pref_emis_pop_seas,1.0,4,63.01,0.91,0.7754,0.3255,152.79,5,Mandawa Havelis
+P1,Heritage Explorer,delhi,C5_full,1.0,4,70.49,0.9433,0.7123,0.3255,197.96,6,Mandawa Havelis
+P2,Nature Enthusiast,mumbai,C1_baseline,1.0,5,176.86,0.7117,0.5,0.06,346.13,7,Sariska Tiger Reserve
+P2,Nature Enthusiast,mumbai,C2_pref_emissions,1.0,6,168.08,0.6683,0.6423,0.029,302.55,6,Guru Shikhar
+P2,Nature Enthusiast,mumbai,C3_pref_emis_pop,1.0,6,168.08,0.6683,0.6423,0.029,302.55,6,Desert National Park
+P2,Nature Enthusiast,mumbai,C4_pref_emis_pop_seas,1.0,6,168.08,0.6683,0.6423,0.029,302.55,6,Desert National Park
+P2,Nature Enthusiast,mumbai,C5_full,1.0,7,164.16,0.6017,0.6855,0.0,267.24,6,Guru Shikhar
+P3,Budget Backpacker,bangalore,C1_baseline,1.0,6,334.46,0.56,0.5,0.3255,241.45,6,Haldighati
+P3,Budget Backpacker,bangalore,C2_pref_emissions,1.0,6,303.41,0.4425,0.9495,0.4739,75.78,4,Haldighati
+P3,Budget Backpacker,bangalore,C3_pref_emis_pop,1.0,6,314.88,0.515,0.812,0.0,140.31,5,Haldighati
+P3,Budget Backpacker,bangalore,C4_pref_emis_pop_seas,1.0,6,315.11,0.515,0.8092,0.0,156.03,5,Saheliyon-ki-Bari
+P3,Budget Backpacker,bangalore,C5_full,1.0,6,324.11,0.56,0.7013,0.0,186.45,6,Haldighati
+P4,Cultural Foodie,kolkata,C1_baseline,1.0,7,343.37,0.5875,0.5,0.6008,258.57,6,Clock Tower & Sardar Market
+P4,Cultural Foodie,kolkata,C2_pref_emissions,1.0,6,313.85,0.565,0.6748,0.6077,209.78,8,Bundi Palace (Garh Palace)
+P4,Cultural Foodie,kolkata,C3_pref_emis_pop,1.0,5,317.15,0.565,0.6521,0.3255,223.75,7,Clock Tower & Sardar Market
+P4,Cultural Foodie,kolkata,C4_pref_emis_pop_seas,1.0,5,317.15,0.565,0.6521,0.3255,223.75,7,Clock Tower & Sardar Market
+P4,Cultural Foodie,kolkata,C5_full,1.0,5,325.26,0.5875,0.5963,0.3255,233.47,7,Clock Tower & Sardar Market
+P5,Eco-conscious Traveller,chennai,C1_baseline,1.0,6,346.32,0.6767,0.5,0.6077,187.19,5,Haldighati
+P5,Eco-conscious Traveller,chennai,C2_pref_emissions,1.0,6,339.87,0.6767,0.7543,0.6077,172.09,5,Haldighati
+P5,Eco-conscious Traveller,chennai,C3_pref_emis_pop,1.0,6,340.09,0.6767,0.7518,0.0,182.45,5,Haldighati
+P5,Eco-conscious Traveller,chennai,C4_pref_emis_pop_seas,1.0,6,340.14,0.6767,0.7512,0.0,183.12,5,Saheliyon-ki-Bari
+P5,Eco-conscious Traveller,chennai,C5_full,1.0,6,324.57,0.53,0.927,0.0,108.41,4,Saheliyon-ki-Bari
+P6,Weekend Tripper,jaipur,C1_baseline,1.0,6,50.22,0.6767,0.5,0.6077,243.49,7,Haldighati
+P6,Weekend Tripper,jaipur,C2_pref_emissions,1.0,6,19.67,0.62,0.8364,0.611,142.12,5,Albert Hall Museum
+P6,Weekend Tripper,jaipur,C3_pref_emis_pop,1.0,5,29.05,0.6484,0.756,0.3255,197.66,7,Albert Hall Museum
+P6,Weekend Tripper,jaipur,C4_pref_emis_pop_seas,1.0,5,29.05,0.6484,0.756,0.3255,197.66,7,Albert Hall Museum
+P6,Weekend Tripper,jaipur,C5_full,1.0,5,36.18,0.6767,0.6949,0.3255,222.72,8,Albert Hall Museum
+P7,Family Vacationer,delhi,C1_baseline,1.0,7,86.45,0.58,0.5,0.6292,228.26,6,Haldighati
+P7,Family Vacationer,delhi,C2_pref_emissions,1.0,6,50.32,0.57,0.8825,0.3596,103.72,5,Keoladeo National Park (Bharatpur Bird Sanctuary)
+P7,Family Vacationer,delhi,C3_pref_emis_pop,1.0,8,59.0,0.56,0.8093,0.0,115.67,5,Sariska Tiger Reserve
+P7,Family Vacationer,delhi,C4_pref_emis_pop_seas,1.0,8,59.03,0.56,0.809,0.0,128.43,5,Sariska Tiger Reserve
+P7,Family Vacationer,delhi,C5_full,1.0,8,54.13,0.57,0.8504,0.031,120.75,5,Sariska Tiger Reserve

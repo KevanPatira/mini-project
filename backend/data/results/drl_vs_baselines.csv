@@ -1,0 +1,22 @@
+persona_id,persona_name,strategy,stops_visited,total_emissions_kg,total_distance_km,total_cost_inr,cmr_score,category_diversity,budget_violated,duration_violated,inference_ms
+P1,Heritage Explorer,C1_Baseline_TSP,8,29.77,1732.85,4265.7,1.0,3,False,True,19.54
+P1,Heritage Explorer,C5_Sustainable_TSP,8,23.46,1290.22,3380.44,1.0,3,False,False,25.89
+P1,Heritage Explorer,DRL_ModeB_Agent,8,32.37,1901.88,4105.99,0.875,6,False,True,1.01
+P2,Nature Enthusiast,C1_Baseline_TSP,8,42.35,2389.72,5579.44,1.0,5,False,True,17.57
+P2,Nature Enthusiast,C5_Sustainable_TSP,8,40.35,2334.35,5468.7,1.0,5,False,False,23.56
+P2,Nature Enthusiast,DRL_ModeB_Agent,9,49.73,2829.2,6296.43,0.3333,7,False,False,2.01
+P3,Budget Backpacker,C1_Baseline_TSP,8,90.62,2238.79,5277.58,1.0,5,False,False,16.86
+P3,Budget Backpacker,C5_Sustainable_TSP,8,100.17,2471.6,5743.2,1.0,6,False,False,23.1
+P3,Budget Backpacker,DRL_ModeB_Agent,3,89.75,2217.07,3577.39,1.0,5,False,False,1.0
+P4,Cultural Foodie,C1_Baseline_TSP,8,51.55,3013.62,6827.24,1.0,6,False,True,17.03
+P4,Cultural Foodie,C5_Sustainable_TSP,8,47.39,2769.75,6339.5,1.0,5,False,True,23.08
+P4,Cultural Foodie,DRL_ModeB_Agent,3,34.36,2010.8,4187.57,0.6667,6,False,False,1.51
+P5,Eco-conscious Traveller,C1_Baseline_TSP,8,41.54,2367.49,5534.98,1.0,5,False,False,16.9
+P5,Eco-conscious Traveller,C5_Sustainable_TSP,8,45.79,2600.3,6000.6,1.0,6,False,False,23.07
+P5,Eco-conscious Traveller,DRL_ModeB_Agent,5,49.89,2858.22,5983.35,1.0,6,False,False,1.51
+P6,Weekend Tripper,C1_Baseline_TSP,4,8.04,452.89,1305.78,1.0,5,False,True,9.02
+P6,Weekend Tripper,C5_Sustainable_TSP,4,3.27,174.13,748.26,1.0,5,False,False,14.56
+P6,Weekend Tripper,DRL_ModeB_Agent,2,11.04,649.83,1399.67,1.0,4,False,False,1.01
+P7,Family Vacationer,C1_Baseline_TSP,8,18.84,1072.78,2945.56,1.0,6,False,True,17.04
+P7,Family Vacationer,C5_Sustainable_TSP,8,13.35,716.46,2232.92,1.0,6,False,False,23.58
+P7,Family Vacationer,DRL_ModeB_Agent,7,29.31,1724.07,3698.15,1.0,8,False,True,1.99

@@ -1,0 +1,7 @@
+dimension,dimension_label,n,c1_mean,c5_mean,mean_diff,wilcoxon_w,p_value,cliffs_delta,boot_ci_95_lower,boot_ci_95_upper
+relevance,Interest Relevance,0,,,,,,,,
+perceived_sustainability,Perceived Sustainability,0,,,,,,,,
+usefulness,Practical Usefulness,0,,,,,,,,
+trust,Trust & Credibility,0,,,,,,,,
+feasibility,Itinerary Feasibility,0,,,,,,,,
+willingness_to_visit,Willingness to Visit,0,,,,,,,,
