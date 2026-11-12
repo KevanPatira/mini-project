@@ -173,7 +173,7 @@ CORS_ORIGINS = [
 
 # OpenRouteService
 ORS_API_KEY = os.getenv("ORS_API_KEY", "")
-ORS_BASE_URL = "https://api.openrouteservice.org"
+ORS_BASE_URL = "https://api.heigit.org/openrouteservice"
 
 # Open-Meteo (no API key needed)
 OPEN_METEO_BASE_URL = "https://archive-api.open-meteo.com/v1/archive"
