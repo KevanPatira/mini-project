@@ -1,0 +1,81 @@
+/* Rajasthan Explorer Design System 2.0 - Premium Travel Editorial + Modern SaaS */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,400&display=swap');
+
+:root {
+  /* Editorial Forest & Terracotta Palette */
+  --c-primary: #1F3A32;        /* Dark Forest Green */
+  --c-primary-dark: #162B25;   /* Deeper Forest */
+  --c-secondary: #315C4C;      /* Deep Pine */
+  --c-secondary-light: #447764;
+  --c-accent: #C56B45;         /* Warm Terracotta */
+  --c-accent-hover: #AF5732;   /* Deep Terracotta */
+  --c-accent-soft: rgba(197, 107, 69, 0.12);
+  --c-accent-glow: rgba(197, 107, 69, 0.25);
+
+  --c-gold: #D4A84B;              /* Special Accents / Ratings */
+  --c-gold-soft: rgba(212, 168, 75, 0.12);
+
+  --c-sage: #A8B5A0;           /* Sage Accent */
+  --c-sage-soft: rgba(168, 181, 160, 0.2);
+  --c-sage-dark: #586B52;
+
+  /* Surfaces & Canvas */
+  --c-bg-page: #F7F4EC;        /* Warm Alabaster Ivory */
+  --c-bg-card: #FFFFFF;        /* Crisp White Surface */
+  --c-bg-muted: #E8DCC7;       /* Warm Linen Sand */
+  --c-bg-subtle: #F1ECE0;      /* Soft Sand */
+  --c-bg-sidebar: #192E27;     /* Deep Editorial Sidebar */
+  --c-bg-sidebar-active: #244238;
+  --c-bg-sidebar-hover: rgba(255, 255, 255, 0.06);
+
+  /* Borders */
+  --c-border: #E2DAC9;
+  --c-border-subtle: #EDE7DA;
+  --c-border-focus: #C56B45;
+  --c-border-strong: #CFC5B1;
+
+  /* Typography Colors */
+  --c-text-primary: #303632;   /* Deep Charcoal Slate */
+  --c-text-secondary: #59665C; /* Earthy Slate Sage */
+  --c-text-muted: #829185;    /* Muted Slate */
+  --c-text-light: #A3B0A6;
+  --c-text-inverse: #FFFFFF;
+  --c-text-inverse-muted: #B7C4BA;
+
+  /* Status Colors */
+  --c-success: #2E6B4F;
+  --c-success-soft: rgba(46, 107, 79, 0.12);
+  --c-amber: #B87333;
+  --c-amber-soft: rgba(184, 115, 51, 0.14);
+  --c-rose: #B33927;
+  --c-rose-soft: rgba(179, 57, 39, 0.1);
+
+  /* Typography Stacks */
+  --font-serif: 'DM Serif Display', 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Shadows with Warm Organic Diffuse */
+  --shadow-xs: 0 1px 2px rgba(48, 54, 50, 0.04);
+  --shadow-sm: 0 2px 6px rgba(48, 54, 50, 0.06);
+  --shadow-md: 0 6px 18px rgba(48, 54, 50, 0.07);
+  --shadow-lg: 0 14px 34px rgba(48, 54, 50, 0.09);
+  --shadow-card-hover: 0 16px 36px rgba(31, 58, 50, 0.12);
+  --shadow-hero: 0 20px 60px rgba(25, 46, 39, 0.15);
+
+  /* Radii */
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Layout dimensions */
+  --sidebar-width: 270px;
+  --header-height: 64px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 240ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 400ms cubic-bezier(0.16, 1, 0.3, 1);
+}

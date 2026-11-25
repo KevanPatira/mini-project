@@ -119,3 +119,9 @@ desktop.ini
 *.swp
 *.swo
 *~
+
+kaggle_indian_tourist_places_dataset/
+
+# Generated experiment results
+backend/data/results/*
+!backend/data/results/.gitkeep
