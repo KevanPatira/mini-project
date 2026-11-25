@@ -1,4 +1,4 @@
-# AuraTour: Deep Reinforcement Learning (DRL) Integration Plan
+# Deep Reinforcement Learning (DRL) Integration Plan
 
 > **Document Type:** Research Architecture Audit & Implementation Plan  
 > **Topic:** Adapting Dalla Vecchia et al. (2024) DRL Sequential Recommendation to Rajasthan Heritage Tourism  
@@ -8,7 +8,7 @@
 
 ## 1. Executive Context & Research Scope
 
-This document details the architectural plan to integrate Deep Reinforcement Learning (DRL) into AuraTour, inspired by the paper:
+This document details the architectural plan to integrate Deep Reinforcement Learning (DRL) into the recommendation system, inspired by the paper:
 > **"Promoting sustainable tourism by recommending sequences of attractions with deep reinforcement learning"**  
 > Anna Dalla Vecchia, Sara Migliorini, Elisa Quintarelli, Mauro Gambini, Alberto Belussi. *Information Technology & Tourism*, 2024.  
 > [Springer Article](https://link.springer.com/article/10.1007/s40558-024-00288-x) | [GitHub: smigliorini/itinerary-drl](https://github.com/smigliorini/itinerary-drl)

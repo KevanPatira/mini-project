@@ -91,10 +91,14 @@ class ItineraryRewardCalculator:
         t_penalty = min(travel_hours / self.MAX_LEG_HOURS, 1.0)
 
         # 4. Crowd / Popularity Pressure Penalty C_t in [0, 1]
-        # Uses annual visitor count as macro-popularity proxy
+        # Uses annual visitor count where available; falls back to authentic visitor review volume
         visitors = attraction.get("annual_visitors")
+        reviews = attraction.get("review_count")
         if visitors and visitors > 0:
             c_penalty = min(float(visitors) / self.MAX_VISITOR_COUNT, 1.0)
+        elif reviews and reviews > 0:
+            # Normalized against high-volume tourist sites (e.g. City Palace Udaipur ~9,847 reviews)
+            c_penalty = min(float(reviews) / 10000.0, 1.0)
         else:
             c_penalty = 0.2  # Moderate default for lesser-known attractions
 

@@ -1,5 +1,5 @@
 """
-Pytest configuration for AuraTour backend.
+Pytest configuration for backend.
 Ensures thread limits are set for OpenBLAS / OMP on Windows to prevent memory allocation errors.
 """
 

@@ -306,7 +306,7 @@ export default function App() {
         background: 'rgba(11, 15, 23, 0.9)',
       }}>
         <div style={{ maxWidth: 1400, margin: '0 auto' }}>
-          AuraTour • A Sustainable and Crowd-Aware Tourism Recommendation System • Rajasthan Research Dataset
+          Sustainable and Crowd-Aware Tourism Recommendation System • Rajasthan Research Dataset
         </div>
       </footer>
     </div>

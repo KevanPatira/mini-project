@@ -1,10 +1,10 @@
-# Data Provenance and Dataset Audit for AuraTour DRL Integration
+# Data Provenance and Dataset Audit for DRL Integration
 
 ## 1. Overview and Provenance Taxonomy
 
-Every data element and feature utilized in the AuraTour Deep Reinforcement Learning pipeline is audited and classified according to the 7-tier provenance taxonomy:
+Every data element and feature utilized in the Deep Reinforcement Learning pipeline is audited and classified according to the 7-tier provenance taxonomy:
 
-| Classification | Definition | Application in AuraTour |
+| Classification | Definition | Application in Pipeline |
 | :--- | :--- | :--- |
 | **`observed`** | Directly measured or recorded by official turnstiles or geographic surveys. | Monument GPS coordinates (OSM), Railway station coordinates (GPKG). |
 | **`sourced`** | Published in official records or secondary repositories, but not a continuous turnstile log. | ASI annual visitor totals, Kaggle ticket prices, visit durations. |

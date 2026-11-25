@@ -110,6 +110,25 @@ def get_seasonal_demand():
     }
 
 
+@app.get("/api/meta/routing-status")
+def get_routing_status():
+    """Check OpenRouteService routing status and API key connectivity."""
+    from app.itinerary.ors_client import check_ors_status
+    return check_ors_status()
+
+
+@app.get("/api/meta/transport-summary")
+def get_transport_summary():
+    """Summary of empirical transport routes, fares, and coverage across Rajasthan."""
+    from app.config import PROCESSED_DATA_DIR
+    import json
+    summary_path = PROCESSED_DATA_DIR / "transport_summary_metrics.json"
+    if summary_path.exists():
+        with open(summary_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"status": "uninitialized"}
+
+
 # ─── Destinations ────────────────────────────────────────────────────────────
 
 @app.get("/api/destinations")

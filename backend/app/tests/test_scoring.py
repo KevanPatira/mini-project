@@ -131,6 +131,18 @@ class TestPopularityScore:
             score = compute_popularity_score(c, counts)
             assert 0 <= score <= 1
 
+    def test_review_count_fallback(self):
+        """When annual_visitors is None, review_count from Kaggle dataset acts as proxy."""
+        rev_counts = [50, 500, 2500, 6000, 9800]
+        score = compute_popularity_score(
+            annual_visitors=None,
+            all_visitor_counts=[],
+            review_count=2500,
+            all_review_counts=rev_counts,
+        )
+        assert 0.0 <= score <= 1.0
+        assert score > 0.5  # Moderate review volume scores higher than default missing score
+
 
 class TestSeasonalityScore:
     """Test seasonal demand scoring."""

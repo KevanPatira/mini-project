@@ -1,7 +1,7 @@
-# AuraTour: Experimental Methodology and Ablation Study
+# Experimental Methodology and Ablation Study
 
 > **Document Type:** Research Experiment Protocol & Benchmark Results  
-> **System:** AuraTour Sustainable & Crowd-Aware Tourism Recommender  
+> **System:** Sustainable & Crowd-Aware Tourism Recommender  
 > **Status:** Executed & Reproducible  
 
 ---

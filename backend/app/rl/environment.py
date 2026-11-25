@@ -12,7 +12,7 @@ import os
 import csv
 
 from app.config import ORIGIN_CITIES, AVERAGE_SPEEDS_KMH
-from app.data_ingestion.loader import load_attractions
+from app.data_ingestion.loader import load_attractions, get_transport_route_details
 from app.sustainability.scoring import (
     haversine_distance_km,
     estimate_road_distance_km,
@@ -51,6 +51,41 @@ def load_cleaned_monument_metadata() -> Dict[str, Dict[str, Any]]:
                         }
         except Exception:
             pass
+
+    # Enrich with authentic visitor reviews summary (ratings, sentiment, review counts)
+    summary_file = os.path.join(PROCESSED_DATA_DIR, "attraction_reviews_summary.csv")
+    if os.path.exists(summary_file):
+        try:
+            with open(summary_file, "r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for r in reader:
+                    cid = r.get("canonical_id")
+                    if cid:
+                        if cid not in meta:
+                            meta[cid] = {
+                                "entry_fee_inr": 0.0,
+                                "visit_duration": "1-2 hours",
+                                "crowd_level": "Medium",
+                                "rating": 4.0,
+                            }
+                        if r.get("avg_visitor_rating"):
+                            try:
+                                meta[cid]["rating"] = float(r["avg_visitor_rating"])
+                            except ValueError:
+                                pass
+                        if r.get("avg_sentiment_score"):
+                            try:
+                                meta[cid]["sentiment_score"] = float(r["avg_sentiment_score"])
+                            except ValueError:
+                                pass
+                        if r.get("review_count"):
+                            try:
+                                meta[cid]["review_count"] = int(r["review_count"])
+                            except ValueError:
+                                pass
+        except Exception:
+            pass
+
     return meta
 
 
@@ -147,6 +182,7 @@ class TourismItineraryEnv:
         self.origin_lon = origin_info["lon"]
         self.current_lat = self.origin_lat
         self.current_lon = self.origin_lon
+        self.current_city = self.origin_city
 
         self.travel_month = travel_month
         self.trip_days = max(trip_days, 1)
@@ -220,17 +256,21 @@ class TourismItineraryEnv:
             straight_dist = haversine_distance_km(self.current_lat, self.current_lon, lat, lon)
             dist_km = estimate_road_distance_km(straight_dist)
 
-            # Determine transit mode & speed
+            # Determine transit mode & empirical route metrics
             if dist_km <= 30.0:
                 mode = "car"
-                speed = 30.0
-                rate_per_km = 14.0 # Intra-city taxi / auto fare per km
             else:
                 mode = self.preferred_transport
-                speed = AVERAGE_SPEEDS_KMH.get(mode, 60.0)
-                rate_per_km = 2.0 if mode == "train" else (1.5 if mode == "bus" else 12.0)
 
-            travel_hours = dist_km / speed
+            from_c = self.origin_city if len(self.itinerary_stops) == 0 else getattr(self, "current_city", self.origin_city)
+            route_meta = get_transport_route_details(
+                origin_city=from_c,
+                dest_city=att.get("city", ""),
+                mode=mode,
+                distance_km=dist_km,
+            )
+            travel_hours = route_meta["duration_hours"]
+            transit_fare = route_meta["fare_inr"]
             visit_hours = att.get("estimated_visit_duration_hours") or 2.0
 
             # 3. Check remaining total trip duration constraint
@@ -244,10 +284,9 @@ class TourismItineraryEnv:
                 continue
 
             # Compute cost (transit fare + entry fee)
-            transit_fare = dist_km * rate_per_km
             cid = att["id"]
             if cid in self.monument_meta:
-                entry_fee = self.monument_meta[cid]["entry_fee_inr"]
+                entry_fee = self.monument_meta[cid].get("entry_fee_inr", 50.0)
             else:
                 # Default parsed fee proxy
                 entry_fee = 50.0
@@ -301,18 +340,20 @@ class TourismItineraryEnv:
 
         if dist_km <= 30.0:
             mode = "car"
-            speed = 30.0
-            rate_per_km = 14.0
         else:
             mode = self.preferred_transport
-            speed = AVERAGE_SPEEDS_KMH.get(mode, 60.0)
-            rate_per_km = 2.0 if mode == "train" else (1.5 if mode == "bus" else 12.0)
 
-        travel_hours = round(dist_km / speed, 2)
+        from_c = self.origin_city if len(self.itinerary_stops) == 0 else getattr(self, "current_city", self.origin_city)
+        route_meta = get_transport_route_details(
+            origin_city=from_c,
+            dest_city=att.get("city", ""),
+            mode=mode,
+            distance_km=dist_km,
+        )
+        travel_hours = round(route_meta["duration_hours"], 2)
         visit_hours = att.get("estimated_visit_duration_hours") or 2.0
         emissions_kg = round(compute_emissions_kg(dist_km, mode), 2)
-
-        transit_fare = round(dist_km * rate_per_km, 2)
+        transit_fare = round(route_meta["fare_inr"], 2)
         cid = att["id"]
         entry_fee = self.monument_meta.get(cid, {}).get("entry_fee_inr", 50.0)
         leg_cost = transit_fare + entry_fee
@@ -352,6 +393,7 @@ class TourismItineraryEnv:
 
         self.current_lat = lat
         self.current_lon = lon
+        self.current_city = att.get("city", getattr(self, "current_city", self.origin_city))
 
         stop_record = {
             "order": len(self.itinerary_stops) + 1,

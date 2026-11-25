@@ -1,7 +1,7 @@
-# AuraTour: Data and Assumption Audit
+# Data and Assumption Audit
 
 > **Document Type:** Scientific & Engineering Research Audit  
-> **System:** AuraTour (Sustainable & Crowd-Aware Tourism Recommender)  
+> **System:** Sustainable & Crowd-Aware Tourism Recommender  
 > **Scope:** Rajasthan, India (45 Curated Tourist Destinations)  
 > **Status:** Audited & Verified  
 
@@ -9,13 +9,13 @@
 
 ## 1. Executive Summary
 
-This document presents a rigorous research audit of all datasets, external benchmarks, mathematical assumptions, and empirical heuristics used in AuraTour. The objective is to uphold scientific transparency, eliminate unwarranted claims of data precision, and clarify the exact boundary between **observed measurements**, **sourced factors**, **calculated values**, **engineering estimates**, and **heuristics**.
+This document presents a rigorous research audit of all datasets, external benchmarks, mathematical assumptions, and empirical heuristics used in the recommendation system. The objective is to uphold scientific transparency, eliminate unwarranted claims of data precision, and clarify the exact boundary between **observed measurements**, **sourced factors**, **calculated values**, **engineering estimates**, and **heuristics**.
 
 ---
 
 ## 2. Dataset Provenance and Specifications
 
-The table below catalogs every data source currently ingested or referenced in the AuraTour pipeline.
+The table below catalogs every data source currently ingested or referenced in the system pipeline.
 
 | Dataset / Source | Provider / Origin | Year | Geographic Scope | Licence | Raw Units | Ingested Features | Data Classification |
 |---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ The table below catalogs every data source currently ingested or referenced in t
 
 ## 3. Strict Classification of Pipeline Values
 
-To ensure research integrity, every variable computed or displayed in AuraTour is classified under one of six epistemic tiers:
+To ensure research integrity, every variable computed or displayed in the recommendation pipeline is classified under one of six epistemic tiers:
 
 ```
 [ Tier 1: OBSERVED ]    ──> Exact real-world coordinates, names, administrative boundaries, UNESCO records
@@ -72,7 +72,7 @@ To ensure research integrity, every variable computed or displayed in AuraTour i
 3. **Forecasting Infeasibility:**  
    Without chronological turnstile sensor data, any algorithmic time-series crowd prediction model (e.g., ARIMA, Prophet, LSTM) would be completely synthetic and scientifically fraudulent.
 4. **Methodological Recommendation:**  
-   AuraTour explicitly rejects pseudo-forecasting. The system models temporal pressure transparently via the **Seasonal Demand Index** (macro-temporal proxy) and destination popularity tiers, openly documenting this limitation.
+   The project explicitly rejects pseudo-forecasting. The system models temporal pressure transparently via the **Seasonal Demand Index** (macro-temporal proxy) and destination popularity tiers, openly documenting this limitation.
 
 ---
 

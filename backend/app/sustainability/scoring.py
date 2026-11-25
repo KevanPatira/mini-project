@@ -100,15 +100,20 @@ def compute_emission_score(
     origin_lat: float, origin_lon: float,
     dest_lat: float, dest_lon: float,
     transport_mode: Optional[str] = None,
+    origin_city: Optional[str] = None,
+    dest_city: Optional[str] = None,
 ) -> Dict:
     """
     Compute emission details for travelling from origin to destination.
     
     If transport_mode is None, computes for all available modes and returns
     the lowest-emission option as the recommended mode.
+    Enriched with empirical Indian Railways, Rajasthan bus routes, and domestic flight fares.
     
     Returns dict with emission details per mode and recommended mode.
     """
+    from app.data_ingestion.loader import get_transport_route_details
+
     straight_km = haversine_distance_km(origin_lat, origin_lon, dest_lat, dest_lon)
     road_km = estimate_road_distance_km(straight_km)
     
@@ -126,45 +131,50 @@ def compute_emission_score(
         else:
             dist = road_km
         
+        # Check empirical transport matrix for exact OD route & fares
+        route_meta = get_transport_route_details(
+            origin_city=origin_city or "",
+            dest_city=dest_city or "",
+            mode=mode,
+            distance_km=dist,
+        )
+
+        # Use empirical distance and duration if observed
+        if route_meta.get("is_empirical"):
+            dist = route_meta["distance_km"]
+            travel_hours = route_meta["duration_hours"]
+            cost_inr = route_meta["fare_inr"]
+            data_source = route_meta["data_source"]
+        else:
+            # Fallback estimation
+            if mode == "train":
+                speed_kmh = 55
+            elif mode == "bus":
+                speed_kmh = 45
+            elif mode == "car":
+                speed_kmh = 60
+            elif mode == "flight":
+                speed_kmh = 600
+            else:
+                speed_kmh = 50
+
+            if mode == "flight":
+                travel_hours = (straight_km / speed_kmh) + 2.0  # Airport overhead
+            else:
+                travel_hours = road_km / speed_kmh
+
+            cost_inr = route_meta.get("fare_inr")
+            data_source = route_meta.get("data_source", "estimated")
+
         emissions_kg = compute_emissions_kg(dist, mode)
-        
-        # Estimate travel time (rough heuristics)
-        if mode == "train":
-            speed_kmh = 55  # Average Indian train speed including stops
-        elif mode == "bus":
-            speed_kmh = 45
-        elif mode == "car":
-            speed_kmh = 60
-        elif mode == "flight":
-            speed_kmh = 600  # Plus 2 hours overhead for airport
-            dist_for_time = straight_km
-        else:
-            speed_kmh = 50
-        
-        if mode == "flight":
-            travel_hours = (straight_km / speed_kmh) + 2.0  # Airport overhead
-        else:
-            travel_hours = road_km / speed_kmh
-        
-        # Rough cost estimates (INR) — HEURISTIC
-        if mode == "train":
-            cost_inr = road_km * 1.2  # ~INR 1.2/km (sleeper class)
-        elif mode == "bus":
-            cost_inr = road_km * 1.5
-        elif mode == "car":
-            cost_inr = road_km * 8.0  # Fuel + tolls for private car
-        elif mode == "flight":
-            cost_inr = 3000 + straight_km * 4.0  # Base fare + per-km
-        else:
-            cost_inr = None
         
         results[mode] = {
             "distance_km": round(dist, 1),
             "emissions_kg": round(emissions_kg, 2),
             "travel_hours": round(travel_hours, 1),
             "estimated_cost_inr": round(cost_inr, 0) if cost_inr else None,
-            "data_source": "estimated",
-            "distance_type": "great_circle" if mode == "flight" else "road_estimate",
+            "data_source": data_source,
+            "distance_type": "empirical_route" if route_meta.get("is_empirical") else ("great_circle" if mode == "flight" else "road_estimate"),
         }
     
     # Find lowest emission mode
@@ -201,6 +211,8 @@ def normalise_emission_scores(emissions: List[float]) -> List[float]:
 def compute_popularity_score(
     annual_visitors: Optional[int],
     all_visitor_counts: List[Optional[int]],
+    review_count: Optional[int] = None,
+    all_review_counts: Optional[List[Optional[int]]] = None,
 ) -> float:
     """
     Compute popularity score for a destination.
@@ -213,20 +225,35 @@ def compute_popularity_score(
     Uses a bell-curve-like transformation:
     score = 1 - |2 * normalised_rank - 1|
     
-    This penalises both extremes of the popularity spectrum.
+    Priority:
+    1. Uses annual_visitors where available (e.g. government/ASI records).
+    2. Falls back to authentic visitor review_count from Kaggle when annual_visitors is missing.
     """
-    if annual_visitors is None:
+    count = annual_visitors
+    ref_counts = [
+        v for v in (all_visitor_counts or [])
+        if v is not None and not (isinstance(v, float) and np.isnan(v))
+    ]
+    
+    # Fallback to authentic review count if annual visitor count is missing
+    is_count_missing = count is None or (isinstance(count, float) and np.isnan(count))
+    if is_count_missing and review_count is not None and not (isinstance(review_count, float) and np.isnan(review_count)):
+        count = review_count
+        if all_review_counts:
+            ref_counts = [
+                r for r in all_review_counts
+                if r is not None and not (isinstance(r, float) and np.isnan(r))
+            ]
+
+    if count is None or (isinstance(count, float) and np.isnan(count)):
         return MISSING_SCORE_DEFAULT
     
-    # Filter to only destinations with visitor data
-    valid_counts = [v for v in all_visitor_counts if v is not None]
-    
-    if not valid_counts or len(valid_counts) < 2:
+    if not ref_counts or len(ref_counts) < 2:
         return MISSING_SCORE_DEFAULT
     
-    # Normalise using log scale (visitor counts can span orders of magnitude)
-    log_counts = np.log1p(valid_counts)
-    log_current = np.log1p(annual_visitors)
+    # Normalise using log scale (visitor counts/reviews can span orders of magnitude)
+    log_counts = np.log1p(ref_counts)
+    log_current = np.log1p(count)
     
     min_log, max_log = min(log_counts), max(log_counts)
     
@@ -238,7 +265,7 @@ def compute_popularity_score(
     # Bell curve: moderate = best, extremes = worse
     score = 1.0 - abs(2 * normalised_rank - 1)
     
-    return round(max(0.0, min(1.0, score)), 4)
+    return round(max(0.0, min(1.0, float(score))), 4)
 
 
 def normalise_popularity_scores(

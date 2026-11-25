@@ -1,0 +1,14 @@
+{
+  "total_od_pairs_in_matrix": 683,
+  "bus_routes_count": 607,
+  "train_routes_count": 69,
+  "flight_routes_count": 7,
+  "calibrated_tariffs_inr_per_km": {
+    "bus_standard": 1.25,
+    "bus_volvo_ac": 2.6,
+    "train_sleeper": 0.58,
+    "train_3ac": 1.5,
+    "car_outstation": 12.0,
+    "car_intracity": 14.0
+  }
+}

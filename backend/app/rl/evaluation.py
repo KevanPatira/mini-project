@@ -246,7 +246,8 @@ def generate_drl_itinerary(
         "data_transparency_summary": {
             "attractions_catalog": "45 verified Rajasthan heritage & natural sites",
             "entry_fees": "1,225 records parsed from Ministry of Tourism / Kaggle dataset",
-            "crowd_pressure": "Macro annual visitation proxy from ASI & Tourism Statistics",
+            "transport_routes": "Empirical bus routes (2,307 records), Indian Railways schedules (186,124 stops), & domestic flight fares (15,000 records)",
+            "crowd_pressure": "Macro annual visitation proxy from ASI & Tourism Statistics enriched with authentic Kaggle visitor review volume",
             "rl_training": "Mode B Simulator-trained over 500 multi-constraint episodes",
         },
     }

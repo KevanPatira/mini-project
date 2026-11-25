@@ -55,7 +55,7 @@ export default function Navbar({ activeTab, setActiveTab, backendStatus, totalAt
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }}>
-                AuraTour
+                Rajasthan Tourism
               </span>
               <span className="badge badge-emerald" style={{ fontSize: '0.65rem' }}>Research Edition</span>
             </div>

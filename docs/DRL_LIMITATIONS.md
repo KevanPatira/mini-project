@@ -1,6 +1,6 @@
 # Scientific Limitations and Boundary Conditions of the DRL Tourism Recommender
 
-In adhering to rigorous academic standards and scientific honesty, this document explicitly identifies the operational, data, and algorithmic limitations of the AuraTour Deep Reinforcement Learning implementation.
+In adhering to rigorous academic standards and scientific honesty, this document explicitly identifies the operational, data, and algorithmic limitations of the Deep Reinforcement Learning implementation.
 
 ---
 

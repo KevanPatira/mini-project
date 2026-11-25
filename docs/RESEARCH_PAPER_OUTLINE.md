@@ -1,7 +1,7 @@
-# AuraTour: Research Paper Outline and Publication Specification
+# Research Paper Outline and Publication Specification
 
 > **Target Venue:** ACM Conference on Recommender Systems (RecSys) / ENTER Conference on Information and Communication Technologies in Tourism / *Information Technology & Tourism* (Springer)  
-> **Paper Title:** *AuraTour: Multi-Criteria Decision Support for Sustainable and Crowd-Aware Heritage Tourism in Rajasthan*  
+> **Paper Title:** *Multi-Criteria Decision Support for Sustainable and Crowd-Aware Heritage Tourism in Rajasthan*  
 > **Status:** Publication-Ready Research Outline & Manuscript Structure  
 
 ---
@@ -10,7 +10,7 @@
 
 Tourism in fragile heritage environments faces a dual sustainability challenge: severe spatial-temporal overtourism at iconic monuments and carbon-intensive transit across geographically dispersed circuits. Conventional tourism recommender systems optimize almost exclusively for content or collaborative preference matching, exacerbating visitor congestion at famous sites while ignoring transit emissions. 
 
-We present **AuraTour**, a sustainable, multi-criteria tourism recommendation and itinerary planning system tailored to the cultural heritage circuit of Rajasthan, India. AuraTour balances personalized preference matching ($w_p$) with three sustainability pillars: modal transit carbon emissions ($w_e$), intra-list crowding dispersion ($w_c$), and microclimate seasonality ($w_s$), integrated with a spatial 2-opt heuristic itinerary planner ($w_f$). Across seven standardized traveler personas and 45 curated cultural sites, our multi-criteria formulation (**C5**) reduces intra-list visitor concentration Gini from **0.474 to 0.144 (-69.6%)** and cuts transit carbon emissions by **8.74%** (and up to **11.89%** under pure carbon weighting), while retaining **93.14%** of user preference relevance and expanding category diversity from **5.71 to 5.86 unique themes**. 
+We present a sustainable, multi-criteria tourism recommendation and itinerary planning system tailored to the cultural heritage circuit of Rajasthan, India. The system balances personalized preference matching ($w_p$) with three sustainability pillars: modal transit carbon emissions ($w_e$), intra-list crowding dispersion ($w_c$), and microclimate seasonality ($w_s$), integrated with a spatial 2-opt heuristic itinerary planner ($w_f$). Across seven standardized traveler personas and 45 curated cultural sites, our multi-criteria formulation (**C5**) reduces intra-list visitor concentration Gini from **0.474 to 0.144 (-69.6%)** and cuts transit carbon emissions by **8.74%** (and up to **11.89%** under pure carbon weighting), while retaining **93.14%** of user preference relevance and expanding category diversity from **5.71 to 5.86 unique themes**. 
 
 We establish a double-blinded, within-subjects human evaluation framework ($N = 30\text{--}50$ target cohort) with pre-registered non-parametric inferential statistical pipelines (Wilcoxon signed-rank test, Cliff's $\delta$, bootstrap 95% CIs) to validate perceived routing feasibility and algorithmic trust. All code, data provenance records, and evaluation scripts are open-sourced for complete scientific reproducibility.
 
@@ -51,7 +51,7 @@ We establish a double-blinded, within-subjects human evaluation framework ($N = 
 
 ---
 
-## 3. AuraTour System Architecture
+## 3. System Architecture
 
 ```
 User Preferences (Interests, Origin, Month, Duration, λ)
@@ -149,4 +149,4 @@ $$\sum_{j \in \{p, e, c, s, f\}} w_j(\lambda) = 1.0, \quad w_j \ge 0$$
 
 ## 7. Conclusion
 
-AuraTour demonstrates that sustainability and crowding awareness can be seamlessly embedded into tourism recommender systems without degrading user satisfaction or algorithmic responsiveness. By open-sourcing our entire experiment runner, testing suite, and data provenance audit, we establish a robust benchmark for green decision support in heritage travel.
+This system demonstrates that sustainability and crowding awareness can be seamlessly embedded into tourism recommender systems without degrading user satisfaction or algorithmic responsiveness. By open-sourcing our entire experiment runner, testing suite, and data provenance audit, we establish a robust benchmark for green decision support in heritage travel.

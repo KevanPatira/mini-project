@@ -9,11 +9,13 @@ values used across the application.
 from pathlib import Path
 from typing import Dict, List
 import os
+from dotenv import load_dotenv
 
-
-# ─── Paths ────────────────────────────────────────────────────────────────────
-
+# ─── Load Environment Variables ──────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent  # backend/
+load_dotenv(BASE_DIR / ".env")
+load_dotenv(BASE_DIR.parent / ".env")
+load_dotenv()
 DATA_DIR = BASE_DIR / "data"
 RAW_DATA_DIR = DATA_DIR / "raw"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"

@@ -1,0 +1,8 @@
+origin,flight_samples_count,median_price_inr,mean_price_inr,min_price_inr,max_price_inr,median_flight_duration_h,top_airlines,destination,total_travel_hours
+ahmedabad,40,8617.5,8504.0,2932,14635,7.75,"Alliance Air, SpiceJet, TruJet",jaipur,9.75
+bangalore,35,10026.0,10030.3,2738,16145,9.5,"Air India, IndiGo, SpiceJet",jaipur,11.5
+chennai,41,10065.0,9624.7,2888,15439,10.0,"Alliance Air, Air India, AirAsia India",jaipur,12.0
+delhi,37,7947.0,8761.5,3453,16559,10.0,"AirAsia India, IndiGo, Alliance Air",jaipur,12.0
+hyderabad,44,8543.0,9356.8,3860,17177,9.875,"Star Air, SpiceJet, Alliance Air",jaipur,11.88
+kolkata,31,9525.0,9164.6,2792,16664,8.0,"AirAsia India, TruJet, IndiGo",jaipur,10.0
+mumbai,36,8004.0,8595.7,3012,15232,10.75,"AirAsia India, GoAir, Star Air",jaipur,12.75

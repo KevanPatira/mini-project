@@ -1,14 +1,14 @@
-# AuraTour: Mathematical Metric Definitions and Evaluation Standards
+# Mathematical Metric Definitions and Evaluation Standards
 
 > **Document Type:** Research Metric Specification  
-> **System:** AuraTour (Sustainable & Crowd-Aware Tourism Recommender)  
+> **System:** Sustainable & Crowd-Aware Tourism Recommender  
 > **Status:** Standardized & Verified against Hand-Computed Benchmarks  
 
 ---
 
 ## 1. Overview
 
-This document specifies the exact mathematical formulas, implementation code, edge-case conventions, and scientific interpretations for all quantitative metrics used to evaluate the AuraTour recommendation engine.
+This document specifies the exact mathematical formulas, implementation code, edge-case conventions, and scientific interpretations for all quantitative metrics used to evaluate the recommendation engine.
 
 All metrics are verified against analytical ground-truth test cases in `backend/app/tests/test_validation_extended.py`.
 
@@ -27,7 +27,7 @@ where $\mathbb{I}(\cdot)$ is the indicator function ($1$ if true, $0$ otherwise)
 
 #### Interpretation & Structural Boundary Note
 - **Range:** $[0.0, 1.0]$. Higher is better.
-- **Empirical Value:** In AuraTour experiments, $\text{CMR@10} = 1.000$ ($100\%$) across almost all configurations.
+- **Empirical Value:** In benchmark experiments, $\text{CMR@10} = 1.000$ ($100\%$) across almost all configurations.
 - **Why CMR@10 is 100%:**
   1. Persona profiles contain 3–4 categories (e.g. `['history', 'culture', 'nature']`).
   2. In the 45-attraction catalog, at least one of those categories appears in 35 to 45 items.
@@ -45,7 +45,7 @@ $$\bar{P}@K = \frac{1}{K} \sum_{i=1}^K \frac{|U \cap C(r_i)|}{|U|}$$
 
 #### Interpretation
 - **Range:** $[0.0, 1.0]$. Measures the exact fraction of the user's total interest profile satisfied by each recommended item on average.
-- In AuraTour:
+- In our evaluation:
   - C1 (Baseline) achieves $\bar{P}@10 = 0.685$.
   - C5 (Full Multi-criteria) retains $\bar{P}@10 = 0.638$ ($93.1\%$ retention of baseline preference), proving that carbon and crowd dispersion do not significantly degrade user interest relevance.
 
@@ -61,7 +61,7 @@ $$\text{CD@}K = \left| \bigcup_{i=1}^K C(r_i) \right|$$
 #### Interpretation
 - **Range:** $[1, |\mathcal{C}|]$, where $|\mathcal{C}| = 10$ is the total category vocabulary.
 - Prevents redundant recommendations (e.g., ten identical forts).
-- In AuraTour, C5 increases category diversity to $5.857$ distinct categories per itinerary compared to $5.714$ in C1.
+- In our evaluation, C5 increases category diversity to $5.857$ distinct categories per itinerary compared to $5.714$ in C1.
 
 ---
 
@@ -123,7 +123,7 @@ where $|\mathcal{C}_{total}| = 45$.
 
 #### Interpretation
 - Measures global catalog exploration vs recommendation monopolization.
-- In AuraTour:
+- In our evaluation:
   - C1 covers $62.2\%$ of the catalog ($28 / 45$ items).
   - C2 increases coverage to $73.3\%$ ($33 / 45$ items) by distributing users from different origins to their local clean hubs.
 

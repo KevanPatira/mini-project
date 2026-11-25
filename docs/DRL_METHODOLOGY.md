@@ -13,9 +13,9 @@ This research adapts the sequential itinerary recommendation framework proposed 
 
 ---
 
-## 2. Adaptation from Verona (Original) to Rajasthan (AuraTour)
+## 2. Adaptation from Verona (Original) to Rajasthan
 
-| Dimension | Original Paper (Verona, Italy) | AuraTour Adaptation (Rajasthan, India) | Scientific Rationale |
+| Dimension | Original Paper (Verona, Italy) | Rajasthan Adaptation | Scientific Rationale |
 | :--- | :--- | :--- | :--- |
 | **Geographic Scale** | Compact historic municipality ($<15 \text{ km}$ radius). Walking and cycling dominant. | Vast regional state ($342,239 \text{ km}^2$, $>600 \text{ km}$ intercity transit legs). | Requires multi-modal transit modelling (intercity express rail, regional bus, urban auto/taxi). |
 | **Data Granularity** | High-density historical GPS trajectories from Verona tourist card passes. | 13,000 Kaggle single-visit records + Ministry of Tourism / ASI annual ticket counts. | **No individual sequential multi-stop trajectories exist**. Mode B Simulator-based DRL selected. |

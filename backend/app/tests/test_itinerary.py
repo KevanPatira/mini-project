@@ -10,6 +10,7 @@ from app.itinerary.builder import (
     refine_route_2opt,
 )
 from app.data_ingestion.loader import load_attractions
+from app.itinerary.ors_client import get_driving_route, check_ors_status
 
 
 class TestItineraryBuilder:
@@ -64,3 +65,27 @@ class TestItineraryBuilder:
         assert days[0] == 1
         # Days should be monotonically non-decreasing
         assert all(days[i] <= days[i + 1] for i in range(len(days) - 1))
+
+    def test_routing_provider_and_geometry(self):
+        sample_ids = ["raj_001", "raj_002"]
+        itin = self.builder.build_itinerary(
+            origin_city="jaipur",
+            attraction_ids=sample_ids,
+            preferred_mode="car",
+        )
+        assert "routing_provider" in itin
+        assert len(itin["stops"]) == 2
+        for stop in itin["stops"]:
+            assert "route_geometry" in stop
+            assert "routing_source" in stop
+
+    def test_ors_client_functions(self):
+        # Coordinates test between Jaipur and Amber Fort
+        route = get_driving_route(26.9124, 75.7873, 26.9855, 75.8513)
+        assert route["distance_km"] > 0
+        assert route["duration_hours"] > 0
+        assert route["source"] in ["openrouteservice", "offline_heuristic"]
+        
+        status = check_ors_status()
+        assert "status" in status
+        assert "provider" in status

@@ -1,11 +1,11 @@
-# Project Progress Report: AuraTour
+# Project Progress Report
 **Sustainable & Crowd-Aware Tourism Recommendation System**
 
 ---
 
 ## 1. Executive Summary
 
-**AuraTour** is an end-to-end, multi-criteria tourism recommender system and itinerary planner for Rajasthan, India. The system addresses overtourism and travel carbon footprints by balancing traveller interest relevance against transport greenhouse gas emissions ($\text{CO}_2\text{e}$), attraction crowd pressure, and seasonal demand. 
+This project is an end-to-end, multi-criteria tourism recommender system and itinerary planner for Rajasthan, India. The system addresses overtourism and travel carbon footprints by balancing traveller interest relevance against transport greenhouse gas emissions ($\text{CO}_2\text{e}$), attraction crowd pressure, and seasonal demand. 
 
 As of **October 2026**, the system has completed its comprehensive **Deep Reinforcement Learning (DRL) Integration Phase** inspired by Dalla Vecchia et al. (2024). All 95 unit, integration, and mathematical validation tests pass with $100\%$ precision (77 baseline + 18 DRL tests). The system incorporates an action-masked DQN sequential planner, authentic monument entrance fees from Ministry of Tourism records, and full frontend and API integration.
 

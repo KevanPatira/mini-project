@@ -1,8 +1,8 @@
-# AuraTour: Statistical Analysis Plan and Methodology Specification
+# Statistical Analysis Plan and Methodology Specification
 
 > **Document Type:** Statistical Methodology & Reproducibility Guide  
-> **System:** AuraTour Sustainable & Crowd-Aware Tourism Recommender  
-> **Authors:** AuraTour Research Team  
+> **System:** Sustainable & Crowd-Aware Tourism Recommender  
+> **Authors:** Research Team  
 > **Script Reference:** `backend/scripts/analyze_user_study.py`  
 > **Output Artifacts:** `backend/data/results/user_study_summary.csv`, `backend/data/results/user_study_stats.json`, `docs/figures/`  
 
@@ -10,7 +10,7 @@
 
 ## 1. Statistical Framework and Measurement Scale Considerations
 
-The AuraTour evaluation couples **offline algorithmic benchmarking** across standardized traveler personas with an **empirical within-subjects human user study**.
+The project evaluation couples **offline algorithmic benchmarking** across standardized traveler personas with an **empirical within-subjects human user study**.
 
 ### 1.1 Nature of Measurement Scales
 - **Likert Ratings (Q1–Q6):** Survey responses are measured on an anchored 5-point scale (1 = Very Poor to 5 = Excellent). Because Likert-type items represent **ordinal data** without guaranteed interval equidistance, parametric assumptions of normality are not assumed.
@@ -98,7 +98,7 @@ python scripts/analyze_user_study.py --no-figures
 
 ## 5. Separation of Descriptive Findings from Inferential Claims
 
-In reporting findings, AuraTour maintains a strict distinction between descriptive observations and inferential conclusions:
+In reporting findings, the research maintains a strict distinction between descriptive observations and inferential conclusions:
 
 | Analysis Level | Scope | Legitimate Claims | Prohibited Claims |
 |---|---|---|---|

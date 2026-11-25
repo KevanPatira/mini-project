@@ -16,7 +16,7 @@ from app.rl.training import train_dqn
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Train AuraTour DRL Tourism Recommendation Agent")
+    parser = argparse.ArgumentParser(description="Train DRL Tourism Recommendation Agent")
     parser.add_argument("--episodes", type=int, default=500, help="Number of training episodes (default: 500)")
     parser.add_argument("--batch-size", type=int, default=32, help="Minibatch size for replay buffer (default: 32)")
     parser.add_argument("--lr", type=float, default=0.001, help="Adam learning rate (default: 0.001)")
@@ -27,7 +27,7 @@ def main():
     args = parser.parse_args()
 
     print("======================================================================")
-    print("       AuraTour DRL Sequential Itinerary Planner Training             ")
+    print("       DRL Sequential Itinerary Planner Training                      ")
     print("======================================================================")
     print(f"Episodes:    {args.episodes}")
     print(f"Batch Size:  {args.batch_size}")

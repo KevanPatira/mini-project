@@ -1,0 +1,37 @@
+canonical_id,canonical_name,city,review_count,avg_visitor_rating,avg_sentiment_score,rating_std_dev
+raj_001,Amber Fort (Amer Fort),Jaisalmer,451,4.06,0.52,0.979
+raj_002,Hawa Mahal,Udaipur,6695,4.17,0.563,0.848
+raj_003,"City Palace, Jaipur",Udaipur,5936,4.17,0.548,0.854
+raj_004,"Jantar Mantar, Jaipur",Jaipur,5872,4.22,0.547,0.79
+raj_005,Nahargarh Fort,Mount Abu,2330,4.24,0.651,0.891
+raj_006,Jaigarh Fort,Jaipur,1984,4.09,0.585,0.896
+raj_007,Albert Hall Museum,Jaipur,1310,4.21,0.611,0.861
+raj_008,Jal Mahal,Sawai Madhopur,3166,4.04,0.572,0.926
+raj_009,"City Palace, Udaipur",Udaipur,9847,4.33,0.645,0.813
+raj_010,Lake Pichola,Udaipur,5220,4.42,0.662,0.738
+raj_011,Jagdish Temple,Udaipur,2306,4.24,0.612,0.81
+raj_012,Saheliyon-ki-Bari,Udaipur,1770,4.34,0.592,0.786
+raj_013,Fateh Sagar Lake,Udaipur,988,4.02,0.481,1.028
+raj_014,Mehrangarh Fort,Shekhawati,6644,4.47,0.73,0.725
+raj_015,Jaswant Thada,Jodhpur,1786,4.38,0.742,0.763
+raj_016,Umaid Bhawan Palace,Jodhpur,2328,4.07,0.55,0.861
+raj_020,Patwon Ki Haveli,Sawai Madhopur,1612,4.24,0.629,0.828
+raj_021,Kuldhara Abandoned Village,Jaisalmer,5264,3.94,0.529,1.037
+raj_022,Pushkar Lake,Pushkar,2076,4.04,0.447,0.999
+raj_025,Ana Sagar Lake,Udaipur,2435,4.23,0.539,0.903
+raj_026,Chittorgarh Fort,Udaipur,958,3.83,0.629,1.121
+raj_027,Dilwara Jain Temples,Mount Abu,2169,4.34,0.7,0.778
+raj_028,Nakki Lake,Mount Abu,2649,4.14,0.424,0.933
+raj_029,Guru Shikhar,Pushkar,2299,4.07,0.497,0.857
+raj_030,Junagarh Fort,Bundi,1124,4.35,0.641,0.792
+raj_031,Karni Mata Temple (Rat Temple),Sawai Madhopur,39,3.9,0.513,0.912
+raj_032,Ranthambore National Park,Sawai Madhopur,4220,4.03,0.468,0.96
+raj_033,Ranthambore Fort,Sawai Madhopur,177,4.65,0.476,0.623
+raj_035,Ranakpur Jain Temple,Sawai Madhopur,856,3.67,0.521,1.229
+raj_037,Bundi Palace (Garh Palace),Bharatpur,1650,4.26,0.627,0.821
+raj_039,Sariska Tiger Reserve,Alwar,614,3.89,0.407,0.989
+raj_040,Mandawa Havelis,Jaisalmer,28,4.43,0.786,0.634
+raj_041,Osian Temples,Osian,788,4.28,0.666,0.783
+raj_042,Desert National Park,Jaisalmer,286,4.22,0.539,0.876
+raj_043,Shrinathji Temple,Udaipur,2517,4.07,0.441,0.885
+raj_044,Haldighati,Udaipur,3,3.33,0.333,1.528

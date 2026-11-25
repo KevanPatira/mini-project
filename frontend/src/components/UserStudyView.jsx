@@ -43,10 +43,10 @@ export default function UserStudyView() {
 
   // Initialize or restore anonymous participant UUID from sessionStorage
   useEffect(() => {
-    let storedId = sessionStorage.getItem('auratour_study_participant_id');
+    let storedId = sessionStorage.getItem('study_participant_id');
     if (!storedId) {
       storedId = 'anon_' + (crypto?.randomUUID ? crypto.randomUUID().slice(0, 12) : Math.random().toString(36).substring(2, 14));
-      sessionStorage.setItem('auratour_study_participant_id', storedId);
+      sessionStorage.setItem('study_participant_id', storedId);
     }
     setParticipantId(storedId);
     fetchSummary();

@@ -1,4 +1,4 @@
-# AuraTour — Sustainable Tourism Recommendation System with Deep Reinforcement Learning
+# Sustainable Tourism Recommendation System with Deep Reinforcement Learning
 
 > **A research-oriented sequential tourism recommendation and itinerary planning engine for Rajasthan, India, integrating multi-criteria sustainability scoring and Deep Reinforcement Learning (DRL) under strict travel-time, trip-duration, and budget constraints.**
 

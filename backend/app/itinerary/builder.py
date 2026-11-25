@@ -20,6 +20,7 @@ from app.data_ingestion.models import (
 )
 from app.sustainability.scoring import haversine_distance_km, compute_emissions_kg
 from app.data_ingestion.loader import get_attraction_by_id, load_attractions
+from app.itinerary.ors_client import get_driving_route
 
 
 def estimate_road_distance_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
@@ -151,6 +152,8 @@ class ItineraryBuilder:
         total_dist_km = 0.0
         total_travel_hours = 0.0
         total_emissions_kg = 0.0
+        total_fare_inr = 0.0
+        total_cost_inr = 0.0
         warnings = []
 
         # Determine inter-city transport mode
@@ -170,23 +173,35 @@ class ItineraryBuilder:
             lat = att["latitude"]
             lon = att["longitude"]
 
-            leg_dist = estimate_road_distance_km(curr_lat, curr_lon, lat, lon)
-            
-            # Select mode for this leg:
-            # First leg from origin might be train or flight; between attractions in same city is taxi/car
+            # Initial mode determination
             if order == 1:
                 leg_mode = default_mode
                 speed = AVERAGE_SPEEDS_KMH.get(leg_mode, 60.0)
             else:
-                # If distance < 30km, it's intra-city local transport (car / taxi)
-                if leg_dist <= 30.0:
+                straight_d = haversine_distance_km(curr_lat, curr_lon, lat, lon)
+                if straight_d <= 25.0:
                     leg_mode = "car"
                     speed = 30.0  # city traffic
                 else:
                     leg_mode = default_mode
                     speed = AVERAGE_SPEEDS_KMH.get(leg_mode, 60.0)
 
-            leg_hours = round(leg_dist / speed, 2)
+            # Query live ORS route for road vehicles (car, bus) with heuristic fallback
+            if leg_mode in ["car", "bus"]:
+                route_res = get_driving_route(curr_lat, curr_lon, lat, lon)
+                leg_dist = route_res["distance_km"]
+                if leg_mode == "car":
+                    leg_hours = route_res["duration_hours"]
+                else:
+                    leg_hours = round(leg_dist / speed, 2)
+                leg_geometry = route_res.get("geometry", [[curr_lat, curr_lon], [lat, lon]])
+                leg_source = route_res.get("source", "offline_heuristic")
+            else:
+                leg_dist = estimate_road_distance_km(curr_lat, curr_lon, lat, lon)
+                leg_hours = round(leg_dist / speed, 2)
+                leg_geometry = [[curr_lat, curr_lon], [lat, lon]]
+                leg_source = "corridor_transit"
+
             leg_emissions = compute_emissions_kg(leg_dist, leg_mode)
 
             visit_duration = att.get("estimated_visit_duration_hours") or 2.5
@@ -207,6 +222,16 @@ class ItineraryBuilder:
             total_travel_hours += leg_hours
             total_emissions_kg += leg_emissions
 
+            from_c = origin_info["name"] if order == 1 else ordered_attractions[order - 2].get("city", "")
+            to_c = att.get("city", "")
+            from app.data_ingestion.loader import get_transport_route_details
+            t_details = get_transport_route_details(from_c, to_c, leg_mode, distance_km=leg_dist)
+            leg_fare = round(t_details["fare_inr"], 2)
+            entry_fee = round(att.get("entry_fee_inr") or 50.0, 2)
+            leg_cost = round(leg_fare + entry_fee, 2)
+            total_fare_inr += leg_fare
+            total_cost_inr += leg_cost
+
             stops_output.append({
                 "order": order,
                 "day": current_day,
@@ -218,6 +243,11 @@ class ItineraryBuilder:
                 "travel_from_previous_hours": leg_hours,
                 "transport_mode": leg_mode,
                 "leg_emissions_kg": round(leg_emissions, 2),
+                "transit_fare_inr": leg_fare,
+                "entry_fee_inr": entry_fee,
+                "total_leg_cost_inr": leg_cost,
+                "routing_source": leg_source,
+                "route_geometry": leg_geometry,
             })
 
             curr_lat = lat
@@ -240,9 +270,16 @@ class ItineraryBuilder:
             "total_distance_km": round(total_dist_km, 2),
             "total_travel_hours": round(total_travel_hours, 2),
             "total_emissions_kg": round(total_emissions_kg, 2),
+            "total_fare_inr": round(total_fare_inr, 2),
+            "total_cost_inr": round(total_cost_inr, 2),
             "baseline_car_emissions_kg": round(car_emissions, 2),
             "co2_savings_kg": round(saved_emissions, 2),
             "total_days": current_day,
             "optimization_used": optimize_for,
+            "routing_provider": (
+                "OpenRouteService (Live)"
+                if any(s.get("routing_source") == "openrouteservice" for s in stops_output)
+                else "Calibrated Heuristic (Offline)"
+            ),
             "warnings": warnings,
         }

@@ -1,0 +1,2308 @@
+﻿From,To,Operator,Distance,Duration,Bus Type,Departure,Arrival
+Sayra,Udaipur,Shreenath Travellers (Udr),120,0:3:0,Non A/c,05:00:00 PM,08:00:00 PM
+Kishangadh,Dungarpur,Kalpana Travels Pvt.Ltd.,420,0:12:0,Non A/c,10:30:00 PM,10:30:00 AM
+Kishangadh,Devgadh,shrinath travel agency,533,1:3:30,Non A/c,02:30:00 PM,06:00:00 PM
+Kishangadh,Beawer,shrinath travel agency,87,0:2:0,Non A/c,02:30:00 PM,04:30:00 PM
+Kishangadh,Beawer,Kalpana Travels Pvt.Ltd.,87,0:2:30,Non A/c,11:30:00 PM,02:00:00 AM
+Kishangadh,Beawer,Kalpana Travels Pvt.Ltd.,87,0:2:30,Non A/c,10:00:00 PM,12:30:00 AM
+Kishangadh,Beawer,Kalpana Travels Pvt.Ltd.,87,0:2:30,Non A/c,10:30:00 PM,01:00:00 AM
+Kishangadh,Nimbaheda,Kalpana Travels Pvt.Ltd.,240,0:6:0,Non A/c,08:30:00 PM,02:30:00 AM
+Kishangadh,Keshariyaji,Kalpana Travels Pvt.Ltd.,383,0:9:30,Non A/c,10:30:00 PM,08:00:00 AM
+Kishangadh,Ajmer,Kalpana Travels Pvt.Ltd.,31,0:1:0,Non A/c,10:30:00 PM,11:30:00 PM
+Kishangadh,Ajmer,Gujarat Travels-,31,0:1:30,A/c,07:00:00 PM,08:30:00 PM
+Kishangadh,Ajmer,Gujarat Travels-,31,0:1:30,A/c,10:00:00 PM,11:30:00 PM
+Kishangadh,Ajmer,Kalpana Travels Pvt.Ltd.,31,0:6:0,Non A/c,11:30:00 PM,05:30:00 AM
+Kishangadh,Ajmer,shrinath travel agency,31,0:1:0,Non A/c,02:30:00 PM,03:30:00 PM
+Kishangadh,Ajmer,Kalpana Travels Pvt.Ltd.,31,0:1:0,Non A/c,08:00:00 PM,09:00:00 PM
+Kishangadh,Ajmer,Kalpana Travels Pvt.Ltd.,31,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Kishangadh,Bhim,shrinath travel agency,138,0:3:0,Non A/c,02:30:00 PM,05:30:00 PM
+Kishangadh,Bhim,Kalpana Travels Pvt.Ltd.,138,0:2:30,Non A/c,10:30:00 PM,01:00:00 AM
+Kishangadh,Nasirabad,Gujarat Travels-,35,0:2:0,A/c,07:00:00 PM,09:00:00 PM
+Kishangadh,Nasirabad,Gujarat Travels-,35,0:2:0,A/c,10:00:00 PM,12:00:00 AM
+Kishangadh,SojatCity,Kalpana Travels Pvt.Ltd.,180,0:4:30,Non A/c,11:30:00 PM,04:00:00 AM
+Kishangadh,SojatCity,Kalpana Travels Pvt.Ltd.,160,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Kishangadh,SojatCity,Kalpana Travels Pvt.Ltd.,160,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Kishangadh,Udaipur,shrinath travel agency,280,0:7:0,Non A/c,02:30:00 PM,09:30:00 PM
+Kishangadh,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,10:30:00 PM,07:30:00 AM
+Kishangadh,Udaipur,Kalpana Travels Pvt.Ltd.,340,0:8:30,Non A/c,10:00:00 PM,06:30:00 AM
+Kishangadh,Udaipur,Gujarat Travels-,280,0:7:0,A/c,10:00:00 PM,05:00:00 AM
+Kishangadh,Udaipur,Gujarat Travels-,280,0:7:0,A/c,07:00:00 PM,02:00:00 AM
+Kishangadh,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,103,0:2:0,A/c,05:35:00 AM,07:35:00 AM
+Kishangadh,Jaipur,shree rishabh travels,103,0:2:30,Non A/c,09:00:00 PM,11:30:00 PM
+Kishangadh,Bhilwara,Gujarat Travels-,148,0:4:0,A/c,10:00:00 PM,02:00:00 AM
+Kishangadh,Bhilwara,Kalpana Travels Pvt.Ltd.,148,0:3:42,Non A/c,08:30:00 PM,12:12:00 AM
+Kishangadh,Bhilwara,Gujarat Travels-,148,0:4:0,A/c,07:00:00 PM,11:00:00 PM
+Kishangadh,Chittor,Gujarat Travels-,206,0:5:30,A/c,10:00:00 PM,03:30:00 AM
+Kishangadh,Chittor,Gujarat Travels-,206,0:5:30,A/c,07:00:00 PM,12:30:00 AM
+Kishangadh,Pali,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,10:00:00 PM,03:00:00 AM
+Kishangadh,Pali,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,10:30:00 PM,04:00:00 AM
+Kishangadh,Pali,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,11:30:00 PM,05:00:00 AM
+Kishangadh,Pushkar,Kalpana Travels Pvt.Ltd.,43,0:1:30,Non A/c,08:00:00 PM,09:30:00 PM
+Kishangadh,Sirohi,Kalpana Travels Pvt.Ltd.,330,0:8:0,Non A/c,10:00:00 PM,06:00:00 AM
+Kishangadh,AbuRoad,Kalpana Travels Pvt.Ltd.,366,0:9:30,Non A/c,10:00:00 PM,07:30:00 AM
+Kishangadh,AbuRoad,Kalpana Travels Pvt.Ltd.,366,0:9:9,Non A/c,08:30:00 PM,05:39:00 AM
+Kishangadh,AbuRoad,Kalpana Travels Pvt.Ltd.,366,0:9:9,Non A/c,07:30:00 PM,04:39:00 AM
+Gandhidham,Sirohi,shrinath travel agency,394,0:7:0,Non A/c,05:15:00 PM,12:15:00 AM
+Gandhidham,Ajmer,shrinath travel agency,690,0:14:0,Non A/c,05:15:00 PM,07:15:00 AM
+Gandhidham,Nathdwara,Om Sainath Travels,524,0:13:6,A/c,11:00:00 PM,12:06:00 PM
+Gandhidham,Pali,shrinath travel agency,410,0:10:15,Non A/c,05:15:00 PM,03:30:00 AM
+Gandhidham,SojatCity,shrinath travel agency,440,0:11:0,Non A/c,05:15:00 PM,04:15:00 AM
+Gandhidham,Beawer,shrinath travel agency,637,0:13:0,Non A/c,05:15:00 PM,06:15:00 AM
+Gandhidham,Udaipur,Om Sainath Travels,278,0:6:57,A/c,11:00:00 PM,05:57:00 AM
+Gandhidham,AbuRoad,Om Sainath Travels,359,0:8:59,A/c,11:00:00 PM,07:59:00 AM
+Rajkot,Nathdwara,Mahasagar Travels LTD.,539,0:13:29,Luxury A/C,04:15:00 PM,02:35:00 PM
+Rajkot,Nathdwara,Parshwanath Travel Agency,539,0:11:15,Luxury,05:30:00 PM,04:45:00 AM
+Rajkot,Nathdwara,Mahasagar Travels LTD.,539,0:13:29,Luxury,06:15:00 PM,04:30:00 PM
+Rajkot,Sirohi,shrinath travel agency,438,0:9:0,Non A/c,06:30:00 PM,03:30:00 AM
+Rajkot,Beawer,shrinath travel agency,655,0:14:0,Non A/c,03:00:00 PM,05:00:00 AM
+Rajkot,AbuRoad,shrinath travel agency,376,0:8:0,Non A/c,06:30:00 PM,02:30:00 AM
+Rajkot,Keshariyaji,Mahasagar Travels LTD.,421,0:10:32,Luxury A/C,04:15:00 PM,02:35:00 PM
+Rajkot,Keshariyaji,Mahasagar Travels LTD.,421,0:10:32,Luxury,06:15:00 PM,04:30:00 PM
+Rajkot,Bhim,shrinath travel agency,602,0:13:0,Non A/c,03:00:00 PM,04:00:00 AM
+Rajkot,Jaipur,shrinath travel agency,837,0:17:0,Non A/c,03:00:00 PM,08:00:00 AM
+Rajkot,Jodhpur,shrinath travel agency,635,0:12:0,Non A/c,06:30:00 PM,06:30:00 AM
+Rajkot,Ajmer,shrinath travel agency,707,0:14:20,Non A/c,03:00:00 PM,05:20:00 AM
+Rajkot,Kishangadh,shrinath travel agency,738,0:15:0,Non A/c,03:00:00 PM,06:00:00 AM
+Rajkot,Pali,shrinath travel agency,460,0:11:30,Non A/c,06:30:00 PM,06:00:00 AM
+Rajkot,Udaipur,Parshwanath Travel Agency,400,0:10:0,Luxury,05:30:00 PM,03:30:00 AM
+Rajkot,Udaipur,Mahasagar Travels LTD.,231,0:5:47,Luxury,06:15:00 PM,04:30:00 PM
+Rajkot,Udaipur,shrinath travel agency,400,0:10:0,Non A/c,07:00:00 PM,05:00:00 AM
+Rajkot,Udaipur,shrinath travel agency-brand new lcd coach,380,0:9:30,A/c,04:30:00 PM,02:00:00 AM
+Rajkot,Udaipur,shree parshwanath travels,320,0:8:0,Non A/c,05:00:00 PM,01:00:00 AM
+Rajkot,Udaipur,Paavan travels,360,0:9:0,Non A/c,05:00:00 PM,02:00:00 AM
+Rajkot,Udaipur,Mahasagar Travels LTD.,231,0:5:47,Luxury A/C,04:15:00 PM,02:35:00 PM
+Rajkot,Udaipur,shrinath travel agency,420,0:10:30,Non A/c,03:00:00 PM,01:30:00 AM
+Rajkot,Kakroli,Parshwanath Travel Agency,554,0:12:0,Luxury,05:30:00 PM,05:30:00 AM
+Rajkot,Kakroli,shrinath travel agency-brand new lcd coach,554,0:11:30,A/c,04:30:00 PM,04:00:00 AM
+Rajkot,Kakroli,shree parshwanath travels,554,0:10:30,Non A/c,05:00:00 PM,03:30:00 AM
+Rajkot,Devgadh,shrinath travel agency,356,0:12:20,Non A/c,03:00:00 PM,03:20:00 AM
+Rajkot,Bhilwara,Parshwanath Travel Agency,650,0:14:0,Luxury,05:30:00 PM,07:30:00 AM
+Rajkot,Bhilwara,shree parshwanath travels,650,0:12:30,Non A/c,05:00:00 PM,05:30:00 AM
+Rajkot,Bhilwara,shrinath travel agency-brand new lcd coach,650,0:14:0,A/c,04:30:00 PM,06:30:00 AM
+Bhim,Jaipur,shrinath travel agency-brand new lcd coach,237,0:4:15,Non A/c,10:15:00 PM,02:30:00 AM
+Bhim,Beawer,shrinath travel agency-brand new lcd coach,55,0:1:15,Non A/c,10:15:00 PM,11:30:00 PM
+Bhim,Devgadh,shrinath travel agency,441,1:1:0,Non A/c,06:30:00 PM,07:30:00 PM
+Bhim,Udaipur,shrinath travel agency,120,0:3:0,Non A/c,06:30:00 PM,09:30:00 PM
+Bhim,Ajmer,shrinath travel agency-brand new lcd coach,107,0:2:15,Non A/c,10:15:00 PM,12:30:00 AM
+Pushkar,Jaipur,shree rishabh travels,142,0:4:25,Non A/c,07:30:00 PM,11:55:00 PM
+Pushkar,Ajmer,shree rishabh travels,15,0:0:30,Non A/c,07:30:00 PM,08:00:00 PM
+Deoli,Jhalawar,Hans Travels Indore-,153,0:3:50,Non A/c,11:00:00 PM,02:50:00 AM
+RajNagar,Ajmer,Natraj Travels-,717,1:4:10,Non A/c,11:30:00 PM,03:40:00 AM
+RajNagar,Kishangadh,Natraj Travels-,690,1:4:40,Non A/c,11:30:00 PM,04:10:00 AM
+RajNagar,Jaipur,Natraj Travels-,593,0:7:10,Non A/c,11:30:00 PM,06:40:00 AM
+RajNagar,Jaipur,Rishabh Travels,593,1:2:0,Non A/c,08:20:00 PM,10:20:00 PM
+RajNagar,Jaipur,rishabh travels,593,1:2:0,Non A/c,08:20:00 PM,10:20:00 PM
+RajNagar,Beawer,Natraj Travels-,735,1:3:0,Non A/c,11:30:00 PM,02:30:00 AM
+Kamrej,Kakroli,shrinath travel agency,521,0:13:0,Non A/c,02:30:00 PM,03:30:00 AM
+Lucknow,Jaipur,UPSRTC,565,0:13:30,VOLVO,05:00:00 PM,06:30:00 AM
+Vapi,Bhilwara,shrinath travel agency,736,0:18:24,Non A/c,09:00:00 PM,03:24:00 PM
+Vapi,Bhilwara,shreenath travellers,736,0:13:0,Non A/c,03:10:00 PM,04:10:00 AM
+Vapi,Bhilwara,shreenath travellers,736,0:18:24,Non A/c,06:30:00 PM,12:54:00 PM
+Vapi,Bhilwara,shrinath travel agency-brand new ac coach,736,0:14:0,A/c,10:00:00 PM,12:00:00 PM
+Vapi,Kherwara,Neeta Tours and Travels,491,0:10:0,B9R Multi-Axle Semi Sleeper Volvo A/C,11:00:00 PM,09:00:00 AM
+Vapi,Kherwara,Neeta Tours and Travels,491,0:9:50,B9R Multi-Axle Semi Sleeper Volvo A/C,11:50:00 PM,09:40:00 AM
+Vapi,Udaipur,shrinath travel agency-brand new ac coach,420,0:10:30,A/c,10:00:00 PM,08:30:00 AM
+Vapi,Udaipur,shrinath travel agency,463,0:11:35,Non A/c,09:00:00 PM,08:35:00 AM
+Vapi,Udaipur,shreenath travellers,208,0:5:12,Non A/c,06:30:00 PM,11:42:00 PM
+Vapi,Udaipur,shreenath travellers,440,0:11:0,Non A/c,03:10:00 PM,02:10:00 AM
+Vapi,Udaipur,Neeta Tours and Travels,413,0:10:20,B9R Multi-Axle Semi Sleeper Volvo A/C,11:50:00 PM,10:10:00 AM
+Vapi,Udaipur,Neeta Tours and Travels,440,0:11:0,B9R Multi-Axle Semi Sleeper Volvo A/C,11:00:00 PM,10:00:00 AM
+Vapi,Udaipur,shrinath travel agency-brand new lcd coach,500,0:12:30,A/c,08:00:00 PM,08:30:00 AM
+Vapi,Udaipur,Eagle Travel Agency (Eagle Bus),423,0:10:35,"2+1, Volvo Sleeper, AC",11:55:00 PM,10:30:00 AM
+Vapi,Kakroli,shreenath travellers,640,0:12:30,Non A/c,03:10:00 PM,03:40:00 AM
+Vapi,Kakroli,shrinath travel agency,640,0:16:0,Non A/c,09:00:00 PM,01:00:00 PM
+Vapi,Kakroli,shreenath travellers,640,0:16:0,Non A/c,06:30:00 PM,10:30:00 AM
+Vapi,Kakroli,shrinath travel agency-brand new ac coach,640,0:12:0,A/c,10:00:00 PM,10:00:00 AM
+Vapi,Keshariyaji,shreenath travellers,507,0:10:15,Non A/c,03:10:00 PM,01:25:00 AM
+Vapi,Keshariyaji,Neeta Tours and Travels,507,0:9:30,B9R Multi-Axle Semi Sleeper Volvo A/C,11:00:00 PM,08:30:00 AM
+Vapi,Keshariyaji,Neeta Tours and Travels,507,0:9:20,B9R Multi-Axle Semi Sleeper Volvo A/C,11:50:00 PM,09:10:00 AM
+Vapi,Nathdwara,Neeta Tours and Travels,625,0:11:20,B9R Multi-Axle Semi Sleeper Volvo A/C,11:50:00 PM,11:10:00 AM
+Vapi,Nathdwara,Eagle Travel Agency (Eagle Bus),625,0:11:35,"2+1, Volvo Sleeper, AC",11:55:00 PM,11:30:00 AM
+Vapi,Nathdwara,Neeta Tours and Travels,625,0:12:0,B9R Multi-Axle Semi Sleeper Volvo A/C,11:00:00 PM,11:00:00 AM
+Chittor,Kapasan,Karnavati Travels,38,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Chittor,Kapasan,Rajshri Travels Agency_Bhilwara,38,0:0:57,Non A/c,09:30:00 PM,10:27:00 PM
+Chittor,Kota,rishabh travels,168,0:4:20,Non A/c,11:40:00 PM,04:00:00 AM
+Chittor,Jhalrapatan,rishabh travels,214,0:8:0,Non A/c,11:40:00 PM,07:40:00 AM
+Chittor,Fatehnagar,Rajshri Travels Agency_Bhilwara,66,0:1:39,Non A/c,09:30:00 PM,11:09:00 PM
+Chittor,Bhilwara,Gujarat Travels-Toilet facility,54,0:1:0,A/c,09:00:00 AM,10:00:00 AM
+Chittor,Bhilwara,shrinath travel agency-brand new lcd coach,54,0:2:0,A/c,04:30:00 AM,06:30:00 AM
+Chittor,Bhilwara,shree parshwanath travels,54,0:2:0,A/c,09:00:00 PM,11:00:00 PM
+Chittor,Bhilwara,rishabh travels-brand new lcd coach,54,0:1:0,A/c,09:00:00 PM,10:00:00 PM
+Chittor,Bhilwara,shrinath travel agency,54,0:1:0,Volvo  A/c,10:00:00 PM,11:00:00 PM
+Chittor,Bhilwara,Rishabh Travels,54,0:1:21,A/c,12:00:00 AM,01:21:00 AM
+Chittor,Bhilwara,shrinath travel agency-brandnew volvo coac,54,0:1:0,Volvo  A/c,10:00:00 PM,11:00:00 PM
+Chittor,Bhilwara,shrinath travel agency-brand new lcd coach,54,0:1:30,A/c,09:30:00 PM,11:00:00 PM
+Chittor,Bhilwara,Rishabh Travels,54,0:1:0,A/c,08:45:00 PM,09:45:00 PM
+Chittor,Bhilwara,shrinath travel agency-brand new lcd coach,54,0:1:30,Non A/c,07:00:00 PM,08:30:00 PM
+Chittor,Bhilwara,rishabh travels-new ac sleeper,54,0:1:21,A/c,12:00:00 AM,01:21:00 AM
+Chittor,Kherwara,Namdev Travels-,199,0:5:0,Non A/c,08:30:00 PM,01:30:00 AM
+Chittor,Kherwara,Shreeji Travel Agency-Eagle,199,0:4:30,A/c,10:30:00 PM,03:00:00 AM
+Chittor,Udaipur,Gujarat Travels-,60,0:1:30,A/c,03:30:00 AM,05:00:00 AM
+Chittor,Udaipur,Karnavati Travels,40,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Chittor,Udaipur,Gujarat Travels-,60,0:1:30,A/c,12:30:00 AM,02:00:00 AM
+Chittor,Udaipur,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,11:30:00 PM,01:30:00 AM
+Chittor,Udaipur,Rajshri Travels Agency_Bhilwara,208,0:5:12,Non A/c,09:30:00 PM,02:42:00 AM
+Chittor,Udaipur,Shreeji Travel Agency-Eagle,100,0:2:30,A/c,10:30:00 PM,01:00:00 AM
+Chittor,Udaipur,Namdev Travels-,120,0:3:0,Non A/c,08:30:00 PM,11:30:00 PM
+Chittor,Nimbaheda,Rajlaxmi Travel Agency,35,0:0:53,Non A/c,06:15:00 PM,07:08:00 PM
+Chittor,Jaipur,Rishabh Travels,305,0:7:38,A/c,12:00:00 AM,07:38:00 AM
+Chittor,Jaipur,shrinath travel agency,305,0:5:0,Volvo  A/c,10:00:00 PM,03:00:00 AM
+Chittor,Jaipur,shrinath travel agency-brand new lcd coach,305,0:7:0,Non A/c,07:00:00 PM,02:00:00 AM
+Chittor,Jaipur,Gujarat Travels-Toilet facility,305,0:7:0,A/c,09:00:00 AM,04:00:00 PM
+Chittor,Jaipur,shrinath travel agency-brandnew volvo coac,305,0:5:0,Volvo  A/c,10:00:00 PM,03:00:00 AM
+Chittor,Jaipur,rishabh travels-brand new lcd coach,305,0:8:0,A/c,09:00:00 PM,05:00:00 AM
+Chittor,Jaipur,shrinath travel agency-brand new lcd coach,305,0:6:0,A/c,04:30:00 AM,10:30:00 AM
+Chittor,Jaipur,shrinath travel agency-brand new lcd coach,305,0:6:0,A/c,09:30:00 PM,03:30:00 AM
+Chittor,Jaipur,shree parshwanath travels,305,0:4:40,A/c,09:00:00 PM,01:40:00 AM
+Chittor,Jaipur,rishabh travels-new ac sleeper,305,0:7:38,A/c,12:00:00 AM,07:38:00 AM
+Chittor,Mavli,Karnavati Travels,101,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Junagadh,Nathdwara,Mahasagar Travels LTD.,640,0:16:0,Luxury,04:30:00 PM,04:30:00 PM
+Junagadh,Nathdwara,Mahasagar Travels LTD.,640,0:16:0,Luxury A/C,02:35:00 PM,02:35:00 PM
+Junagadh,Keshariyaji,Mahasagar Travels LTD.,522,0:13:3,Luxury A/C,02:35:00 PM,02:35:00 PM
+Junagadh,Keshariyaji,Mahasagar Travels LTD.,522,0:13:3,Luxury,04:30:00 PM,04:30:00 PM
+Junagadh,Udaipur,Mahasagar Travels LTD.,255,0:6:23,Luxury,04:30:00 PM,04:30:00 PM
+Junagadh,Udaipur,Mahasagar Travels LTD.,255,0:6:23,Luxury A/C,02:35:00 PM,02:35:00 PM
+Nathdwara(Shrinathji),Jaipur,Parshwanath Travel Agency,348,0:7:30,Luxury,01:35:00 AM,09:05:00 AM
+Nathdwara(Shrinathji),Jaipur,Seema Pooja Travels(Ptc),348,0:6:0,Non A/c,12:00:00 AM,06:00:00 AM
+Nathdwara(Shrinathji),Pali,Rishabh Travels,102,0:2:33,Non A/c,10:45:00 PM,01:18:00 AM
+Nathdwara(Shrinathji),Jodhpur,Rishabh Travels,216,0:5:24,Non A/c,10:45:00 PM,04:09:00 AM
+Nathdwara(Shrinathji),Beawar,Parshwanath Travel Agency,165,0:3:45,Luxury,01:35:00 AM,05:20:00 AM
+Nathdwara(Shrinathji),Beawar,Shreenath Travellers (Udr),165,0:3:0,Non A/c,02:00:00 PM,05:00:00 PM
+Nathdwara(Shrinathji),Bhim,Shreenath Travellers (Udr),112,0:1:30,Non A/c,02:00:00 PM,03:30:00 PM
+Nathdwara(Shrinathji),Ajmer,Shreenath Travellers (Udr),218,0:5:0,Non A/c,02:00:00 PM,07:00:00 PM
+Nathdwara(Shrinathji),Ajmer,Parshwanath Travel Agency,218,0:5:0,Luxury,01:35:00 AM,06:35:00 AM
+Nathdwara(Shrinathji),Udaipur,Parshwanath Travel Agency,50,0:1:15,VOLVO A/C,01:00:00 PM,02:15:00 PM
+Nathdwara(Shrinathji),Udaipur,Shreenath Travellers (Udr),370,0:9:15,Non A/c,04:30:00 PM,01:45:00 AM
+Nathdwara(Shrinathji),Udaipur,Parshwanath Travel Agency,50,0:1:15,VOLVO A/C,03:05:00 PM,04:20:00 PM
+Nathdwara(Shrinathji),Udaipur,Parshwanath Travel Agency,60,0:1:30,Luxury A/C,02:00:00 PM,03:30:00 PM
+Nathdwara(Shrinathji),Udaipur,Parshwanath Travel Agency,50,0:1:15,VOLVO A/C,07:05:00 AM,08:20:00 AM
+Nathdwara(Shrinathji),Udaipur,Sai Rath Travels,40,0:1:0,Non A/c,11:00:00 AM,12:00:00 PM
+Nathdwara(Shrinathji),Udaipur,Paras Travels,67,0:1:40,Non A/c,06:30:00 AM,08:10:00 AM
+Nathdwara(Shrinathji),Udaipur,Parshwanath Travel Agency,60,0:1:30,Luxury A/C,09:30:00 PM,11:00:00 PM
+Nathdwara(Shrinathji),Udaipur,Paras Travels,70,0:1:45,Non A/c,08:45:00 PM,10:30:00 PM
+Nathdwara(Shrinathji),AbuRoad,Om Sainath Travels,169,0:5:0,A/c,03:00:00 PM,08:00:00 PM
+Nathdwara(Shrinathji),Bikaner,Rishabh Travels,437,1:4:10,Non A/c,07:20:00 PM,11:30:00 PM
+Sojat City,Bhilwara,Rajlaxmi Travel Agency,240,0:6:0,Non A/c,04:00:00 PM,10:00:00 PM
+Sojat City,Sirohi,shrinath travel agency,194,0:4:51,Non A/c,07:00:00 PM,11:51:00 PM
+Sojat City,Chittor,Rajlaxmi Travel Agency,300,0:7:30,Non A/c,04:00:00 PM,11:30:00 PM
+Dungarpur,Pali,rishabh travels-JAKHAR A/C COAC,280,0:7:0,A/c,07:15:00 PM,02:15:00 AM
+Dungarpur,Jodhpur,rishabh travels-JAKHAR A/C COAC,366,0:9:0,A/c,07:15:00 PM,04:15:00 AM
+Dungarpur,Udaipur,rishabh travels-JAKHAR A/C COAC,120,0:3:0,A/c,07:15:00 PM,10:15:00 PM
+Dungarpur,Udaipur,Rishabh Travels,120,0:3:0,Non A/c,07:15:00 PM,10:15:00 PM
+Dungarpur,Sirohi,rishabh travels-JAKHAR A/C COAC,208,0:5:0,A/c,07:15:00 PM,12:15:00 AM
+Kottayam,Kota,Sri Durgamba Travels,2297,1:16:35,2+2 Pushback Luxury Seater,03:30:00 PM,08:05:00 AM
+Nimbahera,Chittaurgarh,Parshwanath Travel Agency,35,0:0:55,Luxury,09:05:00 PM,10:00:00 PM
+Nimbahera,Udaipur,Parshwanath Travel Agency,137,0:3:25,Luxury,09:05:00 PM,12:30:00 AM
+Vijaynagar,Chittor,Gujarat Travels-,90,0:2:15,A/c,01:15:00 AM,03:30:00 AM
+Vijaynagar,Chittor,Gujarat Travels-,90,0:2:15,A/c,10:15:00 PM,12:30:00 AM
+Vijay Nagar,Chittor,shrinath travel agency,100,0:2:30,Volvo  A/c,11:15:00 PM,01:45:00 AM
+Vijay Nagar,Chittor,shrinath travel agency-brand new lcd coach,140,0:3:30,A/c,08:00:00 PM,11:30:00 PM
+Vijay Nagar,Chittor,shrinath travel agency-brandnew volvo coac,100,0:2:30,Volvo  A/c,11:15:00 PM,01:45:00 AM
+Vijay Nagar,Chittor,shrinath travel agency-brandnew volvo coac,100,0:2:30,Volvo  A/c,11:30:00 PM,02:00:00 AM
+Vijay Nagar,Ajmer,shree rishabh travels-batco group,80,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+Vijay Nagar,Jaipur,shrinath travel agency-brand new lcd coach,160,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Vijay Nagar,Jaipur,shrinath travel agency-brand new lcd coach,100,0:2:30,A/c,07:00:00 AM,09:30:00 AM
+Vijay Nagar,Jaipur,shrinath travel agency,110,0:2:45,Volvo  A/c,12:15:00 AM,03:00:00 AM
+Vijay Nagar,Jaipur,shrinath travel agency-brandnew volvo coac,110,0:2:45,Volvo  A/c,12:15:00 AM,03:00:00 AM
+Vijay Nagar,Jaipur,shrinath travel agency-brand new lcd coach,140,0:3:30,Non A/c,11:30:00 PM,03:00:00 AM
+Vijay Nagar,Jaipur,shrinath travel agency,140,0:3:30,Non A/c,11:00:00 PM,02:30:00 AM
+Vijaynagar,Udaipur,Gujarat Travels-,150,0:3:45,A/c,01:15:00 AM,05:00:00 AM
+Vijaynagar,Udaipur,Gujarat Travels-,150,0:3:45,A/c,10:15:00 PM,02:00:00 AM
+Vijay Nagar,Udaipur,shrinath travel agency-brandnew volvo coac,180,0:4:30,Volvo  A/c,11:15:00 PM,03:45:00 AM
+Vijay Nagar,Udaipur,shrinath travel agency-brand new lcd coach,220,0:5:30,A/c,08:00:00 PM,01:30:00 AM
+Vijay Nagar,Udaipur,shrinath travel agency-brandnew volvo coac,160,0:4:0,Volvo  A/c,11:30:00 PM,03:30:00 AM
+Vijay Nagar,Udaipur,shrinath travel agency,180,0:4:30,Volvo  A/c,11:15:00 PM,03:45:00 AM
+Vijaynagar,Bhilwara,Gujarat Travels-,30,0:0:45,A/c,01:15:00 AM,02:00:00 AM
+Vijaynagar,Bhilwara,Gujarat Travels-,30,0:0:45,A/c,10:15:00 PM,11:00:00 PM
+Vijay Nagar,Bhilwara,shrinath travel agency-brandnew volvo coac,60,0:1:30,Volvo  A/c,11:15:00 PM,12:45:00 AM
+Vijay Nagar,Bhilwara,shrinath travel agency,60,0:1:30,Volvo  A/c,11:15:00 PM,12:45:00 AM
+Vijay Nagar,Bhilwara,shrinath travel agency-brandnew volvo coac,60,0:1:30,Volvo  A/c,11:30:00 PM,01:00:00 AM
+Vijay Nagar,Bhilwara,shrinath travel agency-brand new lcd coach,100,0:2:30,A/c,08:00:00 PM,10:30:00 PM
+Palanpur,AbuRoad,Gujarat Travels-BRAND NEW LCD COACH,57,0:1:0,A/c,02:00:00 AM,03:00:00 AM
+Palanpur,AbuRoad,punjab travels,57,0:2:0,Non A/c,08:00:00 PM,10:00:00 PM
+Palanpur,AbuRoad,Punjab Travels,57,0:2:0,Non A/c,08:15:00 PM,10:15:00 PM
+Palanpur,Naukha,punjab travels,507,0:8:0,Non A/c,08:00:00 PM,04:00:00 AM
+Palanpur,Bikaner,punjab travels,592,0:11:15,Non A/c,08:00:00 PM,07:15:00 AM
+Palanpur,Pali,Gujarat Travels-BRAND NEW LCD COACH,210,0:5:15,A/c,02:00:00 AM,07:15:00 AM
+Palanpur,Pali,punjab travels,260,0:6:30,Non A/c,08:00:00 PM,02:30:00 AM
+Palanpur,Jodhpur,punjab travels,311,0:7:30,Non A/c,08:00:00 PM,03:30:00 AM
+Palanpur,Jodhpur,Gujarat Travels-BRAND NEW LCD COACH,311,0:6:30,A/c,02:00:00 AM,08:30:00 AM
+Palanpur,Sirohi,punjab travels,126,0:3:0,Non A/c,08:00:00 PM,11:00:00 PM
+Palanpur,Sirohi,Punjab Travels,126,0:3:0,Non A/c,08:15:00 PM,11:15:00 PM
+Palanpur,Sirohi,Gujarat Travels-BRAND NEW LCD COACH,126,0:2:0,A/c,02:00:00 AM,04:00:00 AM
+Anand,Ajmer,shrinath travel agency,557,0:12:0,Non A/c,07:00:00 PM,07:00:00 AM
+Anand,Bhim,shrinath travel agency,452,0:10:30,Non A/c,07:00:00 PM,05:30:00 AM
+Anand,Amet,shrinath travel agency,392,0:7:15,Non A/c,09:00:00 PM,04:15:00 AM
+Anand,Kishangadh,shrinath travel agency,603,0:14:0,Non A/c,07:00:00 PM,09:00:00 AM
+Anand,Sirohi,shrinath travel agency,335,0:9:0,Non A/c,10:00:00 PM,07:00:00 AM
+Anand,Jaipur,shrinath travel agency,702,0:15:0,Non A/c,07:00:00 PM,10:00:00 AM
+Anand,AbuRoad,shrinath travel agency,265,0:8:0,Non A/c,10:00:00 PM,06:00:00 AM
+Anand,Beawer,shrinath travel agency,505,0:11:0,Non A/c,07:00:00 PM,06:00:00 AM
+Anand,Bhilwara,shrinath travel agency-brand new lcd coach,451,0:10:0,A/c,10:15:00 PM,08:15:00 AM
+Anand,Udaipur,shrinath travel agency-brand new lcd coach,240,0:6:0,A/c,10:15:00 PM,04:15:00 AM
+Anand,Udaipur,shrinath travel agency,180,0:4:30,Non A/c,09:00:00 PM,01:30:00 AM
+Anand,Udaipur,shrinath travel agency,240,0:6:0,Non A/c,07:00:00 PM,01:00:00 AM
+Anand,Kakroli,shrinath travel agency,355,0:8:53,Non A/c,07:00:00 PM,03:53:00 AM
+Anand,Kakroli,shrinath travel agency-brand new lcd coach,355,0:8:0,A/c,10:15:00 PM,06:15:00 AM
+Anand,Kakroli,shrinath travel agency,355,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Nadiad,Amet,shrinath travel agency,372,0:6:30,Non A/c,10:00:00 PM,04:30:00 AM
+Nadiad,Kishangadh,shrinath travel agency,584,1:5:0,Non A/c,07:00:00 PM,12:00:00 AM
+Nadiad,Jaipur,shrinath travel agency,683,0:8:0,Non A/c,07:00:00 PM,03:00:00 AM
+Nadiad,Bhim,shrinath travel agency,432,0:7:0,Non A/c,07:00:00 PM,02:00:00 AM
+Nadiad,Ajmer,shrinath travel agency,537,0:7:15,Non A/c,07:00:00 PM,02:15:00 AM
+Nadiad,Sirohi,shrinath travel agency,317,0:8:30,Non A/c,10:30:00 PM,07:00:00 AM
+Nadiad,AbuRoad,shrinath travel agency,246,0:7:30,Non A/c,10:30:00 PM,06:00:00 AM
+Nadiad,Kakroli,shrinath travel agency-brand new lcd coach,336,0:7:30,A/c,10:30:00 PM,06:00:00 AM
+Nadiad,Kakroli,shrinath travel agency,336,0:6:15,Non A/c,07:00:00 PM,01:15:00 AM
+Nadiad,Kakroli,shrinath travel agency,336,0:5:0,Non A/c,10:00:00 PM,03:00:00 AM
+Nadiad,Beawer,shrinath travel agency,485,0:7:15,Non A/c,07:00:00 PM,02:15:00 AM
+Nadiad,Bhilwara,shrinath travel agency-brand new lcd coach,432,0:9:30,A/c,10:30:00 PM,08:00:00 AM
+Nadiad,Udaipur,shrinath travel agency-brand new lcd coach,220,0:5:30,A/c,10:30:00 PM,04:00:00 AM
+Nadiad,Udaipur,shrinath travel agency,160,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Nadiad,Udaipur,shrinath travel agency,190,0:4:45,Non A/c,07:00:00 PM,11:45:00 PM
+Adipur,Udaipur,Om Sainath Travels,278,0:6:57,A/c,10:30:00 PM,05:27:00 AM
+Adipur,Nathdwara,Om Sainath Travels,527,0:13:11,A/c,10:30:00 PM,11:41:00 AM
+Adipur,AbuRoad,Om Sainath Travels,362,0:9:3,A/c,10:30:00 PM,07:33:00 AM
+Abu Road,Pali,Gujarat Travels-,140,0:3:30,Non A/c,07:15:00 PM,10:45:00 PM
+Abu Road,Pali,Gujarat Travels-,153,0:3:50,Non A/c,08:45:00 AM,12:35:00 PM
+Abu Road,Pali,Gujarat Travels-BRAND NEW LCD COACH,170,0:4:15,A/c,03:00:00 AM,07:15:00 AM
+Abu Road,Udaipur,Gujarat Travels-,140,0:3:30,Non A/c,04:00:00 PM,07:30:00 PM
+Abu Road,Udaipur,Gujarat Travels-,180,0:4:30,Non A/c,09:30:00 AM,02:00:00 PM
+Abu Road,Kishangadh,Gujarat Travels-,366,0:6:30,Non A/c,07:15:00 PM,01:45:00 AM
+Abu Road,Jodhpur,Gujarat Travels-,257,0:5:20,Non A/c,08:45:00 AM,02:05:00 PM
+Abu Road,Jodhpur,Gujarat Travels-BRAND NEW LCD COACH,257,0:5:30,A/c,03:00:00 AM,08:30:00 AM
+Abu Road,Beawer,Gujarat Travels-,282,0:4:30,Non A/c,07:15:00 PM,11:45:00 PM
+Abu Road,Jaipur,Gujarat Travels-,465,0:8:0,Non A/c,07:15:00 PM,03:15:00 AM
+Abu Road,Sirohi,Gujarat Travels-,72,0:1:5,Non A/c,08:45:00 AM,09:50:00 AM
+Abu Road,Sirohi,Gujarat Travels-BRAND NEW LCD COACH,72,0:1:0,A/c,03:00:00 AM,04:00:00 AM
+Abu Road,Sirohi,Gujarat Travels-,72,0:1:0,Non A/c,07:15:00 PM,08:15:00 PM
+Abu Road,Ajmer,Gujarat Travels-,335,0:5:30,Non A/c,07:15:00 PM,12:45:00 AM
+Ernakulam,Kota,Sri Durgamba Travels,2243,1:12:5,2+2 Pushback Luxury Seater,08:00:00 PM,08:05:00 AM
+Beawar,Bhilwara,Rajlaxmi Travel Agency,114,0:3:0,Non A/c,05:15:00 PM,08:15:00 PM
+Beawar,Nimbaheda,Rajlaxmi Travel Agency,206,0:5:0,Non A/c,05:15:00 PM,10:15:00 PM
+Beawar,Devgadh,shrinath travel agency,499,1:1:0,Non A/c,05:00:00 PM,06:00:00 PM
+Beawar,Chittor,Rajlaxmi Travel Agency,172,0:4:0,Non A/c,05:15:00 PM,09:15:00 PM
+Chotila,Bhilwara,shrinath travel agency-brand new lcd coach,606,0:13:0,A/c,05:30:00 PM,06:30:00 AM
+Chotila,Udaipur,shrinath travel agency,360,0:9:0,Non A/c,08:30:00 PM,05:30:00 AM
+Chotila,Udaipur,shrinath travel agency-brand new lcd coach,340,0:8:30,A/c,05:30:00 PM,02:00:00 AM
+Chotila,Kakroli,shrinath travel agency-brand new lcd coach,510,0:10:30,A/c,05:30:00 PM,04:00:00 AM
+Bikaner,Naukha,shrinath travel agency,62,0:1:0,Non A/c,05:00:00 PM,06:00:00 PM
+Bikaner,Naukha,shrinath travel agency,62,0:1:0,Non A/c,03:00:00 PM,04:00:00 PM
+Bikaner,Naukha,shrinath travel agency,62,0:1:0,A/c,07:00:00 PM,08:00:00 PM
+Bikaner,Naukha,shrinath travel agency,62,0:1:0,A/c,07:15:00 PM,08:15:00 PM
+Bikaner,AbuRoad,shrinath travel agency,558,0:9:30,Non A/c,05:00:00 PM,02:30:00 AM
+Bikaner,AbuRoad,shrinath travel agency,558,0:9:30,A/c,07:15:00 PM,04:45:00 AM
+Bikaner,AbuRoad,shrinath travel agency,558,0:9:0,Non A/c,03:00:00 PM,12:00:00 AM
+Bikaner,Pali,shrinath travel agency,240,0:6:0,Non A/c,03:00:00 PM,09:00:00 PM
+Bikaner,Pali,shrinath travel agency,263,0:6:35,Non A/c,05:00:00 PM,11:35:00 PM
+Bikaner,Pali,shrinath travel agency,263,0:6:35,A/c,07:15:00 PM,01:50:00 AM
+Bikaner,Sirohi,shrinath travel agency,487,0:8:30,A/c,07:15:00 PM,03:45:00 AM
+Bikaner,Sirohi,shrinath travel agency,487,0:8:30,Non A/c,05:00:00 PM,01:30:00 AM
+Bikaner,Sirohi,shrinath travel agency,487,0:8:0,Non A/c,03:00:00 PM,11:00:00 PM
+Bikaner,Jodhpur,shrinath travel agency,303,0:5:5,Non A/c,05:00:00 PM,10:05:00 PM
+Bikaner,Jodhpur,shrinath travel agency,303,0:5:0,Non A/c,03:00:00 PM,08:00:00 PM
+Bikaner,Jodhpur,shrinath travel agency,303,0:5:5,A/c,07:15:00 PM,12:20:00 AM
+Kanpur,Jaipur,UPSRTC,514,0:11:30,VOLVO,07:00:00 PM,06:30:00 AM
+Mumbai,Nathdwara,Eagle Travel Agency (Eagle Bus),785,0:16:30,"2+2, Multi Axle Volvo, AC, Video",07:00:00 PM,11:30:00 AM
+Mumbai,Nathdwara,Eagle Travel Agency (Eagle Bus),785,0:17:30,"2+1, Volvo Sleeper, AC",06:00:00 PM,11:30:00 AM
+Mumbai,Nathdwara,Neeta Tours and Travels,785,0:17:0,B9R Multi-Axle Semi Sleeper Volvo A/C,06:10:00 PM,11:10:00 AM
+Mumbai,Nathdwara,Neeta Tours and Travels,785,0:17:50,B9R Multi-Axle Semi Sleeper Volvo A/C,05:10:00 PM,11:00:00 AM
+Mumbai,Dungarpur,shrinath travel agency,650,0:15:30,Non A/c,01:30:00 PM,05:00:00 AM
+Mumbai,Mavli,speedking travel services,774,0:18:30,A/c,10:00:00 AM,04:30:00 AM
+Mumbai,Udaipur,speedking travel services-Mayur,560,0:14:0,Non A/c,02:00:00 PM,04:00:00 AM
+Mumbai,Udaipur,speedking travel services-shree shambhu karan,560,0:14:0,Non A/c,11:30:00 AM,01:30:00 AM
+Mumbai,Udaipur,Paavan travels,540,0:13:30,A/c,02:30:00 PM,04:00:00 AM
+Mumbai,Udaipur,Neeta Tours and Travels,640,0:16:0,B9R Multi-Axle Semi Sleeper Volvo A/C,06:10:00 PM,10:10:00 AM
+Mumbai,Udaipur,shrinath travel agency-brand new lcd coach,660,0:16:30,A/c,04:00:00 PM,08:30:00 AM
+Mumbai,Udaipur,Paavan travels-multi  axle volvo,540,0:13:30,A/c,06:00:00 PM,07:30:00 AM
+Mumbai,Udaipur,speedking travel services-shree shambhu karan,560,0:14:0,Non A/c,12:30:00 PM,02:30:00 AM
+Mumbai,Udaipur,speedking travel services,556,0:13:54,A/c,11:00:00 AM,12:54:00 AM
+Mumbai,Udaipur,speedking travel services,463,0:11:35,A/c,08:00:00 PM,07:35:00 AM
+Mumbai,Udaipur,Eagle Travel Agency (Eagle Bus),620,0:15:30,"2+2, Multi Axle Volvo, AC, Video",07:00:00 PM,10:30:00 AM
+Mumbai,Udaipur,Eagle Travel Agency (Eagle Bus),660,0:16:30,"2+1, Volvo Sleeper, AC",06:00:00 PM,10:30:00 AM
+Mumbai,Udaipur,shrinath travel agency,620,0:15:30,Non A/c,01:00:00 PM,04:30:00 AM
+Mumbai,Udaipur,Neeta Tours and Travels,673,0:16:50,B9R Multi-Axle Semi Sleeper Volvo A/C,05:10:00 PM,10:00:00 AM
+Mumbai,Udaipur,rishabh travels-rishabh,720,0:18:0,Non A/c  A/c,02:00:00 PM,08:00:00 AM
+Mumbai,Kakroli,speedking travel services,800,0:20:0,A/c,08:00:00 PM,04:00:00 PM
+Mumbai,Kakroli,speedking travel services,800,0:20:0,A/c,11:00:00 AM,07:00:00 AM
+Mumbai,Kakroli,Speedking Travel Services,800,0:20:0,A/c,10:00:00 AM,06:00:00 AM
+Mumbai,Fatehnagar,speedking travel services,787,0:19:0,A/c,10:00:00 AM,05:00:00 AM
+Mumbai,Amet,shrinath travel agency,837,0:19:0,Non A/c,01:00:00 PM,08:00:00 AM
+Mumbai,Keshariyaji,Neeta Tours and Travels,668,0:15:20,B9R Multi-Axle Semi Sleeper Volvo A/C,05:10:00 PM,08:30:00 AM
+Mumbai,Keshariyaji,Neeta Tours and Travels,668,0:15:0,B9R Multi-Axle Semi Sleeper Volvo A/C,06:10:00 PM,09:10:00 AM
+Mumbai,Kapasan,speedking travel services,813,0:20:30,A/c,10:00:00 AM,06:30:00 AM
+Mumbai,Bhilwara,Speedking Travel Services,896,0:22:24,A/c,10:00:00 AM,08:24:00 AM
+Mumbai,Bhilwara,speedking travel services,896,0:22:24,A/c,11:00:00 AM,09:24:00 AM
+Mumbai,Bhilwara,speedking travel services,896,0:22:24,A/c,08:00:00 PM,06:24:00 PM
+Mumbai,Jhalawar,Eagle Travel Agency (Eagle Bus),806,0:8:45,"1+2, Sleeper, AC",08:15:00 PM,05:00:00 AM
+Mumbai,Kherwara,Neeta Tours and Travels,651,0:15:30,B9R Multi-Axle Semi Sleeper Volvo A/C,06:10:00 PM,09:40:00 AM
+Mumbai,Kherwara,Neeta Tours and Travels,651,0:15:50,B9R Multi-Axle Semi Sleeper Volvo A/C,05:10:00 PM,09:00:00 AM
+Delhi,Beawer,shree rishabh travels-UDr.cross.to.amd.se,452,0:9:0,Non A/c,07:00:00 PM,04:00:00 AM
+Delhi,Beawer,shrinath travel agency,452,0:10:0,Non A/c,08:30:00 PM,06:30:00 AM
+Delhi,Beawer,Vikas Travels (regd),452,0:9:0,Non A/c,08:30:00 PM,05:30:00 AM
+Delhi,Udaipur,Vikas Travels (regd),480,0:12:0,Volvo  A/c,05:45:00 PM,05:45:00 AM
+Delhi,Udaipur,shrinath travel agency-brandnew volvo coac,500,0:12:30,Volvo  A/c,03:00:00 PM,03:30:00 AM
+Delhi,Udaipur,shrinath travel agency-brand new lcd coach,520,0:13:0,Non A/c,07:00:00 PM,08:00:00 AM
+Delhi,Udaipur,Vikas Travels (regd),560,0:14:0,Non A/c,06:00:00 PM,08:00:00 AM
+Delhi,Udaipur,shrinath travel agency-brandnew volvo coac,500,0:12:30,Volvo  A/c,06:00:00 PM,06:30:00 AM
+Delhi,Udaipur,rishabh travels-udaipur crossing,480,0:12:0,Non A/c,06:30:00 PM,06:30:00 AM
+Delhi,Udaipur,shree rishabh travels-batco group,556,0:13:54,A/c,07:30:00 PM,09:24:00 AM
+Delhi,Udaipur,shree rishabh travels-batco-group,500,0:12:30,A/c,06:30:00 PM,07:00:00 AM
+Delhi,Udaipur,shrinath travel agency,500,0:12:30,Volvo  A/c,06:00:00 PM,06:30:00 AM
+Delhi,Udaipur,rishabh travels-udr crossing to ahm,480,0:12:0,A/c,07:00:00 PM,07:00:00 AM
+Delhi,Udaipur,shree rishabh travels-UDr.cross.to.amd.se,520,0:13:0,Non A/c,07:00:00 PM,08:00:00 AM
+Delhi,Udaipur,Speedlink Travel Services,520,0:13:0,Ordinary A/C,05:00:00 PM,06:00:00 AM
+Delhi,Udaipur,Vikas Travels (REGD)-,500,0:12:30,A/c,06:30:00 PM,07:00:00 AM
+Delhi,Nimbaheda,shree rishabh travels-batco group,604,0:11:15,Non A/c,08:00:00 PM,07:15:00 AM
+Delhi,Kakroli,shrinath travel agency-brand new lcd coach,601,0:11:30,Non A/c,07:00:00 PM,06:30:00 AM
+Delhi,Kakroli,rishabh travels-udaipur crossing,601,0:10:0,Non A/c,06:30:00 PM,04:30:00 AM
+Delhi,Kakroli,Vikas Travels (regd),601,0:12:0,Non A/c,06:00:00 PM,06:00:00 AM
+Delhi,Kakroli,shree rishabh travels-UDr.cross.to.amd.se,601,0:11:30,Non A/c,07:00:00 PM,06:30:00 AM
+Delhi,SojatCity,shrinath travel agency,460,0:11:30,Non A/c,08:30:00 PM,08:00:00 AM
+Delhi,Jodhpur,Vikas Travels (regd),597,0:13:0,Non A/c,08:30:00 PM,09:30:00 AM
+Delhi,Pushkar,shree rishabh travels-batco group,408,0:9:30,Non A/c,10:30:00 PM,08:00:00 AM
+Delhi,Kishangadh,Vikas Travels (regd),369,0:7:0,Non A/c,08:30:00 PM,03:30:00 AM
+Delhi,Kishangadh,shree rishabh travels-batco group,369,0:7:0,Non A/c,10:30:00 PM,05:30:00 AM
+Delhi,Kishangadh,Kalpana Travels Pvt.Ltd.,369,0:8:0,Non A/c,11:00:00 PM,07:00:00 AM
+Delhi,Kishangadh,shrinath travel agency,369,0:6:30,Non A/c,08:30:00 PM,03:00:00 AM
+Delhi,Jaipur,Kalpana Travels Pvt.Ltd.,265,0:6:0,Non A/c,11:00:00 PM,05:00:00 AM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:38,"2+2, Multi Axle Volvo Seater, AC, Video",06:00:00 AM,12:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,06:00:00 AM,11:30:00 AM
+Delhi,Jaipur,shrinath travel agency-brand new lcd coach,265,0:5:0,Non A/c,07:00:00 PM,12:00:00 AM
+Delhi,Jaipur,Classic Travels (Classic Bus),265,0:6:0,"2+2, Sleeper/Seater",08:30:00 AM,02:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:38,"2+2, Multi Axle Volvo Seater, AC, Video",08:00:00 AM,02:00:00 AM
+Delhi,Jaipur,Vikas Travels (regd),265,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Delhi,Jaipur,shree rishabh travels-batco group,265,0:6:0,Non A/c,10:30:00 PM,04:30:00 AM
+Delhi,Jaipur,Vikas Travels (REGD)-,265,0:5:30,A/c,06:30:00 PM,12:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,04:00:00 PM,09:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",08:00:00 PM,02:00:00 AM
+Delhi,Jaipur,shrinath travel agency,265,0:5:30,Non A/c,08:30:00 PM,02:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,06:00:00 PM,11:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",07:00:00 PM,01:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:45,Volvo  A/c,03:00:00 PM,08:45:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",03:00:00 PM,09:00:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",11:55:00 PM,05:55:00 AM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",12:30:00 PM,06:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",02:00:00 PM,08:00:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,02:00:00 PM,07:30:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,10:00:00 PM,03:30:00 AM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",07:00:00 AM,01:00:00 PM
+Delhi,Jaipur,shree rishabh travels-batco group,265,0:6:38,A/c,07:30:00 PM,02:08:00 AM
+Delhi,Jaipur,shree rishabh travels-batco-group,265,0:5:25,A/c,06:30:00 PM,11:55:00 PM
+Delhi,Jaipur,shrinath travel agency,265,0:5:30,Volvo  A/c,06:00:00 PM,11:30:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,11:55:00 PM,05:25:00 AM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",08:30:00 PM,02:30:00 AM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",09:00:00 AM,03:00:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",10:00:00 AM,04:00:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,05:00:00 PM,10:30:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,08:00:00 PM,01:30:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,07:00:00 AM,12:30:00 PM
+Delhi,Jaipur,Classic Travels (Classic Bus),265,0:6:30,"2+2, Sleeper/Seater",09:00:00 AM,03:30:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,06:30:00 AM,12:00:00 PM
+Delhi,Jaipur,Vikas Travels (regd),265,0:6:0,Volvo  A/c,05:45:00 PM,11:45:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,08:00:00 AM,01:30:00 PM
+Delhi,Jaipur,Speedlink Travel Services,265,0:6:30,Ordinary A/C,05:00:00 PM,11:30:00 PM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,10:00:00 AM,03:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",10:00:00 PM,04:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,12:30:00 PM,06:00:00 PM
+Delhi,Jaipur,Classic Travels (Classic Bus),265,0:6:0,"2+2, Sleeper/Seater",10:00:00 PM,04:00:00 AM
+Delhi,Jaipur,Classic Bus,265,0:8:0,"2+2, Sleeper/Seater",10:00:00 PM,06:00:00 AM
+Delhi,Jaipur,shrinath travel agency-brandnew volvo coac,265,0:5:30,Volvo  A/c,09:00:00 AM,02:30:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",06:00:00 PM,12:00:00 AM
+Delhi,Jaipur,Classic Travels (Classic Bus),265,0:6:0,"2+2, Sleeper/Seater",10:30:00 PM,04:30:00 AM
+Delhi,Jaipur,shree rishabh travels-batco group,265,0:5:0,Non A/c,10:00:00 PM,03:00:00 AM
+Delhi,Jaipur,rishabh travels-udr crossing to ahm,265,0:4:59,A/c,07:00:00 PM,11:59:00 PM
+Delhi,Jaipur,Rst Bus (RST Bus),265,0:6:0,"2+2, Multi Axle Volvo Seater, AC, Video",04:00:00 PM,10:00:00 PM
+Delhi,Bhilwara,shrinath travel agency,513,0:10:0,Volvo  A/c,06:00:00 PM,04:00:00 AM
+Delhi,Bhilwara,shree rishabh travels-batco group,513,0:9:30,Non A/c,08:00:00 PM,05:30:00 AM
+Delhi,Bhilwara,shree rishabh travels-batco group,513,0:10:0,Non A/c,10:00:00 PM,08:00:00 AM
+Delhi,Bhilwara,Speedlink Travel Services,513,0:7:30,Ordinary A/C,05:00:00 PM,12:30:00 AM
+Delhi,Bhilwara,Vikas Travels (regd),513,0:10:0,Volvo  A/c,05:45:00 PM,03:45:00 AM
+Delhi,Bhilwara,shrinath travel agency-brand new lcd coach,513,0:9:30,Non A/c,07:00:00 PM,04:30:00 AM
+Delhi,Bhilwara,shrinath travel agency-brandnew volvo coac,513,0:10:0,Volvo  A/c,06:00:00 PM,04:00:00 AM
+Delhi,Bhilwara,shree rishabh travels-batco-group,513,0:10:0,A/c,06:30:00 PM,04:30:00 AM
+Delhi,Bhilwara,Vikas Travels (REGD)-,513,0:10:0,A/c,06:30:00 PM,04:30:00 AM
+Delhi,Bhilwara,shrinath travel agency-brandnew volvo coac,513,0:10:0,Volvo  A/c,03:00:00 PM,01:00:00 AM
+Delhi,Bhilwara,shree rishabh travels-batco group,513,0:12:50,A/c,07:30:00 PM,08:20:00 AM
+Delhi,Bhilwara,rishabh travels-udr crossing to ahm,513,0:8:0,A/c,07:00:00 PM,03:00:00 AM
+Delhi,Bhilwara,Vikas Travels (regd),513,0:10:0,Non A/c,08:15:00 PM,06:15:00 AM
+Delhi,Bhilwara,Vikas Travels (regd),513,0:10:0,Non A/c,06:00:00 PM,04:00:00 AM
+Delhi,Pali,shrinath travel agency,500,0:12:30,Non A/c,08:30:00 PM,09:00:00 AM
+Delhi,Ajmer,rishabh travels-udaipur crossing,396,0:6:0,Non A/c,06:30:00 PM,12:30:00 AM
+Delhi,Ajmer,shree rishabh travels-udaipur cross ac si,396,0:8:0,A/c,07:30:00 PM,03:30:00 AM
+Delhi,Ajmer,shrinath travel agency-brand new lcd coach,396,0:7:0,Non A/c,07:00:00 PM,02:00:00 AM
+Delhi,Ajmer,shree rishabh travels-batco group,396,0:9:0,Non A/c,10:30:00 PM,07:30:00 AM
+Delhi,Ajmer,Kalpana Travels Pvt.Ltd.,396,0:9:0,Non A/c,11:00:00 PM,08:00:00 AM
+Delhi,Ajmer,shree rishabh travels-batco group,396,0:8:0,Non A/c,10:00:00 PM,06:00:00 AM
+Delhi,Ajmer,Vikas Travels (regd),396,0:8:0,Non A/c,08:30:00 PM,04:30:00 AM
+Delhi,Ajmer,Classic Bus,396,0:8:0,"2+2, Sleeper/Seater",10:00:00 PM,06:00:00 AM
+Delhi,Ajmer,shrinath travel agency,396,0:9:0,Non A/c,08:30:00 PM,05:30:00 AM
+Delhi,Bhim,rishabh travels-udaipur crossing,503,0:9:0,Non A/c,06:30:00 PM,03:30:00 AM
+Delhi,Bhim,shrinath travel agency-brand new lcd coach,503,0:9:0,Non A/c,07:00:00 PM,04:00:00 AM
+Delhi,Bhim,shree rishabh travels-UDr.cross.to.amd.se,503,0:10:0,Non A/c,07:00:00 PM,05:00:00 AM
+Delhi,Ganganagar,Vikas Travels (Regd),431,0:10:47,Non A/c,09:00:00 PM,07:47:00 AM
+Delhi,Ganganagar,Vikas Travels (regd),431,0:10:47,Non A/c,09:00:00 PM,07:47:00 AM
+Delhi,Beawar,shrinath travel agency-brand new lcd coach,452,0:8:0,Non A/c,07:00:00 PM,03:00:00 AM
+Delhi,Chittor,shrinath travel agency-brand new lcd coach,570,0:11:0,A/c,07:30:00 PM,06:30:00 AM
+Delhi,Chittor,shree rishabh travels-batco-group,570,0:11:0,A/c,06:30:00 PM,05:30:00 AM
+Delhi,Chittor,shree rishabh travels-batco group,570,0:10:30,Non A/c,08:00:00 PM,06:30:00 AM
+Delhi,Chittor,shrinath travel agency,570,0:11:0,Volvo  A/c,06:00:00 PM,05:00:00 AM
+Delhi,Chittor,Vikas Travels (regd),570,0:11:0,Volvo  A/c,05:45:00 PM,04:45:00 AM
+Delhi,Chittor,rishabh travels-udr crossing to ahm,570,0:11:0,A/c,07:00:00 PM,06:00:00 AM
+Delhi,Chittor,shree rishabh travels-batco group,570,0:14:15,A/c,07:30:00 PM,09:45:00 AM
+Delhi,Chittor,Vikas Travels (REGD)-,570,0:11:0,A/c,06:30:00 PM,05:30:00 AM
+Delhi,Chittor,shrinath travel agency-brandnew volvo coac,570,0:11:0,Volvo  A/c,06:00:00 PM,05:00:00 AM
+Delhi,Chittor,shrinath travel agency-brandnew volvo coac,570,0:11:0,Volvo  A/c,03:00:00 PM,02:00:00 AM
+Delhi,Gulabpura,shree rishabh travels-batco group,450,0:9:0,Non A/c,10:00:00 PM,07:00:00 AM
+Delhi,Gulabpura,shree rishabh travels-batco group,450,0:8:35,Non A/c,08:00:00 PM,04:35:00 AM
+Delhi,Gulabpura,Vikas Travels (regd),450,0:9:0,Volvo  A/c,05:45:00 PM,02:45:00 AM
+Delhi,Gulabpura,Vikas Travels (regd),450,0:9:15,Non A/c,08:15:00 PM,05:30:00 AM
+Delhi,Gulabpura,Vikas Travels (regd),450,0:8:30,Non A/c,06:00:00 PM,02:30:00 AM
+Ahmedabad,Mavli,Pooja Travels-KARNAVATI,297,0:6:30,Non A/c,11:00:00 PM,05:30:00 AM
+Ahmedabad,Mavli,shree parshwanath travels-via chittor,297,0:7:30,A/c,09:55:00 PM,05:25:00 AM
+Ahmedabad,Mavli,Namdev Travels-,297,0:5:30,Non A/c,09:30:00 PM,03:00:00 AM
+Ahmedabad,Ajmer,shrinath travel agency,525,0:12:0,Non A/c,07:00:00 PM,07:00:00 AM
+Ahmedabad,Ajmer,Kalpana Travels Pvt.Ltd.,525,0:10:30,Non A/c,05:00:00 PM,03:30:00 AM
+Ahmedabad,Ajmer,Kalpana Travels Pvt.Ltd.,525,0:8:30,Non A/c,08:00:00 PM,04:30:00 AM
+Ahmedabad,Ajmer,shrinath travel agency,525,0:11:0,Non A/c,02:00:00 PM,01:00:00 AM
+Ahmedabad,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,525,0:10:5,A/c,06:30:00 PM,04:35:00 AM
+Ahmedabad,Ajmer,shrinath travel agency,525,0:10:0,Non A/c,08:00:00 PM,06:00:00 AM
+Ahmedabad,Ajmer,Kalpana Travels Pvt.Ltd.,525,0:9:30,Non A/c,03:30:00 PM,01:00:00 AM
+Ahmedabad,Ajmer,Kalpana Travels Pvt.Ltd.,525,0:10:30,Non A/c,09:30:00 PM,08:00:00 AM
+Ahmedabad,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,525,0:9:50,A/c,10:30:00 PM,08:20:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency,419,0:7:0,Volvo  A/c,04:00:00 PM,11:00:00 PM
+Ahmedabad,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,419,0:8:0,A/c,10:30:00 PM,06:30:00 AM
+Ahmedabad,Bhilwara,Kalpana Travels Pvt.Ltd.,419,0:7:30,Non A/c,05:00:00 PM,12:30:00 AM
+Ahmedabad,Bhilwara,Parshwanath Travel Agency,419,0:8:30,Luxury A/C,06:00:00 PM,02:30:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency-brandnew volvo coac,419,0:7:0,Volvo  A/c,04:00:00 PM,11:00:00 PM
+Ahmedabad,Bhilwara,Kalpana Travels Pvt.Ltd.,419,0:6:30,Non A/c,08:00:00 PM,02:30:00 AM
+Ahmedabad,Bhilwara,Parshwanath Travel Agency,419,0:9:0,Luxury,10:30:00 PM,07:30:00 AM
+Ahmedabad,Bhilwara,Kalpana Travels Pvt.Ltd.,419,0:7:30,Non A/c,09:30:00 PM,05:00:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency-brand new lcd coach,419,0:8:30,A/c,11:45:00 PM,08:15:00 AM
+Ahmedabad,Bhilwara,Speedlink Travel Services,419,0:8:0,Ordinary A/C,02:00:00 PM,10:00:00 PM
+Ahmedabad,Bhilwara,Namdev Travels-,419,0:9:0,Non A/c,09:30:00 PM,06:30:00 AM
+Ahmedabad,Bhilwara,shree parshwanath travels-via chittor,419,0:9:40,A/c,09:55:00 PM,07:35:00 AM
+Ahmedabad,Bhilwara,Parshwanath Travel Agency,419,0:8:30,Luxury A/C,11:00:00 PM,07:30:00 AM
+Ahmedabad,Bhilwara,shree parshwanath travels,419,0:8:15,A/c,02:00:00 PM,10:15:00 PM
+Ahmedabad,Bhilwara,shrinath travel agency-brandnew volvo coac,419,0:7:0,Volvo  A/c,10:05:00 PM,05:05:00 AM
+Ahmedabad,Bhilwara,shree parshwanath travels,419,0:7:0,Non A/c,10:00:00 PM,05:00:00 AM
+Ahmedabad,Bhilwara,Pooja Travels-KARNAVATI,419,0:10:30,Non A/c,11:00:00 PM,09:30:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency,419,0:7:0,Volvo  A/c,07:30:00 PM,02:30:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency-brand new lcd coach,419,0:7:30,A/c,10:00:00 PM,05:30:00 AM
+Ahmedabad,Bhilwara,Arihant Travels (Abd.),419,0:8:0,Non A/c,07:00:00 AM,03:00:00 PM
+Ahmedabad,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,419,0:8:15,A/c,06:30:00 PM,02:45:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency-brand new lcd coach,419,0:9:0,A/c,09:30:00 PM,06:30:00 AM
+Ahmedabad,Bhilwara,shrinath travel agency-brandnew volvo coac,419,0:7:0,Volvo  A/c,07:30:00 PM,02:30:00 AM
+Ahmedabad,Bhilwara,shree parshwanath travels,419,0:8:15,A/c,03:30:00 PM,11:45:00 PM
+Ahmedabad,Bhilwara,Gujarat Travels-Toilet facility,419,0:8:0,A/c,02:00:00 AM,10:00:00 AM
+Ahmedabad,Bikaner,Parshwanath Travel Agency,745,0:14:0,Luxury A/C,07:05:00 PM,09:05:00 AM
+Ahmedabad,Bikaner,shrinath travel agency,745,0:13:0,Non A/c,06:00:00 PM,07:00:00 AM
+Ahmedabad,Bikaner,shrinath travel agency-brand new lcd coach,745,0:13:0,A/c,09:00:00 PM,10:00:00 AM
+Ahmedabad,Bikaner,shrinath travel agency,745,0:13:0,Non A/c,08:30:00 PM,09:30:00 AM
+Ahmedabad,Bikaner,punjab travels,745,0:14:15,Non A/c,05:00:00 PM,07:15:00 AM
+Ahmedabad,Kapasan,Pooja Travels-KARNAVATI,336,0:7:30,Non A/c,11:00:00 PM,06:30:00 AM
+Ahmedabad,Kapasan,Rajlaxmi Travel Agency,336,0:8:24,Non A/c,09:45:00 PM,06:09:00 AM
+Ahmedabad,Kapasan,Namdev Travels-,336,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Ahmedabad,Kapasan,shree parshwanath travels-via chittor,336,0:8:45,A/c,09:55:00 PM,06:40:00 AM
+Ahmedabad,Kapasan,Parshwanath Travel Agency,336,0:7:0,Luxury,09:30:00 PM,04:30:00 AM
+Ahmedabad,AbuRoad,Pooja Travels-SHREE BALAJI,206,0:5:15,Non A/c,08:30:00 PM,01:45:00 AM
+Ahmedabad,AbuRoad,shrinath travel agency-brand new lcd coach,206,0:4:0,A/c,09:00:00 PM,01:00:00 AM
+Ahmedabad,AbuRoad,punjab travels,206,0:5:0,Non A/c,10:30:00 PM,03:30:00 AM
+Ahmedabad,AbuRoad,Gujarat Travels-,206,0:5:45,A/c,10:45:00 PM,04:30:00 AM
+Ahmedabad,AbuRoad,shrinath travel agency,206,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Ahmedabad,AbuRoad,Gujarat Travels-BRAND NEW LCD COACH,206,0:4:0,A/c,11:00:00 PM,03:00:00 AM
+Ahmedabad,AbuRoad,Gujarat Travels-,206,0:5:45,A/c,11:05:00 PM,04:50:00 AM
+Ahmedabad,AbuRoad,Gujarat Travels-A/C COACH 2X2,206,0:5:30,A/c,06:45:00 AM,12:15:00 PM
+Ahmedabad,AbuRoad,Gujarat Travels-,206,0:5:45,Non A/c,07:00:00 AM,12:45:00 PM
+Ahmedabad,AbuRoad,shrinath travel agency,206,0:4:0,Non A/c,02:00:00 PM,06:00:00 PM
+Ahmedabad,AbuRoad,punjab travels,206,0:5:30,Non A/c,05:00:00 PM,10:30:00 PM
+Ahmedabad,AbuRoad,Gujarat Travels-,206,0:5:30,A/c,11:00:00 PM,04:30:00 AM
+Ahmedabad,AbuRoad,Parshwanath Travel Agency,206,0:4:45,Luxury,11:30:00 PM,04:15:00 AM
+Ahmedabad,AbuRoad,shrinath travel agency,206,0:4:15,Non A/c,09:45:00 PM,02:00:00 AM
+Ahmedabad,AbuRoad,shrinath travel agency,206,0:4:0,Non A/c,08:30:00 PM,12:30:00 AM
+Ahmedabad,AbuRoad,shree vijay maitreya travels line p. ltd,206,0:5:30,A/c,10:45:00 PM,04:15:00 AM
+Ahmedabad,AbuRoad,Gujarat Travels-,206,0:6:0,Non A/c,10:55:00 PM,04:55:00 AM
+Ahmedabad,AbuRoad,Jain Travels (Regd.) (Abd),206,0:4:0,Non A/c,07:30:00 AM,11:30:00 AM
+Ahmedabad,AbuRoad,shrinath travel agency-brandnew volvo coac,206,0:4:30,Volvo  A/c,11:00:00 PM,03:30:00 AM
+Ahmedabad,Devgadh,Parshwanath Travel Agency,170,0:8:0,Luxury,10:20:00 PM,06:20:00 AM
+Ahmedabad,Devgadh,shrinath travel agency,170,0:7:30,Non A/c,07:00:00 PM,02:30:00 AM
+Ahmedabad,Devgadh,shrinath travel agency,170,0:8:0,Non A/c,08:00:00 PM,04:00:00 AM
+Ahmedabad,Chittaurgarh,Parshwanath Travel Agency,367,0:7:30,Luxury A/C,06:00:00 PM,01:30:00 AM
+Ahmedabad,Chittaurgarh,Parshwanath Travel Agency,367,0:7:30,Luxury,09:30:00 PM,05:00:00 AM
+Ahmedabad,Chittaurgarh,Parshwanath Travel Agency,367,0:7:30,Luxury A/C,11:00:00 PM,06:30:00 AM
+Ahmedabad,Fatehnagar,Pooja Travels-KARNAVATI,310,0:8:30,Non A/c,11:00:00 PM,07:30:00 AM
+Ahmedabad,Fatehnagar,shree parshwanath travels-via chittor,310,0:7:0,A/c,09:55:00 PM,04:55:00 AM
+Ahmedabad,Fatehnagar,Rajlaxmi Travel Agency,310,0:7:45,Non A/c,09:45:00 PM,05:30:00 AM
+Ahmedabad,Fatehnagar,Namdev Travels-,310,0:6:30,Non A/c,09:30:00 PM,04:00:00 AM
+Ahmedabad,Sirohi,punjab travels,277,0:6:30,Non A/c,05:00:00 PM,11:30:00 PM
+Ahmedabad,Sirohi,shrinath travel agency,277,0:5:45,Non A/c,09:45:00 PM,03:30:00 AM
+Ahmedabad,Sirohi,Gujarat Travels-BRAND NEW LCD COACH,277,0:5:0,A/c,11:00:00 PM,04:00:00 AM
+Ahmedabad,Sirohi,shrinath travel agency,277,0:5:30,Non A/c,02:00:00 PM,07:30:00 PM
+Ahmedabad,Sirohi,shrinath travel agency,277,0:5:0,Non A/c,06:00:00 PM,11:00:00 PM
+Ahmedabad,Sirohi,shrinath travel agency-brandnew volvo coac,277,0:5:0,Volvo  A/c,11:00:00 PM,04:00:00 AM
+Ahmedabad,Sirohi,shrinath travel agency,277,0:5:0,Non A/c,08:30:00 PM,01:30:00 AM
+Ahmedabad,Sirohi,punjab travels,277,0:6:0,Non A/c,10:30:00 PM,04:30:00 AM
+Ahmedabad,Sirohi,shrinath travel agency-brand new lcd coach,277,0:5:0,A/c,09:00:00 PM,02:00:00 AM
+Ahmedabad,Sirohi,Jain Travels (Regd.) (Abd),277,0:5:0,Non A/c,07:30:00 AM,12:30:00 PM
+Ahmedabad,Nasirabad,Kalpana Travels Pvt.Ltd.,535,0:9:0,Non A/c,09:30:00 PM,06:30:00 AM
+Ahmedabad,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,535,0:9:45,A/c,06:30:00 PM,04:15:00 AM
+Ahmedabad,Nasirabad,Kalpana Travels Pvt.Ltd.,535,0:9:0,Non A/c,05:00:00 PM,02:00:00 AM
+Ahmedabad,Nasirabad,Kalpana Travels Pvt.Ltd.,535,0:7:30,Non A/c,08:00:00 PM,03:30:00 AM
+Ahmedabad,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,535,0:9:30,A/c,10:30:00 PM,08:00:00 AM
+Ahmedabad,Chittor,shrinath travel agency-brand new lcd coach,367,0:6:30,A/c,10:00:00 PM,04:30:00 AM
+Ahmedabad,Chittor,Gujarat Travels-Toilet facility,367,0:7:0,A/c,02:00:00 AM,09:00:00 AM
+Ahmedabad,Chittor,Gujarat Travels-BRAND NEW LCD COACH,367,0:6:0,A/c,10:30:00 PM,04:30:00 AM
+Ahmedabad,Chittor,shrinath travel agency-brandnew volvo coac,367,0:6:0,Volvo  A/c,10:05:00 PM,04:05:00 AM
+Ahmedabad,Chittor,shrinath travel agency,367,0:6:0,Volvo  A/c,07:30:00 PM,01:30:00 AM
+Ahmedabad,Chittor,shrinath travel agency-brandnew volvo coac,367,0:6:0,Volvo  A/c,07:30:00 PM,01:30:00 AM
+Ahmedabad,Chittor,shrinath travel agency-brandnew volvo coac,367,0:6:0,Volvo  A/c,04:00:00 PM,10:00:00 PM
+Ahmedabad,Chittor,shrinath travel agency,367,0:6:0,Volvo  A/c,04:00:00 PM,10:00:00 PM
+Ahmedabad,Chittor,Namdev Travels-,367,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+Ahmedabad,Chittor,Pooja Travels-KARNAVATI,367,0:9:30,Non A/c,11:00:00 PM,08:30:00 AM
+Ahmedabad,Chittor,shree parshwanath travels,367,0:7:0,A/c,02:00:00 PM,09:00:00 PM
+Ahmedabad,Chittor,Arihant Travels (Abd.),367,0:7:0,Non A/c,07:00:00 AM,02:00:00 PM
+Ahmedabad,Chittor,shree parshwanath travels,367,0:7:0,A/c,03:30:00 PM,10:30:00 PM
+Ahmedabad,Chittor,Pooja Travels-SAMRIN,367,0:6:45,Non A/c,09:00:00 PM,03:45:00 AM
+Ahmedabad,Chittor,shree parshwanath travels-via chittor,367,0:9:0,A/c,09:55:00 PM,06:55:00 AM
+Ahmedabad,Naukha,shrinath travel agency,683,0:12:0,Non A/c,06:00:00 PM,06:00:00 AM
+Ahmedabad,Naukha,Parshwanath Travel Agency,683,0:10:30,Luxury A/C,07:05:00 PM,05:35:00 AM
+Ahmedabad,Naukha,punjab travels,683,0:11:0,Non A/c,05:00:00 PM,04:00:00 AM
+Ahmedabad,Naukha,shrinath travel agency-brand new lcd coach,683,0:12:0,A/c,09:00:00 PM,09:00:00 AM
+Ahmedabad,Naukha,shrinath travel agency,683,0:12:0,Non A/c,08:30:00 PM,08:30:00 AM
+Ahmedabad,Nimbahera,Pooja Travels-,356,0:8:30,Non A/c,11:00:00 PM,07:30:00 AM
+Ahmedabad,Nimbahera,Parshwanath Travel Agency,356,0:8:0,Luxury,09:30:00 PM,05:30:00 AM
+Ahmedabad,Nimbahera,Pooja Travels-,356,0:8:30,Non A/c,10:45:00 PM,07:15:00 AM
+Ahmedabad,Amet,shrinath travel agency,360,0:7:0,Non A/c,10:30:00 PM,05:30:00 AM
+Ahmedabad,Pali,shrinath travel agency,280,0:7:0,Non A/c,08:30:00 PM,03:30:00 AM
+Ahmedabad,Pali,punjab travels,380,0:9:30,Non A/c,05:00:00 PM,02:30:00 AM
+Ahmedabad,Pali,Jain Travels (Regd.) (Abd),280,0:7:0,Non A/c,07:30:00 AM,02:30:00 PM
+Ahmedabad,Pali,Parshwanath Travel Agency,320,0:8:0,Luxury A/C,07:05:00 PM,03:05:00 AM
+Ahmedabad,Pali,shrinath travel agency-brand new lcd coach,280,0:7:0,A/c,09:00:00 PM,04:00:00 AM
+Ahmedabad,Pali,punjab travels,380,0:9:30,Non A/c,10:30:00 PM,08:00:00 AM
+Ahmedabad,Pali,shrinath travel agency,330,0:8:15,Non A/c,09:45:00 PM,06:00:00 AM
+Ahmedabad,Pali,shrinath travel agency,320,0:8:0,Non A/c,02:00:00 PM,10:00:00 PM
+Ahmedabad,Pali,Gujarat Travels-BRAND NEW LCD COACH,330,0:8:15,A/c,11:00:00 PM,07:15:00 AM
+Ahmedabad,Pali,shrinath travel agency,280,0:7:0,Non A/c,06:00:00 PM,01:00:00 AM
+Ahmedabad,Pali,shrinath travel agency-brandnew volvo coac,300,0:7:30,Volvo  A/c,11:00:00 PM,06:30:00 AM
+Ahmedabad,Pali,Pooja Travels-SHREE BALAJI,310,0:7:45,Non A/c,08:30:00 PM,04:15:00 AM
+Ahmedabad,Kakroli,shree parshwanath travels,323,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Ahmedabad,Kakroli,shrinath travel agency-brand new lcd coach,323,0:6:30,A/c,11:45:00 PM,06:15:00 AM
+Ahmedabad,Kakroli,shrinath travel agency-brand new lcd coach,323,0:6:30,A/c,09:30:00 PM,04:00:00 AM
+Ahmedabad,Kakroli,Parshwanath Travel Agency,323,0:7:0,Luxury,10:30:00 PM,05:30:00 AM
+Ahmedabad,Kakroli,shrinath travel agency,323,0:6:30,Non A/c,10:30:00 PM,05:00:00 AM
+Ahmedabad,Bhim,Mahaveer Travel Agency,420,0:8:0,Non A/c,02:45:00 PM,10:45:00 PM
+Ahmedabad,Bhim,Parshwanath Travel Agency,420,0:9:0,Luxury,09:45:00 PM,06:45:00 AM
+Ahmedabad,Bhim,Kalpana Travels Pvt.Ltd.,420,0:8:0,Non A/c,03:30:00 PM,11:30:00 PM
+Ahmedabad,Bhim,shrinath travel agency,420,0:8:30,Non A/c,07:00:00 PM,03:30:00 AM
+Ahmedabad,Bhim,shrinath travel agency,420,0:8:30,Non A/c,08:00:00 PM,04:30:00 AM
+Ahmedabad,Bhim,Parshwanath Travel Agency,420,0:9:0,Luxury,10:20:00 PM,07:20:00 AM
+Ahmedabad,Beawer,shrinath travel agency,473,0:10:0,Non A/c,11:00:00 PM,09:00:00 AM
+Ahmedabad,Beawer,shrinath travel agency,473,0:11:0,Non A/c,07:00:00 PM,06:00:00 AM
+Ahmedabad,Beawer,Kalpana Travels Pvt.Ltd.,473,0:9:0,Non A/c,03:30:00 PM,12:30:00 AM
+Ahmedabad,Beawer,shrinath travel agency,473,0:10:0,Non A/c,02:00:00 PM,12:00:00 AM
+Ahmedabad,Beawer,shrinath travel agency,473,0:9:0,Non A/c,08:00:00 PM,05:00:00 AM
+Ahmedabad,Udaipur,Pooja Travels-SHREE RISHABH EAGLE,220,0:5:30,Non A/c,11:00:00 AM,04:30:00 PM
+Ahmedabad,Udaipur,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,05:00:00 PM,10:30:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,220,0:5:30,Non A/c  A/c,10:30:00 PM,04:00:00 AM
+Ahmedabad,Udaipur,Pooja Travels-,220,0:5:30,Non A/c,11:00:00 PM,04:30:00 AM
+Ahmedabad,Udaipur,Neeta Tours and Travels,180,0:4:30,B9R Multi-Axle Semi Sleeper Volvo A/C,05:30:00 AM,10:00:00 AM
+Ahmedabad,Udaipur,Paavan travels,180,0:4:30,Non A/c,10:00:00 PM,02:30:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury A/C,11:00:00 PM,04:30:00 AM
+Ahmedabad,Udaipur,Gujarat Travels-A/C,160,0:4:0,Non A/c  A/c,11:00:00 PM,03:00:00 AM
+Ahmedabad,Udaipur,Gujarat Travels-,220,0:5:30,Non A/c,06:45:00 AM,12:15:00 PM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,160,0:4:0,Volvo  A/c,07:30:00 AM,11:30:00 AM
+Ahmedabad,Udaipur,Goyal Travels,200,0:5:0,A/c,05:30:00 PM,10:30:00 PM
+Ahmedabad,Udaipur,Pooja Travels-SAMRIN,190,0:4:45,Non A/c,09:00:00 PM,01:45:00 AM
+Ahmedabad,Udaipur,shrinath travel agency,210,0:5:15,Non A/c,12:05:00 PM,05:20:00 PM
+Ahmedabad,Udaipur,shrinath travel agency,180,0:4:30,Non A/c,11:00:00 PM,03:30:00 AM
+Ahmedabad,Udaipur,Gujarat Travels-BRAND NEW LCD COACH,200,0:5:0,A/c,10:30:00 PM,03:30:00 AM
+Ahmedabad,Udaipur,Arihant Travels (Abd.),200,0:5:0,Non A/c,07:00:00 AM,12:00:00 PM
+Ahmedabad,Udaipur,Pooja Travels-KARNAVATI,220,0:5:30,Non A/c,11:00:00 PM,04:30:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Ordinary A/C,10:15:00 PM,03:45:00 AM
+Ahmedabad,Udaipur,shree parshwanath travels,140,0:3:30,Non A/c,10:00:00 PM,01:30:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury A/C,12:55:00 PM,06:25:00 PM
+Ahmedabad,Udaipur,Mahaveer Travel Agency,200,0:5:0,Non A/c,05:30:00 PM,10:30:00 PM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,203,0:5:5,Volvo  A/c,10:05:00 PM,03:10:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brand new lcd coach,180,0:4:30,A/c,11:45:00 PM,04:15:00 AM
+Ahmedabad,Udaipur,shree parshwanath travels,240,0:6:0,Non A/c,10:40:00 PM,04:40:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,200,0:5:0,Luxury,10:00:00 PM,03:00:00 AM
+Ahmedabad,Udaipur,shrinath travel agency,180,0:4:30,Non A/c,10:30:00 PM,03:00:00 AM
+Ahmedabad,Udaipur,Seema Pooja Travels(Ptc),220,0:5:30,Non A/c,05:30:00 PM,11:00:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,220,0:5:30,A/c,11:00:00 PM,04:30:00 AM
+Ahmedabad,Udaipur,Neeta Tours and Travels,147,0:3:40,B9R Multi-Axle Semi Sleeper Volvo A/C,06:30:00 AM,10:10:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brand new lcd coach,180,0:4:30,A/c,09:30:00 PM,02:00:00 AM
+Ahmedabad,Udaipur,Gujarat Travels-BRAND NEW LCD COACH,210,0:5:15,A/c,06:30:00 PM,11:45:00 PM
+Ahmedabad,Udaipur,shrinath travel agency,197,0:4:55,Non A/c,07:00:00 PM,11:55:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,240,0:6:0,Non A/c,11:15:00 PM,05:15:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,VOLVO A/C,11:05:00 PM,04:35:00 AM
+Ahmedabad,Udaipur,Gujarat Travels-Toilet facility,220,0:5:30,A/c,02:00:00 AM,07:30:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,203,0:5:5,Volvo  A/c,04:00:00 PM,09:05:00 PM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,160,0:4:0,MAN AIRO Bus A/C,07:05:00 AM,11:05:00 AM
+Ahmedabad,Udaipur,shrinath travel agency,177,0:4:25,Volvo  A/c,07:30:00 PM,11:55:00 PM
+Ahmedabad,Udaipur,shrinath travel agency,220,0:5:30,Non A/c,11:55:00 PM,05:25:00 AM
+Ahmedabad,Udaipur,Pooja Travels-,220,0:5:30,Non A/c,10:45:00 PM,04:15:00 AM
+Ahmedabad,Udaipur,Goyal Travels,200,0:5:0,Non A/c,03:00:00 PM,08:00:00 PM
+Ahmedabad,Udaipur,Kalpana Travels Pvt.Ltd.,240,0:6:0,Non A/c,03:30:00 PM,09:30:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels-via chittor,200,0:5:0,A/c,09:55:00 PM,02:55:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury,10:20:00 PM,03:50:00 AM
+Ahmedabad,Udaipur,shree parshwanath travels,220,0:5:30,A/c,09:00:00 AM,02:30:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,240,0:6:0,Non A/c,10:35:00 PM,04:35:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,160,0:4:0,Volvo  A/c,11:30:00 PM,03:30:00 AM
+Ahmedabad,Udaipur,Mahaveer Travel Agency,200,0:5:0,Non A/c,02:45:00 PM,07:45:00 PM
+Ahmedabad,Udaipur,shrinath travel agency,220,0:5:30,Non A/c,08:00:00 PM,01:30:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brand new lcd coach,180,0:4:30,A/c,10:00:00 PM,02:30:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,160,0:4:0,MAN AIRO Bus A/C,03:00:00 PM,07:00:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels-UDR TO DLL NON AC,220,0:5:30,Non A/c  A/c,12:00:00 PM,05:30:00 PM
+Ahmedabad,Udaipur,shrinath travel agency,203,0:5:5,Volvo  A/c,04:00:00 PM,09:05:00 PM
+Ahmedabad,Udaipur,Pooja Travels-SHREE RISHABH  EAGLE,220,0:5:30,Non A/c,02:00:00 PM,07:30:00 PM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury,09:40:00 PM,03:10:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,177,0:4:25,Volvo  A/c,07:30:00 PM,11:55:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,200,0:5:0,A/c,03:30:00 PM,08:30:00 PM
+Ahmedabad,Udaipur,shree parshwanath travels,200,0:5:0,A/c,02:00:00 PM,07:00:00 PM
+Ahmedabad,Udaipur,Gujarat Travels-,220,0:5:30,Non A/c,10:55:00 PM,04:25:00 AM
+Ahmedabad,Udaipur,punjab travels,240,0:6:0,Non A/c,10:30:00 PM,04:30:00 AM
+Ahmedabad,Udaipur,shrinath travel agency-brandnew volvo coac,160,0:4:0,Volvo  A/c,02:00:00 PM,06:00:00 PM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury A/C,06:00:00 PM,11:30:00 PM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,Luxury,09:45:00 PM,03:15:00 AM
+Ahmedabad,Udaipur,Eagle Travel Agency (Eagle Bus),180,0:4:30,"2+2, Multi Axle Volvo, AC, Video",06:00:00 AM,10:30:00 AM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,220,0:5:30,VOLVO A/C,04:15:00 PM,09:45:00 PM
+Ahmedabad,Udaipur,Parshwanath Travel Agency,210,0:5:15,Luxury,07:00:00 PM,12:15:00 AM
+Ahmedabad,Udaipur,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,08:00:00 PM,01:00:00 AM
+Ahmedabad,Udaipur,Namdev Travels-,200,0:5:0,Non A/c,09:30:00 PM,02:30:00 AM
+Ahmedabad,Udaipur,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,09:30:00 PM,03:00:00 AM
+Ahmedabad,Kota,Pooja Travels-SAMRIN,535,0:8:45,Non A/c,09:00:00 PM,05:45:00 AM
+Ahmedabad,Kota,Arihant Travels (Abd.),535,0:13:20,Non A/c,07:00:00 AM,08:20:00 PM
+Ahmedabad,Jaipur,Kalpana Travels Pvt.Ltd.,670,0:13:30,Non A/c,05:00:00 PM,06:30:00 AM
+Ahmedabad,Jaipur,shrinath travel agency,670,0:13:0,Non A/c,07:00:00 PM,08:00:00 AM
+Ahmedabad,Jaipur,shrinath travel agency-brandnew volvo coac,670,0:11:30,Volvo  A/c,07:30:00 PM,07:00:00 AM
+Ahmedabad,Jaipur,shrinath travel agency-brandnew volvo coac,670,0:11:0,Volvo  A/c,10:05:00 PM,09:05:00 AM
+Ahmedabad,Jaipur,shrinath travel agency,670,0:11:0,Volvo  A/c,04:00:00 PM,03:00:00 AM
+Ahmedabad,Jaipur,shrinath travel agency-brandnew volvo coac,670,0:11:0,Volvo  A/c,04:00:00 PM,03:00:00 AM
+Ahmedabad,Jaipur,Kalpana Travels Pvt.Ltd.,670,0:13:30,Non A/c,09:30:00 PM,11:00:00 AM
+Ahmedabad,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,670,0:13:5,A/c,06:30:00 PM,07:35:00 AM
+Ahmedabad,Jaipur,shrinath travel agency,670,0:11:30,Volvo  A/c,07:30:00 PM,07:00:00 AM
+Ahmedabad,Jaipur,shrinath travel agency-brand new lcd coach,670,0:12:30,A/c,10:00:00 PM,10:30:00 AM
+Ahmedabad,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,670,0:12:50,A/c,10:30:00 PM,11:20:00 AM
+Ahmedabad,Jaipur,shree parshwanath travels,670,0:14:0,A/c,02:00:00 PM,04:00:00 AM
+Ahmedabad,Jaipur,Kalpana Travels Pvt.Ltd.,670,0:13:0,Non A/c,08:00:00 PM,09:00:00 AM
+Ahmedabad,Jaipur,Gujarat Travels-Toilet facility,670,0:14:0,A/c,02:00:00 AM,04:00:00 PM
+Ahmedabad,Jaipur,shrinath travel agency,670,0:13:0,Non A/c,08:00:00 PM,09:00:00 AM
+Ahmedabad,Jaipur,shrinath travel agency,670,0:13:0,Non A/c,02:00:00 PM,03:00:00 AM
+Ahmedabad,Jaipur,shree parshwanath travels,670,0:14:0,A/c,03:30:00 PM,05:30:00 AM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:30,Luxury A/C,12:55:00 PM,07:25:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:30,Ordinary A/C,10:15:00 PM,04:45:00 AM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:30,VOLVO A/C,11:05:00 PM,05:35:00 AM
+Ahmedabad,Nathdwara,Goyal Travels,308,0:7:30,Non A/c,03:00:00 PM,10:30:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:30,Luxury,10:20:00 PM,04:50:00 AM
+Ahmedabad,Nathdwara,Eagle Travel Agency (Eagle Bus),308,0:5:30,"2+2, Multi Axle Volvo, AC, Video",06:00:00 AM,11:30:00 AM
+Ahmedabad,Nathdwara,Neeta Tours and Travels,308,0:4:40,B9R Multi-Axle Semi Sleeper Volvo A/C,06:30:00 AM,11:10:00 AM
+Ahmedabad,Nathdwara,Neeta Tours and Travels,308,0:5:30,B9R Multi-Axle Semi Sleeper Volvo A/C,05:30:00 AM,11:00:00 AM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:5:15,MAN AIRO Bus A/C,07:05:00 AM,12:20:00 PM
+Ahmedabad,Nathdwara,Mahaveer Travel Agency,308,0:6:0,Non A/c,02:45:00 PM,08:45:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:5:15,MAN AIRO Bus A/C,03:00:00 PM,08:15:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:30,VOLVO A/C,04:15:00 PM,10:45:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:15,Luxury,10:00:00 PM,04:15:00 AM
+Ahmedabad,Nathdwara,Mahaveer Travel Agency,308,0:6:0,Non A/c,05:30:00 PM,11:30:00 PM
+Ahmedabad,Nathdwara,Parshwanath Travel Agency,308,0:6:15,Luxury,07:00:00 PM,01:15:00 AM
+Ahmedabad,Jodhpur,shrinath travel agency,462,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Ahmedabad,Jodhpur,shrinath travel agency-brandnew volvo coac,462,0:9:0,Volvo  A/c,11:00:00 PM,08:00:00 AM
+Ahmedabad,Jodhpur,Pooja Travels-SHREE BALAJI,462,0:8:45,Non A/c,08:30:00 PM,05:15:00 AM
+Ahmedabad,Jodhpur,punjab travels,462,0:10:30,Non A/c,10:30:00 PM,09:00:00 AM
+Ahmedabad,Jodhpur,shrinath travel agency,462,0:8:0,Non A/c,08:30:00 PM,04:30:00 AM
+Ahmedabad,Jodhpur,shrinath travel agency-brand new lcd coach,462,0:8:0,A/c,09:00:00 PM,05:00:00 AM
+Ahmedabad,Jodhpur,Parshwanath Travel Agency,462,0:9:30,Luxury A/C,07:05:00 PM,04:35:00 AM
+Ahmedabad,Jodhpur,Gujarat Travels-BRAND NEW LCD COACH,462,0:9:30,A/c,11:00:00 PM,08:30:00 AM
+Ahmedabad,Jodhpur,Jain Travels (Regd.) (Abd),462,0:8:30,Non A/c,07:30:00 AM,04:00:00 PM
+Ahmedabad,Jodhpur,punjab travels,462,0:10:0,Non A/c,05:00:00 PM,03:00:00 AM
+Ahmedabad,Jodhpur,shrinath travel agency,462,0:9:45,Non A/c,09:45:00 PM,07:30:00 AM
+Ahmedabad,Dungarpur,Banswara Travels,173,0:5:0,Non A/c,11:15:00 AM,04:15:00 PM
+Ahmedabad,Dungarpur,Shree Vijayant Travels,173,0:4:0,Non A/c,03:00:00 PM,07:00:00 PM
+Ahmedabad,Dungarpur,Banswara Travels,173,0:4:0,Non A/c,12:30:00 PM,04:30:00 PM
+Ahmedabad,Keshariyaji,shrinath travel agency,191,0:4:0,Non A/c,12:05:00 PM,04:05:00 PM
+Ahmedabad,Keshariyaji,Kalpana Travels Pvt.Ltd.,191,0:5:0,Non A/c,08:00:00 PM,01:00:00 AM
+Ahmedabad,Kishangadh,shrinath travel agency,571,0:13:0,Non A/c,07:00:00 PM,08:00:00 AM
+Ahmedabad,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,571,0:11:5,A/c,06:30:00 PM,05:35:00 AM
+Ahmedabad,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,571,0:10:50,A/c,10:30:00 PM,09:20:00 AM
+Ahmedabad,Kishangadh,shrinath travel agency,571,0:11:0,Non A/c,08:00:00 PM,07:00:00 AM
+Ahmedabad,Kishangadh,Kalpana Travels Pvt.Ltd.,571,0:9:30,Non A/c,08:00:00 PM,05:30:00 AM
+Ahmedabad,Kishangadh,Kalpana Travels Pvt.Ltd.,571,0:11:30,Non A/c,09:30:00 PM,09:00:00 AM
+Ahmedabad,Kishangadh,Kalpana Travels Pvt.Ltd.,571,0:10:0,Non A/c,03:30:00 PM,01:30:00 AM
+Ahmedabad,Kishangadh,Kalpana Travels Pvt.Ltd.,571,0:11:30,Non A/c,05:00:00 PM,04:30:00 AM
+Ahmedabad,Beawar,Parshwanath Travel Agency,473,0:10:15,Luxury,07:00:00 PM,05:15:00 AM
+Ahmedabad,Beawar,Parshwanath Travel Agency,473,0:10:15,Luxury,09:45:00 PM,08:00:00 AM
+Ahmedabad,Beawar,Mahaveer Travel Agency,473,0:9:0,Non A/c,02:45:00 PM,11:45:00 PM
+Agra,Jaipur,UPSRTC,233,0:5:45,GOLDLINE EXPRESS (NON AC),07:40:00 AM,01:25:00 PM
+Ujjain,Udaipur,Gagan Tourist,320,0:8:0,Luxury,09:00:00 PM,05:00:00 AM
+Ujjain,Kakroli,Gagan Tourist,418,0:9:0,Luxury,09:00:00 PM,06:00:00 AM
+Ujjain,Nathdwara,Gagan Tourist,402,0:8:30,Luxury,09:00:00 PM,05:30:00 AM
+Ujjain,Niwai,Hans Travels Indore-,423,0:10:50,Non A/c,09:00:00 PM,07:50:00 AM
+Ujjain,Niwai,Hans Travels Indore-,423,0:11:0,Non A/c,06:30:00 PM,05:30:00 AM
+Ujjain,Kota,Hans Travels Indore-,257,0:6:30,Non A/c,06:30:00 PM,01:00:00 AM
+Ujjain,Kota,Hans Travels Indore-,257,0:6:30,Non A/c,09:00:00 PM,03:30:00 AM
+Ujjain,Kota,Baba Travels Indore,257,0:6:26,Non A/c,10:00:00 PM,04:26:00 AM
+Ujjain,Kota,Kalpana Travels Pvt.Ltd.,257,0:6:26,Non A/c,08:00:00 PM,02:26:00 AM
+Ujjain,Newai,Kalpana Travels Pvt.Ltd.,423,0:10:35,Non A/c,08:00:00 PM,06:35:00 AM
+Ujjain,Jaipur,Baba Travels Indore,492,0:12:18,Non A/c,10:00:00 PM,10:18:00 AM
+Ujjain,Jaipur,Hans Travels Indore-,492,0:12:55,Non A/c,09:00:00 PM,09:55:00 AM
+Ujjain,Jaipur,Kalpana Travels Pvt.Ltd.,492,0:12:18,Non A/c,08:00:00 PM,08:18:00 AM
+Ujjain,Jaipur,Gagan Tourist,492,0:11:30,Luxury,10:00:00 PM,09:30:00 AM
+Ujjain,Jaipur,Hans Travels Indore-,492,0:13:0,Non A/c,06:30:00 PM,07:30:00 AM
+Ujjain,Deoli,Hans Travels Indore-,347,0:8:40,Non A/c,09:00:00 PM,05:40:00 AM
+Ujjain,Jhalawar,Hans Travels Indore-,175,0:4:50,Non A/c,09:00:00 PM,01:50:00 AM
+Ujjain,Bundi,Hans Travels Indore-,297,0:7:30,Non A/c,06:30:00 PM,02:00:00 AM
+Ujjain,Bundi,Kalpana Travels Pvt.Ltd.,297,0:7:26,Non A/c,08:00:00 PM,03:26:00 AM
+Ujjain,Bundi,Baba Travels Indore,297,0:7:26,Non A/c,10:00:00 PM,05:26:00 AM
+Ujjain,Bundi,Hans Travels Indore-,297,0:7:30,Non A/c,09:00:00 PM,04:30:00 AM
+Ujjain,Bhilwara,Gagan Tourist,372,0:7:30,Luxury,10:30:00 PM,06:00:00 AM
+Ujjain,Tonk,Hans Travels Indore-,399,0:10:0,Non A/c,09:00:00 PM,07:00:00 AM
+Ujjain,Tonk,Hans Travels Indore-,399,0:10:0,Non A/c,06:30:00 PM,04:30:00 AM
+Ujjain,Tonk,Gagan Tourist,399,0:9:30,Luxury,10:00:00 PM,07:30:00 AM
+Ujjain,Tonk,Kalpana Travels Pvt.Ltd.,399,0:9:59,Non A/c,08:00:00 PM,05:59:00 AM
+Valsad,Keshariyaji,shreenath travellers,477,0:10:0,Non A/c,03:45:00 PM,01:45:00 AM
+Valsad,Kakroli,shreenath travellers,610,0:15:15,Non A/c,07:00:00 PM,10:15:00 AM
+Valsad,Kakroli,shreenath travellers,610,0:11:45,Non A/c,03:45:00 PM,03:30:00 AM
+Valsad,Bhilwara,shreenath travellers,706,1:0:30,Non A/c,03:45:00 PM,04:15:00 PM
+Valsad,Bhilwara,shreenath travellers,706,0:17:39,Non A/c,07:00:00 PM,12:39:00 PM
+Valsad,Udaipur,shreenath travellers,440,0:11:0,Non A/c,03:45:00 PM,02:45:00 AM
+Valsad,Udaipur,shreenath travellers,208,0:5:12,Non A/c,07:00:00 PM,12:12:00 AM
+Amet,Udaipur,shrinath travel agency,140,0:3:30,Non A/c,01:00:00 PM,04:30:00 PM
+Amet,Udaipur,shrinath travel agency,110,0:2:45,Non A/c,09:00:00 PM,11:45:00 PM
+Amet,Kakroli,shrinath travel agency,37,0:1:0,Non A/c,09:00:00 PM,10:00:00 PM
+Amet,Kakroli,shrinath travel agency,37,0:1:0,Non A/c,01:00:00 PM,02:00:00 PM
+Nimach,Jaipur,shrinath travel agency-brand new lcd coach,363,0:8:30,Non A/c,05:30:00 PM,02:00:00 AM
+Nimach,Chittor,shrinath travel agency-brand new lcd coach,59,0:1:30,Non A/c,05:30:00 PM,07:00:00 PM
+Nimach,Bhilwara,shrinath travel agency-brand new lcd coach,112,0:3:0,Non A/c,05:30:00 PM,08:30:00 PM
+Nimach,Nimbaheda,shrinath travel agency-brand new lcd coach,28,0:0:30,Non A/c,05:30:00 PM,06:00:00 PM
+Navsari,Udaipur,shreenath travellers,400,0:10:0,Non A/c,05:10:00 PM,03:10:00 AM
+Navsari,Udaipur,shreenath travellers,278,0:6:57,Non A/c,08:15:00 PM,03:12:00 AM
+Navsari,Bhilwara,shreenath travellers,656,0:12:0,Non A/c,05:10:00 PM,05:10:00 AM
+Navsari,Bhilwara,shreenath travellers,656,0:16:24,Non A/c,08:15:00 PM,12:39:00 PM
+Navsari,Kakroli,shreenath travellers,560,0:11:30,Non A/c,05:10:00 PM,04:40:00 AM
+Navsari,Kakroli,shreenath travellers,560,0:14:0,Non A/c,08:15:00 PM,10:15:00 AM
+Navsari,Keshariyaji,shreenath travellers,427,0:8:30,Non A/c,05:10:00 PM,01:40:00 AM
+Kankroli,Nasirabad,Natraj Travels-,201,0:3:40,Non A/c,09:30:00 PM,01:10:00 AM
+Kankroli,Jaipur,Natraj Travels-,335,0:6:40,Non A/c,09:30:00 PM,04:10:00 AM
+Kankroli,Kota,Shrinath Travels (Kota)-,250,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Kankroli,Gulabpura,Natraj Travels-,156,0:3:0,Non A/c,09:30:00 PM,12:30:00 AM
+Kankroli,Bhilwara,Shrinath Travels (Kota)-,91,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+Kankroli,Bhilwara,Natraj Travels-,91,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+Kundapura,Kota,Sri Durgamba Travels,1585,1:0:30,2+1 Seater-Sleeper Airbus,07:15:00 PM,07:45:00 PM
+Dharwad,Kota,Sri Durgamba Travels,1334,1:6:55,2+1 Seater-Sleeper Airbus,10:15:00 PM,05:10:00 AM
+Gangapur,Kakroli,Shreenath Travellers (Udr),47,0:1:11,Non A/c,02:30:00 PM,03:41:00 PM
+Gangapur,Kakroli,shrinath travel agency-brand new lcd coach,47,0:1:30,A/c,06:30:00 PM,08:00:00 PM
+Gangapur,Kakroli,shree parshwanath travels,47,0:12:30,Non A/c,06:30:00 PM,07:00:00 AM
+Gangapur,Kakroli,shrinath travel agency-brand new lcd coach,47,0:1:0,A/c,06:00:00 PM,07:00:00 PM
+Gangapur,Jaipur,shrinath travel agency,291,0:6:30,Non A/c,11:30:00 PM,06:00:00 AM
+Gangapur,Jaipur,shrinath travel agency,291,0:5:30,Non A/c,09:00:00 PM,02:30:00 AM
+Gangapur,Jaipur,shrinath travel agency-brand new lcd coach,291,0:5:15,Non A/c,09:15:00 PM,02:30:00 AM
+Gangapur,Udaipur,shrinath travel agency-brand new lcd coach,140,0:3:30,A/c,06:30:00 PM,10:00:00 PM
+Gangapur,Udaipur,shree parshwanath travels,180,0:4:30,Non A/c,06:30:00 PM,11:00:00 PM
+Gangapur,Udaipur,Shreenath Travellers (Udr),370,0:9:15,Non A/c,02:30:00 PM,11:45:00 PM
+Gangapur,Udaipur,shrinath travel agency-brand new lcd coach,120,0:3:0,A/c,06:00:00 PM,09:00:00 PM
+Gangapur,Bhilwara,shrinath travel agency,46,0:1:30,Non A/c,11:30:00 PM,01:00:00 AM
+Gangapur,Bhilwara,shrinath travel agency,46,0:1:0,Non A/c,09:00:00 PM,10:00:00 PM
+Gangapur,Bhilwara,shrinath travel agency-brand new lcd coach,46,0:1:0,Non A/c,09:15:00 PM,10:15:00 PM
+Gangapur,Kishangadh,shrinath travel agency,192,0:5:30,Non A/c,11:30:00 PM,05:00:00 AM
+Gangapur,Nathdwara,Shreenath Travellers (Udr),62,0:1:33,Non A/c,02:30:00 PM,04:03:00 PM
+Chittaurgarh,Udaipur,Parshwanath Travel Agency,70,0:1:45,Luxury A/C,11:15:00 PM,01:00:00 AM
+Chittaurgarh,Udaipur,Parshwanath Travel Agency,100,0:2:30,Luxury,10:00:00 PM,12:30:00 AM
+Kota,Niwai,Hans Travels Indore-,167,0:4:20,Non A/c,02:15:00 AM,06:35:00 AM
+Kota,Chittor,Shrinath Travels (Kota)-,168,0:5:0,Non A/c,09:30:00 PM,02:30:00 AM
+Kota,Chittor,Shrinath Travels (Kota)-,168,0:5:30,Non A/c,06:30:00 PM,12:00:00 AM
+Kota,Chittor,Shrinath Travels (Kota)-,168,0:3:0,Non A/c,09:00:00 PM,12:00:00 AM
+Kota,Chittor,Shrinath Travels (Kota)-,168,0:3:30,Non A/c,07:30:00 PM,11:00:00 PM
+Kota,Bikaner,Shrinath Nama Travel Agency,465,0:11:38,Non A/c,05:15:00 PM,04:53:00 AM
+Kota,Nimbahera,Shrinath Travels (Kota)-,177,0:8:30,Non A/c,06:30:00 PM,03:00:00 AM
+Kota,Jhalawar,Rishabh Travels,82,0:2:0,Non A/c,04:00:00 AM,06:00:00 AM
+Kota,Kankroli,Shrinath Travels (Kota)-,251,0:6:10,Non A/c,09:00:00 PM,03:10:00 AM
+Kota,Jaipur,Shrinath Travels (Kota)-,236,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Kota,Jaipur,Hans Travels Indore-,236,0:6:25,Non A/c,02:15:00 AM,08:40:00 AM
+Kota,Jaipur,Shrinath Nama Travel Agency,236,0:5:54,Non A/c,09:00:00 PM,02:54:00 AM
+Kota,Jaipur,Shrinath Nama Travel Agency,236,0:5:54,Non A/c,10:00:00 PM,03:54:00 AM
+Kota,Jaipur,Shrinath Travels (Kota)-,236,0:6:30,Non A/c,02:00:00 PM,08:30:00 PM
+Kota,Udaipur,Shrinath Travels (Kota)-,233,0:5:50,Non A/c,07:30:00 PM,01:20:00 AM
+Kota,Udaipur,Shrinath Travels (Kota)-,320,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+Kota,Jhalrapatan,Rishabh Travels,88,0:3:40,Non A/c,04:00:00 AM,07:40:00 AM
+Kota,Jhalrapatan,rishabh travels,88,0:3:40,Non A/c,04:00:00 AM,07:40:00 AM
+Kota,Jodhpur,Shrinath Nama Travel Agency,391,0:9:47,Non A/c,08:30:00 PM,06:17:00 AM
+Kota,Bundi,Hans Travels Indore-,41,0:1:0,Non A/c,02:15:00 AM,03:15:00 AM
+Kota,Beawar,Shrinath Nama Travel Agency,249,0:6:14,Non A/c,08:30:00 PM,02:44:00 AM
+Kota,Ganganagar,Shrinath Nama Travel Agency,682,0:17:3,Non A/c,05:15:00 PM,10:18:00 AM
+Kota,Bhilwara,Shrinath Travels (Kota)-,160,0:4:10,Non A/c,09:00:00 PM,01:10:00 AM
+Kota,Tonk,Hans Travels Indore-,143,0:3:30,Non A/c,02:15:00 AM,05:45:00 AM
+Shivpuri,Dholpur,Hans Travels Indore-,177,0:4:10,Non A/c,04:00:00 AM,08:10:00 AM
+Shivpuri,Dholpur,Hans Travels Indore-,177,0:3:40,A/c,04:15:00 AM,07:55:00 AM
+HimmatNagar,Beawer,shrinath travel agency,396,0:8:30,Non A/c,12:30:00 AM,09:00:00 AM
+HimmatNagar,Beawer,shrinath travel agency,396,0:7:30,Non A/c,09:30:00 PM,05:00:00 AM
+HimmatNagar,Beawer,shrinath travel agency,396,0:7:0,Non A/c,08:30:00 PM,03:30:00 AM
+HimmatNagar,Mavli,Pooja Travels-KARNAVATI,220,0:5:0,Non A/c,12:30:00 AM,05:30:00 AM
+HimmatNagar,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,448,1:7:50,A/c,12:30:00 AM,08:20:00 AM
+HimmatNagar,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,448,0:8:5,A/c,08:30:00 PM,04:35:00 AM
+HimmatNagar,Ajmer,shrinath travel agency,448,0:7:30,Non A/c,08:30:00 PM,04:00:00 AM
+HimmatNagar,Ajmer,shrinath travel agency,448,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+HimmatNagar,Chittor,shrinath travel agency-brand new lcd coach,290,0:5:0,A/c,11:30:00 PM,04:30:00 AM
+HimmatNagar,Chittor,shrinath travel agency,290,0:4:30,Volvo  A/c,08:45:00 PM,01:15:00 AM
+HimmatNagar,Chittor,shrinath travel agency-brandnew volvo coac,290,0:4:45,Volvo  A/c,05:15:00 PM,10:00:00 PM
+HimmatNagar,Chittor,shrinath travel agency-brandnew volvo coac,290,0:4:45,Volvo  A/c,11:20:00 PM,04:05:00 AM
+HimmatNagar,Chittor,Pooja Travels-SAMRIN,290,0:5:0,Non A/c,10:45:00 PM,03:45:00 AM
+HimmatNagar,Chittor,Gujarat Travels-BRAND NEW LCD COACH,290,1:4:0,A/c,12:30:00 AM,04:30:00 AM
+HimmatNagar,Chittor,Pooja Travels-KARNAVATI,290,0:8:0,Non A/c,12:30:00 AM,08:30:00 AM
+HimmatNagar,Chittor,Gujarat Travels-Toilet facility,290,0:5:15,A/c,03:45:00 AM,09:00:00 AM
+HimmatNagar,Chittor,shrinath travel agency-brandnew volvo coac,290,0:4:30,Volvo  A/c,08:45:00 PM,01:15:00 AM
+HimmatNagar,Chittor,shrinath travel agency,290,0:4:45,Volvo  A/c,05:15:00 PM,10:00:00 PM
+HimmatNagar,Kishangadh,shrinath travel agency,495,0:8:0,Non A/c,08:30:00 PM,04:30:00 AM
+HimmatNagar,Kishangadh,shrinath travel agency,495,0:8:30,Non A/c,09:30:00 PM,06:00:00 AM
+HimmatNagar,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,495,0:9:5,A/c,08:30:00 PM,05:35:00 AM
+HimmatNagar,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,495,1:8:50,A/c,12:30:00 AM,09:20:00 AM
+HimmatNagar,Sirohi,punjab travels,196,0:6:0,Non A/c,12:30:00 AM,06:30:00 AM
+HimmatNagar,AbuRoad,Gujarat Travels-,125,0:4:15,A/c,12:15:00 AM,04:30:00 AM
+HimmatNagar,AbuRoad,Gujarat Travels-A/C COACH 2X2,125,0:3:30,A/c,08:45:00 AM,12:15:00 PM
+HimmatNagar,AbuRoad,Gujarat Travels-,125,0:4:0,Non A/c,12:55:00 AM,04:55:00 AM
+HimmatNagar,AbuRoad,Gujarat Travels-,125,0:4:15,Non A/c,08:30:00 AM,12:45:00 PM
+HimmatNagar,AbuRoad,Pooja Travels-SHREE BALAJI,125,0:3:45,Non A/c,10:00:00 PM,01:45:00 AM
+HimmatNagar,AbuRoad,Gujarat Travels-,125,0:4:0,A/c,12:30:00 AM,04:30:00 AM
+HimmatNagar,AbuRoad,punjab travels,125,0:3:0,Non A/c,12:30:00 AM,03:30:00 AM
+HimmatNagar,AbuRoad,Gujarat Travels-,125,0:4:15,A/c,12:35:00 AM,04:50:00 AM
+HimmatNagar,Pali,Pooja Travels-SHREE BALAJI,250,0:6:15,Non A/c,10:00:00 PM,04:15:00 AM
+HimmatNagar,Pali,punjab travels,320,0:8:0,Non A/c,12:30:00 AM,08:30:00 AM
+HimmatNagar,Jaipur,shrinath travel agency-brand new lcd coach,594,0:11:0,A/c,11:30:00 PM,10:30:00 AM
+HimmatNagar,Jaipur,shrinath travel agency-brandnew volvo coac,594,0:9:45,Volvo  A/c,11:20:00 PM,09:05:00 AM
+HimmatNagar,Jaipur,shrinath travel agency,594,0:9:0,Non A/c,08:30:00 PM,05:30:00 AM
+HimmatNagar,Jaipur,shrinath travel agency,594,0:9:45,Volvo  A/c,05:15:00 PM,03:00:00 AM
+HimmatNagar,Jaipur,shrinath travel agency,594,0:10:0,Volvo  A/c,08:45:00 PM,06:45:00 AM
+HimmatNagar,Jaipur,shrinath travel agency,594,0:10:0,Non A/c,09:30:00 PM,07:30:00 AM
+HimmatNagar,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,594,1:10:50,A/c,12:30:00 AM,11:20:00 AM
+HimmatNagar,Jaipur,shrinath travel agency-brandnew volvo coac,594,0:9:45,Volvo  A/c,05:15:00 PM,03:00:00 AM
+HimmatNagar,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,594,0:11:5,A/c,08:30:00 PM,07:35:00 AM
+HimmatNagar,Jaipur,Gujarat Travels-Toilet facility,594,0:12:15,A/c,03:45:00 AM,04:00:00 PM
+HimmatNagar,Jaipur,shrinath travel agency-brandnew volvo coac,594,0:10:0,Volvo  A/c,08:45:00 PM,06:45:00 AM
+HimmatNagar,Fatehnagar,Pooja Travels-KARNAVATI,234,0:7:0,Non A/c,12:30:00 AM,07:30:00 AM
+HimmatNagar,Bhilwara,shrinath travel agency-brand new lcd coach,343,0:7:30,A/c,11:00:00 PM,06:30:00 AM
+HimmatNagar,Bhilwara,Gujarat Travels-Toilet facility,343,0:6:15,A/c,03:45:00 AM,10:00:00 AM
+HimmatNagar,Bhilwara,shrinath travel agency,343,0:5:45,Volvo  A/c,05:15:00 PM,11:00:00 PM
+HimmatNagar,Bhilwara,shrinath travel agency-brand new lcd coach,343,0:6:0,A/c,11:30:00 PM,05:30:00 AM
+HimmatNagar,Bhilwara,shrinath travel agency-brandnew volvo coac,343,0:5:45,Volvo  A/c,11:20:00 PM,05:05:00 AM
+HimmatNagar,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,343,0:6:15,A/c,08:30:00 PM,02:45:00 AM
+HimmatNagar,Bhilwara,Pooja Travels-KARNAVATI,343,0:9:0,Non A/c,12:30:00 AM,09:30:00 AM
+HimmatNagar,Bhilwara,shrinath travel agency,343,0:5:30,Volvo  A/c,08:45:00 PM,02:15:00 AM
+HimmatNagar,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,343,1:6:0,A/c,12:30:00 AM,06:30:00 AM
+HimmatNagar,Bhilwara,shrinath travel agency-brandnew volvo coac,343,0:5:45,Volvo  A/c,05:15:00 PM,11:00:00 PM
+HimmatNagar,Bhilwara,shrinath travel agency-brandnew volvo coac,343,0:5:30,Volvo  A/c,08:45:00 PM,02:15:00 AM
+HimmatNagar,Kota,Pooja Travels-SAMRIN,458,0:7:0,Non A/c,10:45:00 PM,05:45:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brand new lcd coach,120,0:3:0,A/c,11:00:00 PM,02:00:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brand new lcd coach,120,0:3:0,A/c,11:30:00 PM,02:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency,140,0:3:30,A/c,11:55:00 PM,03:25:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,150,0:3:45,Volvo  A/c,05:15:00 PM,09:00:00 PM
+HimmatNagar,Udaipur,shrinath travel agency,80,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+HimmatNagar,Udaipur,shrinath travel agency,150,0:3:45,Non A/c,01:35:00 PM,05:20:00 PM
+HimmatNagar,Udaipur,Gujarat Travels-,1100,1:3:30,Non A/c,12:55:00 AM,04:25:00 AM
+HimmatNagar,Udaipur,Neeta Tours and Travels,80,0:2:0,B9R Multi-Axle Semi Sleeper Volvo A/C,08:10:00 AM,10:10:00 AM
+HimmatNagar,Udaipur,Gujarat Travels-Toilet facility,150,0:3:45,A/c,03:45:00 AM,07:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency,120,0:3:0,Non A/c,12:30:00 AM,03:30:00 AM
+HimmatNagar,Udaipur,Gujarat Travels-A/C,120,0:3:0,Non A/c  A/c,12:00:00 AM,03:00:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,110,0:2:45,Volvo  A/c,12:45:00 AM,03:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,120,0:3:0,Volvo  A/c,08:45:00 PM,11:45:00 PM
+HimmatNagar,Udaipur,Gujarat Travels-BRAND NEW LCD COACH,1080,1:3:0,A/c,12:30:00 AM,03:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,110,0:2:45,Volvo  A/c,08:45:00 AM,11:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency,120,0:3:0,Volvo  A/c,08:45:00 PM,11:45:00 PM
+HimmatNagar,Udaipur,shrinath travel agency,160,0:4:0,Non A/c,08:30:00 PM,12:30:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,110,0:2:45,Volvo  A/c,03:15:00 PM,06:00:00 PM
+HimmatNagar,Udaipur,Gujarat Travels-,140,0:3:30,Non A/c,08:45:00 AM,12:15:00 PM
+HimmatNagar,Udaipur,shrinath travel agency,120,0:3:0,Non A/c,12:00:00 AM,03:00:00 AM
+HimmatNagar,Udaipur,Pooja Travels-KARNAVATI,160,0:4:0,Non A/c,12:30:00 AM,04:30:00 AM
+HimmatNagar,Udaipur,Pooja Travels-SAMRIN,120,0:3:0,Non A/c,10:45:00 PM,01:45:00 AM
+HimmatNagar,Udaipur,Gujarat Travels-BRAND NEW LCD COACH,130,0:3:15,A/c,08:30:00 PM,11:45:00 PM
+HimmatNagar,Udaipur,Neeta Tours and Travels,100,0:2:30,B9R Multi-Axle Semi Sleeper Volvo A/C,07:30:00 AM,10:00:00 AM
+HimmatNagar,Udaipur,shrinath travel agency-brandnew volvo coac,150,0:3:45,Volvo  A/c,11:20:00 PM,03:05:00 AM
+HimmatNagar,Udaipur,shrinath travel agency,150,0:3:45,Volvo  A/c,05:15:00 PM,09:00:00 PM
+HimmatNagar,Jodhpur,punjab travels,382,0:9:0,Non A/c,12:30:00 AM,09:30:00 AM
+HimmatNagar,Jodhpur,Pooja Travels-SHREE BALAJI,382,0:7:15,Non A/c,10:00:00 PM,05:15:00 AM
+HimmatNagar,Kakroli,shrinath travel agency-brand new lcd coach,247,0:5:0,A/c,11:00:00 PM,04:00:00 AM
+HimmatNagar,Kakroli,shrinath travel agency,247,0:5:0,Non A/c,12:00:00 AM,05:00:00 AM
+HimmatNagar,Amet,shrinath travel agency,283,0:5:30,Non A/c,12:00:00 AM,05:30:00 AM
+HimmatNagar,Bhim,shrinath travel agency,343,0:6:30,Non A/c,08:30:00 PM,03:00:00 AM
+HimmatNagar,Bhim,shrinath travel agency,343,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+HimmatNagar,Keshariyaji,shrinath travel agency,114,0:3:0,Non A/c,01:35:00 PM,04:35:00 PM
+HimmatNagar,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,458,0:7:30,A/c,12:30:00 AM,08:00:00 AM
+HimmatNagar,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,458,0:7:45,A/c,08:30:00 PM,04:15:00 AM
+HimmatNagar,Kapasan,Pooja Travels-KARNAVATI,259,0:6:0,Non A/c,12:30:00 AM,06:30:00 AM
+HimmatNagar,Devgadh,shrinath travel agency,187,0:6:0,Non A/c,08:30:00 PM,02:30:00 AM
+HimmatNagar,Devgadh,shrinath travel agency,187,0:6:0,Non A/c,09:30:00 PM,03:30:00 AM
+HimmatNagar,Nathdwara,Neeta Tours and Travels,231,0:3:0,B9R Multi-Axle Semi Sleeper Volvo A/C,08:10:00 AM,11:10:00 AM
+HimmatNagar,Nathdwara,Neeta Tours and Travels,231,0:3:30,B9R Multi-Axle Semi Sleeper Volvo A/C,07:30:00 AM,11:00:00 AM
+Beawer,Kakroli,shrinath travel agency,153,0:3:30,Non A/c,06:45:00 PM,10:15:00 PM
+Beawer,Jaipur,shrinath travel agency,185,0:2:0,Non A/c,10:15:00 PM,12:15:00 AM
+Beawer,Sirohi,shrinath travel agency,246,0:5:0,Non A/c,05:15:00 PM,10:15:00 PM
+Beawer,Pali,shrinath travel agency,100,0:2:30,Non A/c,05:15:00 PM,07:45:00 PM
+Beawer,Udaipur,shrinath travel agency,220,0:5:30,Non A/c,06:45:00 PM,12:15:00 AM
+Beawer,Udaipur,shrinath travel agency,200,0:5:0,Non A/c,11:00:00 PM,04:00:00 AM
+Beawer,Udaipur,shrinath travel agency,200,0:5:0,Non A/c,05:00:00 PM,10:00:00 PM
+Beawer,Bhim,shrinath travel agency,55,0:0:30,Non A/c,05:00:00 PM,05:30:00 PM
+Beawer,Bikaner,shrinath travel agency,275,0:6:0,Non A/c,11:30:00 PM,05:30:00 AM
+Beawer,Naukha,shrinath travel agency,214,0:5:0,Non A/c,11:30:00 PM,04:30:00 AM
+Gurgaon,Jaipur,shrinath travel agency-brand new lcd coach,235,0:5:53,A/c,09:30:00 PM,03:23:00 AM
+Gurgaon,Bhilwara,shrinath travel agency-brand new lcd coach,483,0:12:5,A/c,09:30:00 PM,09:35:00 AM
+Gurgaon,Udaipur,shrinath travel agency-brand new lcd coach,324,0:8:6,A/c,09:30:00 PM,05:36:00 AM
+Gurgaon,Udaipur,Rishabh Travels,231,0:5:47,Non A/c,06:30:00 PM,12:17:00 AM
+Gurgaon,Nathdwara,Rishabh Travels,583,0:14:35,Non A/c,06:30:00 PM,09:05:00 AM
+Gurgaon,Chittor,shrinath travel agency-brand new lcd coach,540,0:13:30,A/c,09:30:00 PM,11:00:00 AM
+Gurgaon,Kakroli,Rishabh Travels,571,0:14:17,Non A/c,06:30:00 PM,08:47:00 AM
+Ankleshwar,Beawer,shrinath travel agency,636,0:13:0,Non A/c,03:30:00 PM,04:30:00 AM
+Ankleshwar,Beawer,R R Travels-,636,0:10:57,Non A/c,03:15:00 PM,02:12:00 AM
+Ankleshwar,Beawer,shreenath travellers,636,0:15:54,A/c,03:30:00 PM,07:24:00 AM
+Ankleshwar,Kishangadh,shreenath travellers,735,0:18:23,A/c,03:30:00 PM,09:53:00 AM
+Ankleshwar,Kishangadh,R R Travels-,735,0:12:21,Non A/c,03:15:00 PM,03:36:00 AM
+Ankleshwar,Kishangadh,shrinath travel agency,735,0:13:20,Non A/c,03:30:00 PM,04:50:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:11:0,Non A/c,10:00:00 PM,09:00:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:11:0,Non A/c,11:15:00 PM,10:15:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:8:51,Non A/c,09:00:00 PM,05:51:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:6:30,Non A/c,08:10:00 PM,02:40:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:11:0,Non A/c  A/c,10:30:00 PM,09:30:00 AM
+Ankleshwar,Keshariyaji,shreenath travellers,354,0:11:0,Non A/c,11:30:00 PM,10:30:00 AM
+Ankleshwar,Bhilwara,shreenath travellers,583,0:10:0,Non A/c,08:10:00 PM,06:10:00 AM
+Ankleshwar,Bhilwara,shrinath travel agency-brand new lcd coach,583,0:12:0,A/c,08:00:00 PM,08:00:00 AM
+Ankleshwar,Bhilwara,shreenath travellers,583,0:14:35,Non A/c,10:00:00 PM,12:35:00 PM
+Ankleshwar,Ajmer,shrinath travel agency,688,0:13:15,Non A/c,03:30:00 PM,04:45:00 AM
+Ankleshwar,Ajmer,R R Travels-,688,0:11:48,Non A/c,03:15:00 PM,03:03:00 AM
+Ankleshwar,Ajmer,shreenath travellers,688,0:17:12,A/c,03:30:00 PM,08:42:00 AM
+Ankleshwar,Amet,shrinath travel agency,523,0:12:0,Non A/c,06:30:00 PM,06:30:00 AM
+Ankleshwar,Jaipur,shrinath travel agency,834,0:14:0,Non A/c,03:30:00 PM,05:30:00 AM
+Ankleshwar,Jaipur,Vardhman Subham Travels,834,0:20:51,A/c,04:30:00 PM,01:21:00 PM
+Ankleshwar,Jaipur,R R Travels-,834,0:13:53,Non A/c,03:15:00 PM,05:08:00 AM
+Ankleshwar,Jaipur,shreenath travellers,834,0:20:51,A/c,03:30:00 PM,12:21:00 PM
+Ankleshwar,Sirohi,shreenath travellers,477,0:10:0,Non A/c,07:00:00 PM,05:00:00 AM
+Ankleshwar,Sirohi,shreenath travellers,477,0:10:30,Non A/c,06:35:00 PM,05:05:00 AM
+Ankleshwar,Sirohi,shreenath travellers,477,0:10:30,Non A/c,06:30:00 PM,05:00:00 AM
+Ankleshwar,Sirohi,shreenath travellers,477,0:10:0,Non A/c,05:30:00 PM,03:30:00 AM
+Ankleshwar,Sirohi,shrinath travel agency,477,0:10:30,Non A/c,07:00:00 PM,05:30:00 AM
+Ankleshwar,Sirohi,shreenath travellers,477,0:10:0,A/c,06:00:00 PM,04:00:00 AM
+Ankleshwar,Pali,shreenath travellers,560,0:14:0,Non A/c,07:00:00 PM,09:00:00 AM
+Ankleshwar,Pali,shreenath travellers,560,0:14:0,Non A/c,05:30:00 PM,07:30:00 AM
+Ankleshwar,Pali,shreenath travellers,520,0:13:0,A/c,06:00:00 PM,07:00:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:8:0,A/c,06:00:00 PM,02:00:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:9:0,Non A/c,08:35:00 PM,05:35:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:9:30,Non A/c,06:30:00 PM,04:00:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:8:30,Non A/c,08:30:00 PM,05:00:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:8:30,Non A/c,07:00:00 PM,03:30:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:9:30,Non A/c,06:35:00 PM,04:05:00 AM
+Ankleshwar,AbuRoad,shreenath travellers,406,0:8:30,Non A/c,05:30:00 PM,02:00:00 AM
+Ankleshwar,AbuRoad,shrinath travel agency,406,0:9:30,Non A/c,07:00:00 PM,04:30:00 AM
+Ankleshwar,Bhim,shreenath travellers,583,0:14:35,A/c,03:30:00 PM,06:05:00 AM
+Ankleshwar,Bhim,R R Travels-,583,0:10:8,Non A/c,03:15:00 PM,01:23:00 AM
+Ankleshwar,Bhim,shrinath travel agency,583,0:12:50,Non A/c,03:30:00 PM,04:20:00 AM
+Ankleshwar,Gogunda,shreenath travellers,454,0:13:30,Non A/c,11:15:00 PM,12:45:00 PM
+Ankleshwar,Gogunda,shreenath travellers,454,0:13:30,Non A/c  A/c,10:30:00 PM,12:00:00 PM
+Ankleshwar,Gogunda,shreenath travellers,454,0:13:30,Non A/c,10:00:00 PM,11:30:00 AM
+Ankleshwar,Gogunda,shreenath travellers,454,0:13:30,Non A/c,11:30:00 PM,01:00:00 PM
+Ankleshwar,Sayra,shreenath travellers,490,0:14:0,Non A/c  A/c,10:30:00 PM,12:30:00 PM
+Ankleshwar,Sayra,shreenath travellers,490,0:14:0,Non A/c,11:30:00 PM,01:30:00 PM
+Ankleshwar,Sayra,shreenath travellers,490,0:14:0,Non A/c,10:00:00 PM,12:00:00 PM
+Ankleshwar,Sayra,shreenath travellers,490,0:14:0,Non A/c,11:15:00 PM,01:15:00 PM
+Ankleshwar,Kakroli,shreenath travellers,487,0:9:30,Non A/c,08:10:00 PM,05:40:00 AM
+Ankleshwar,Kakroli,shrinath travel agency-brand new lcd coach,487,0:10:0,A/c,08:00:00 PM,06:00:00 AM
+Ankleshwar,Kakroli,shrinath travel agency,487,0:11:20,Non A/c,06:30:00 PM,05:50:00 AM
+Ankleshwar,Kakroli,shrinath travel agency,487,0:12:0,Non A/c,03:30:00 PM,03:30:00 AM
+Ankleshwar,Kakroli,shreenath travellers,487,0:12:11,Non A/c,10:00:00 PM,10:11:00 AM
+Ankleshwar,Udaipur,shreenath travellers,380,0:9:30,Non A/c,10:00:00 PM,07:30:00 AM
+Ankleshwar,Udaipur,shrinath travel agency,420,0:10:30,Non A/c,06:30:00 PM,05:00:00 AM
+Ankleshwar,Udaipur,shreenath travellers,380,0:9:30,Non A/c,11:15:00 PM,08:45:00 AM
+Ankleshwar,Udaipur,shrinath travel agency-brand new lcd coach,320,0:8:0,A/c,08:00:00 PM,04:00:00 AM
+Ankleshwar,Udaipur,R R Travels-,291,0:7:16,Non A/c,03:15:00 PM,10:31:00 PM
+Ankleshwar,Udaipur,shreenath travellers,231,0:5:47,Non A/c,09:00:00 PM,02:47:00 AM
+Ankleshwar,Udaipur,shreenath travellers,380,0:9:30,Non A/c  A/c,10:30:00 PM,08:00:00 AM
+Ankleshwar,Udaipur,shreenath travellers,360,0:9:0,A/c,09:05:00 PM,06:05:00 AM
+Ankleshwar,Udaipur,shrinath travel agency,420,0:10:30,Non A/c,03:30:00 PM,02:00:00 AM
+Ankleshwar,Udaipur,shreenath travellers,320,0:8:0,Non A/c,08:10:00 PM,04:10:00 AM
+Ankleshwar,Udaipur,shreenath travellers,370,0:9:15,A/c,03:30:00 PM,12:45:00 AM
+Ankleshwar,Udaipur,shreenath travellers,380,0:9:30,Non A/c,11:30:00 PM,09:00:00 AM
+Ankleshwar,Jodhpur,shreenath travellers,662,0:15:0,Non A/c,07:00:00 PM,10:00:00 AM
+Ankleshwar,Jodhpur,shreenath travellers,662,0:13:30,A/c,06:00:00 PM,07:30:00 AM
+Ankleshwar,Jodhpur,shreenath travellers,662,0:15:0,Non A/c,05:30:00 PM,08:30:00 AM
+Mahesana,Bikaner,shrinath travel agency-brand new lcd coach,659,0:11:30,A/c,10:30:00 PM,10:00:00 AM
+Mahesana,Bikaner,punjab travels,659,0:13:15,Non A/c,06:45:00 PM,08:00:00 AM
+Mahesana,Bikaner,shrinath travel agency,659,0:12:0,Non A/c,07:30:00 PM,07:30:00 AM
+Mahesana,Bikaner,shrinath travel agency,659,0:12:0,Non A/c,10:00:00 PM,10:00:00 AM
+Mahesana,Pali,shrinath travel agency,240,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Mahesana,Pali,shrinath travel agency-brandnew volvo coac,240,0:6:0,Volvo  A/c,12:15:00 AM,06:15:00 AM
+Mahesana,Pali,shrinath travel agency-brand new lcd coach,220,0:5:30,A/c,10:30:00 PM,04:00:00 AM
+Mahesana,Pali,Jain Travels (Regd.) (Abd),260,0:6:30,Non A/c,04:30:00 PM,11:00:00 PM
+Mahesana,Pali,shrinath travel agency,280,0:7:0,Non A/c,11:15:00 PM,06:15:00 AM
+Mahesana,Pali,punjab travels,340,0:8:30,Non A/c,06:45:00 PM,03:15:00 AM
+Mahesana,Pali,shrinath travel agency,260,0:6:30,Non A/c,03:30:00 PM,10:00:00 PM
+Mahesana,Pali,shrinath travel agency,240,0:6:0,Non A/c,07:30:00 PM,01:30:00 AM
+Mahesana,Pali,Gujarat Travels-BRAND NEW LCD COACH,270,0:6:45,A/c,12:30:00 AM,07:15:00 AM
+Mahesana,Sirohi,Gujarat Travels-BRAND NEW LCD COACH,195,0:3:30,A/c,12:30:00 AM,04:00:00 AM
+Mahesana,Sirohi,punjab travels,195,0:5:0,Non A/c,06:45:00 PM,11:45:00 PM
+Mahesana,Sirohi,shrinath travel agency-brandnew volvo coac,195,0:3:30,Volvo  A/c,12:15:00 AM,03:45:00 AM
+Mahesana,Sirohi,shrinath travel agency,195,0:4:0,Non A/c,07:30:00 PM,11:30:00 PM
+Mahesana,Sirohi,shrinath travel agency,195,0:4:0,Non A/c,11:15:00 PM,03:15:00 AM
+Mahesana,Sirohi,Jain Travels (Regd.) (Abd),195,0:4:0,Non A/c,04:30:00 PM,08:30:00 PM
+Mahesana,Sirohi,shrinath travel agency,195,0:4:0,Non A/c,03:30:00 PM,07:30:00 PM
+Mahesana,Sirohi,shrinath travel agency,195,0:4:30,Non A/c,10:00:00 PM,02:30:00 AM
+Mahesana,Sirohi,shrinath travel agency-brand new lcd coach,195,0:3:30,A/c,10:30:00 PM,02:00:00 AM
+Mahesana,Jodhpur,shrinath travel agency,381,0:8:30,Non A/c,11:15:00 PM,07:45:00 AM
+Mahesana,Jodhpur,shrinath travel agency-brandnew volvo coac,381,0:7:30,Volvo  A/c,12:15:00 AM,07:45:00 AM
+Mahesana,Jodhpur,shrinath travel agency-brand new lcd coach,381,0:6:30,A/c,10:30:00 PM,05:00:00 AM
+Mahesana,Jodhpur,Gujarat Travels-BRAND NEW LCD COACH,381,0:8:0,A/c,12:30:00 AM,08:30:00 AM
+Mahesana,Jodhpur,shrinath travel agency,381,0:7:30,Non A/c,10:00:00 PM,05:30:00 AM
+Mahesana,Jodhpur,shrinath travel agency,381,0:7:0,Non A/c,07:30:00 PM,02:30:00 AM
+Mahesana,Jodhpur,punjab travels,381,0:9:30,Non A/c,06:45:00 PM,04:15:00 AM
+Mahesana,Jaipur,shrinath travel agency,588,0:11:30,Non A/c,03:30:00 PM,03:00:00 AM
+Mahesana,AbuRoad,shrinath travel agency,127,0:3:0,Non A/c,07:30:00 PM,10:30:00 PM
+Mahesana,AbuRoad,shrinath travel agency,127,0:2:30,Non A/c,10:00:00 PM,12:30:00 AM
+Mahesana,AbuRoad,Gujarat Travels-BRAND NEW LCD COACH,127,0:2:30,A/c,12:30:00 AM,03:00:00 AM
+Mahesana,AbuRoad,shrinath travel agency,127,0:2:30,Non A/c,11:15:00 PM,01:45:00 AM
+Mahesana,AbuRoad,shrinath travel agency-brandnew volvo coac,127,0:3:0,Volvo  A/c,12:15:00 AM,03:15:00 AM
+Mahesana,AbuRoad,shrinath travel agency-brand new lcd coach,127,0:2:30,A/c,10:30:00 PM,01:00:00 AM
+Mahesana,AbuRoad,punjab travels,127,0:4:0,Non A/c,06:45:00 PM,10:45:00 PM
+Mahesana,AbuRoad,Jain Travels (Regd.) (Abd),127,0:2:30,Non A/c,04:30:00 PM,07:00:00 PM
+Mahesana,AbuRoad,shrinath travel agency,127,0:2:30,Non A/c,03:30:00 PM,06:00:00 PM
+Mahesana,SojatCity,Jain Travels (Regd.) (Abd),280,0:7:0,Non A/c,04:30:00 PM,11:30:00 PM
+Mahesana,Ajmer,shrinath travel agency,458,0:9:30,Non A/c,03:30:00 PM,01:00:00 AM
+Mahesana,Naukha,shrinath travel agency,576,0:11:0,Non A/c,07:30:00 PM,06:30:00 AM
+Mahesana,Naukha,shrinath travel agency,576,0:11:0,Non A/c,10:00:00 PM,09:00:00 AM
+Mahesana,Naukha,shrinath travel agency-brand new lcd coach,576,0:10:30,A/c,10:30:00 PM,09:00:00 AM
+Mahesana,Naukha,punjab travels,576,0:10:0,Non A/c,06:45:00 PM,04:45:00 AM
+Mahesana,Beawer,shrinath travel agency,406,0:8:30,Non A/c,03:30:00 PM,12:00:00 AM
+Tonk,Kota,Hans Travels Indore-,142,0:4:0,Non A/c,09:10:00 PM,01:10:00 AM
+Tonk,Jhalawar,Hans Travels Indore-,224,0:5:40,Non A/c,09:10:00 PM,02:50:00 AM
+Indore,Nathdwara,Gagan Tourist,430,0:11:0,Luxury,06:30:00 PM,05:30:00 AM
+Indore,Dholpur,Hans Travels Indore-,554,0:11:55,A/c,08:00:00 PM,07:55:00 AM
+Indore,Dholpur,Hans Travels Indore-,554,0:12:55,Non A/c,07:15:00 PM,08:10:00 AM
+Indore,Jhalawar,Hans Travels Indore-,230,0:5:50,Non A/c,08:00:00 PM,01:50:00 AM
+Indore,Jaipur,Hans Travels Indore-,547,0:13:55,Non A/c,08:00:00 PM,09:55:00 AM
+Indore,Jaipur,Gagan Tourist,547,0:13:0,Luxury,08:30:00 PM,09:30:00 AM
+Indore,Jaipur,Kalpana Travels Pvt.Ltd.,547,0:14:30,Non A/c,06:00:00 PM,08:30:00 AM
+Indore,Jaipur,Hans Travels Indore-,547,0:14:0,Non A/c,05:30:00 PM,07:30:00 AM
+Indore,Pali,Gagan Tourist,587,0:14:40,Luxury,06:30:00 PM,09:10:00 AM
+Indore,Tonk,Kalpana Travels Pvt.Ltd.,453,0:12:0,Non A/c,06:00:00 PM,06:00:00 AM
+Indore,Tonk,Hans Travels Indore-,453,0:11:0,Non A/c,05:30:00 PM,04:30:00 AM
+Indore,Tonk,Gagan Tourist,453,0:11:0,Luxury,08:30:00 PM,07:30:00 AM
+Indore,Tonk,Hans Travels Indore-,453,0:11:0,Non A/c,08:00:00 PM,07:00:00 AM
+Indore,Devgadh,Gagan Tourist,246,0:12:0,Luxury,08:00:00 PM,08:00:00 AM
+Indore,Newai,Kalpana Travels Pvt.Ltd.,478,0:13:0,Non A/c,06:00:00 PM,07:00:00 AM
+Indore,Udaipur,Gagan Tourist,440,0:11:0,Luxury,08:00:00 PM,07:00:00 AM
+Indore,Udaipur,Gagan Tourist,420,0:10:30,Luxury,06:30:00 PM,05:00:00 AM
+Indore,Niwai,Hans Travels Indore-,478,0:11:50,Non A/c,08:00:00 PM,07:50:00 AM
+Indore,Niwai,Hans Travels Indore-,478,0:12:0,Non A/c,05:30:00 PM,05:30:00 AM
+Indore,Kakroli,Gagan Tourist,446,0:11:30,Luxury,06:30:00 PM,06:00:00 AM
+Indore,Bundi,Hans Travels Indore-,351,0:8:30,Non A/c,05:30:00 PM,02:00:00 AM
+Indore,Bundi,Kalpana Travels Pvt.Ltd.,351,0:9:0,Non A/c,06:00:00 PM,03:00:00 AM
+Indore,Bundi,Hans Travels Indore-,351,0:8:30,Non A/c,08:00:00 PM,04:30:00 AM
+Indore,Bhilwara,Gagan Tourist,400,0:10:0,Luxury,08:00:00 PM,06:00:00 AM
+Indore,Kota,Kalpana Travels Pvt.Ltd.,311,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Indore,Kota,Hans Travels Indore-,311,0:7:30,Non A/c,05:30:00 PM,01:00:00 AM
+Indore,Kota,Hans Travels Indore-,311,0:7:30,Non A/c,08:00:00 PM,03:30:00 AM
+Indore,Deoli,Hans Travels Indore-,387,0:9:40,Non A/c,08:00:00 PM,05:40:00 AM
+Ajmer,Chittor,Gujarat Travels-,192,0:4:0,A/c,08:30:00 PM,12:30:00 AM
+Ajmer,Chittor,Gujarat Travels-,192,0:4:0,A/c,11:30:00 PM,03:30:00 AM
+Ajmer,Beawer,Kalpana Travels Pvt.Ltd.,55,0:1:30,Non A/c,11:30:00 PM,01:00:00 AM
+Ajmer,Beawer,Kalpana Travels Pvt.Ltd.,55,0:2:0,Non A/c,11:00:00 PM,01:00:00 AM
+Ajmer,Beawer,shrinath travel agency,55,0:1:0,Non A/c,03:30:00 PM,04:30:00 PM
+Ajmer,Beawer,Kalpana Travels Pvt.Ltd.,55,0:2:0,Non A/c,12:45:00 AM,02:45:00 AM
+Ajmer,Beawer,shrinath travel agency,55,0:0:30,Non A/c,10:00:00 PM,10:30:00 PM
+Ajmer,Beawer,shrinath travel agency,55,0:1:0,Non A/c,04:15:00 PM,05:15:00 PM
+Ajmer,Sirohi,Kalpana Travels Pvt.Ltd.,299,0:7:0,Non A/c,11:00:00 PM,06:00:00 AM
+Ajmer,Sirohi,shrinath travel agency,299,0:6:45,Non A/c,04:15:00 PM,11:00:00 PM
+Ajmer,Nimbaheda,Kalpana Travels Pvt.Ltd.,226,0:5:30,Non A/c,09:30:00 PM,03:00:00 AM
+Ajmer,Nimbaheda,Kalpana Travels Pvt.Ltd.,226,0:5:30,Non A/c,10:30:00 PM,04:00:00 AM
+Ajmer,Bhim,Kalpana Travels Pvt.Ltd.,107,0:2:0,Non A/c,11:30:00 PM,01:30:00 AM
+Ajmer,Bhim,shrinath travel agency,107,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Ajmer,Bhim,Kalpana Travels Pvt.Ltd.,107,0:2:30,Non A/c,10:30:00 PM,01:00:00 AM
+Ajmer,Bhim,Kalpana Travels Pvt.Ltd.,107,0:2:0,Non A/c,11:00:00 PM,01:00:00 AM
+Ajmer,Bhim,shrinath travel agency,107,0:1:30,Non A/c,03:30:00 PM,05:00:00 PM
+Ajmer,Keshariyaji,Kalpana Travels Pvt.Ltd.,336,0:7:0,Non A/c,08:15:00 PM,03:15:00 AM
+Ajmer,Keshariyaji,Kalpana Travels Pvt.Ltd.,336,0:7:0,Non A/c,05:15:00 PM,12:15:00 AM
+Ajmer,Kishangadh,Kalpana Travels Pvt.Ltd.,32,0:1:15,Non A/c,08:00:00 PM,09:15:00 PM
+Ajmer,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,32,0:1:0,A/c,04:35:00 AM,05:35:00 AM
+Ajmer,Devgadh,shrinath travel agency,519,1:1:30,Non A/c,10:00:00 PM,11:30:00 PM
+Ajmer,Devgadh,shrinath travel agency,519,1:2:30,Non A/c,03:30:00 PM,06:00:00 PM
+Ajmer,Udaipur,Kalpana Travels Pvt.Ltd.,300,0:7:30,Non A/c,10:30:00 PM,06:00:00 AM
+Ajmer,Udaipur,Gujarat Travels-,220,0:5:30,A/c,08:30:00 PM,02:00:00 AM
+Ajmer,Udaipur,rishabh travels,280,0:7:0,Non A/c,11:45:00 PM,06:45:00 AM
+Ajmer,Udaipur,shrinath travel agency,340,0:8:30,Non A/c,05:30:00 PM,02:00:00 AM
+Ajmer,Udaipur,Gujarat Travels-,220,0:5:30,A/c,11:30:00 PM,05:00:00 AM
+Ajmer,Udaipur,shrinath travel agency,280,0:7:0,Non A/c,03:30:00 PM,10:30:00 PM
+Ajmer,Udaipur,Kalpana Travels Pvt.Ltd.,240,0:6:0,Non A/c,05:15:00 PM,11:15:00 PM
+Ajmer,Udaipur,Kalpana Travels Pvt.Ltd.,280,0:7:0,Non A/c,11:30:00 PM,06:30:00 AM
+Ajmer,Udaipur,Kalpana Travels Pvt.Ltd.,280,0:7:0,Non A/c,11:00:00 PM,06:00:00 AM
+Ajmer,Udaipur,shrinath travel agency,340,0:8:30,Non A/c,10:00:00 PM,06:30:00 AM
+Ajmer,Udaipur,Kalpana Travels Pvt.Ltd.,240,0:6:0,Non A/c,08:15:00 PM,02:15:00 AM
+Ajmer,AbuRoad,Kalpana Travels Pvt.Ltd.,334,0:9:30,Non A/c,11:00:00 PM,08:30:00 AM
+Ajmer,AbuRoad,Kalpana Travels Pvt.Ltd.,334,0:8:21,Non A/c,09:30:00 PM,05:51:00 AM
+Ajmer,AbuRoad,Kalpana Travels Pvt.Ltd.,334,0:8:21,Non A/c,08:30:00 PM,04:51:00 AM
+Ajmer,Pushkar,Kalpana Travels Pvt.Ltd.,15,0:6:0,Non A/c,08:30:00 PM,02:30:00 AM
+Ajmer,Nasirabad,Gujarat Travels-,20,0:0:30,A/c,08:30:00 PM,09:00:00 PM
+Ajmer,Nasirabad,Gujarat Travels-,20,0:0:30,A/c,11:30:00 PM,12:00:00 AM
+Ajmer,Pali,shrinath travel agency,170,0:4:15,Non A/c,04:15:00 PM,08:30:00 PM
+Ajmer,Pali,Kalpana Travels Pvt.Ltd.,160,0:4:0,Non A/c,11:00:00 PM,03:00:00 AM
+Ajmer,Pali,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,11:30:00 PM,04:30:00 AM
+Ajmer,Jodhpur,Kalpana Travels Pvt.Ltd.,201,0:5:30,Non A/c,12:45:00 AM,06:15:00 AM
+Ajmer,Bhilwara,Gujarat Travels-,135,0:2:30,A/c,11:30:00 PM,02:00:00 AM
+Ajmer,Bhilwara,Gujarat Travels-,135,0:2:30,A/c,08:30:00 PM,11:00:00 PM
+Ajmer,Bhilwara,Kalpana Travels Pvt.Ltd.,135,0:3:23,Non A/c,09:30:00 PM,12:53:00 AM
+Ajmer,SojatCity,Kalpana Travels Pvt.Ltd.,120,0:3:0,Non A/c,11:00:00 PM,02:00:00 AM
+Ajmer,SojatCity,Kalpana Travels Pvt.Ltd.,180,0:4:30,Non A/c,11:30:00 PM,04:00:00 AM
+Ajmer,Jaipur,Kalpana Travels Pvt.Ltd.,131,0:3:15,Non A/c,08:00:00 PM,11:15:00 PM
+Ajmer,Jaipur,shree rishabh travels,131,0:3:25,Non A/c,08:00:00 PM,11:25:00 PM
+Ajmer,Jaipur,shrinath travel agency,131,0:1:0,Non A/c,11:15:00 PM,12:15:00 AM
+Ajmer,Jaipur,shrinath travel agency,131,0:1:0,Non A/c,07:00:00 PM,08:00:00 PM
+Ajmer,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,131,0:3:0,A/c,04:35:00 AM,07:35:00 AM
+Bangalore,Kota,Kamat Bus,1697,1:11:5,"1+2, Seater, Non-AC",07:15:00 PM,06:20:00 AM
+Bangalore,Kota,Srs Travels (SRS Travels),1697,1:10:5,"2+2, Executive AirBus, Non-AC, Video",09:15:00 PM,07:20:00 AM
+Bangalore,Kota,Sri Durgamba Travels,1697,1:9:10,2+1NEW SEAT -SLEEPER AIR BUS,09:15:00 PM,06:25:00 AM
+Bangalore,Kota,Sri Durgamba Travels,1697,1:9:50,2+1 Seater-Sleeper Airbus,09:30:00 PM,07:20:00 AM
+Bangalore,Kota,Srs Travels (SRS Travels),1697,1:9:35,"2+2, Executive AirBus, Non-AC, Video",10:30:00 PM,08:05:00 AM
+Bangalore,Kota,Bharathi Tourist 3 (Bharathi Bus),1697,1:9:0,"1+2, Sleeper/Seater, Non-AC",10:00:00 PM,07:00:00 AM
+Bangalore,Kota,Srs Travels (SRS Travels),1697,1:9:50,"2+2, Executive AirBus, Non-AC, Video",09:45:00 PM,07:35:00 AM
+Bangalore,Kota,Bharathi Tourist (Bharathi Bus),1697,1:8:41,"1+2, Sleeper/Seater, Non-AC",09:40:00 PM,06:21:00 AM
+Bangalore,Kota,Hanuman Motors,1697,1:11:30,"1+2, Sleeper, Non-AC",07:45:00 PM,07:15:00 AM
+Bangalore,Kota,Sugama Tourists E (Sugama  Tourists),1697,1:11:15,"2+1, Sleeper/Seater, Non-AC",08:00:00 PM,07:15:00 AM
+Bangalore,Kota,Sugama Tourists J (Sugama  Tourists),1697,1:9:30,"2+1, Sleeper/Seater, Non-AC",09:00:00 PM,06:30:00 AM
+Bangalore,Kota,Srs Travels (SRS Travels),1697,1:10:5,"2+1, Sleeper, Non-AC, Non-Video",09:00:00 PM,07:05:00 AM
+Bangalore,Kota,Sugama Tourists D (Sugama  Tourists),1697,1:10:55,"2+2, Semi Sleeper, Non-AC",06:55:00 PM,05:50:00 AM
+Bangalore,Kota,Sri Durgamba Travels,1697,1:8:5,2+1NEW SEAT -SLEEPER AIR BUS,10:30:00 PM,06:35:00 AM
+Bangalore,Kota,Sri Durgamba Travels,1697,1:8:5,2+1NEW SEAT -SLEEPER AIR BUS,09:55:00 PM,06:00:00 AM
+Bangalore,Kota,Sri Durgamba Travels,1697,1:9:35,2+1 Seater-Sleeper Airbus,09:50:00 PM,07:25:00 AM
+Bangalore,Kota,Sugama Tourists W (Sugama  Tourists),1697,1:11:30,"2+1, Sleeper/Seater, Non-AC",07:30:00 PM,07:00:00 AM
+Bangalore,Kota,Cpc Bus (CPC Bus),1697,1:8:40,"2+2, Semi Sleeper, Non-AC",09:20:00 PM,06:00:00 AM
+Bangalore,Kota,Sugama Tourists P (Sugama  Tourists),1697,1:10:15,"2+1, Sleeper/Seater, Non-AC",08:30:00 PM,06:45:00 AM
+Koteshwara,Kota,Sri Durgamba Travels,17,0:0:25,2+1 Seater-Sleeper Airbus,07:20:00 PM,07:45:00 PM
+Maksi,Dholpur,Hans Travels Indore-,482,0:10:10,A/c,09:45:00 PM,07:55:00 AM
+Maksi,Dholpur,Hans Travels Indore-,482,0:11:0,Non A/c,09:10:00 PM,08:10:00 AM
+Jhalrapatan,Beawar,Jakhar Travels,336,0:8:24,Non A/c,05:30:00 PM,01:54:00 AM
+Jhalrapatan,Jhalawar,Jakhar Travels,7,0:0:15,Non A/c,09:00:00 PM,09:15:00 PM
+Jhalrapatan,Jhalawar,Jakhar Travels,7,0:0:15,Non A/c,08:30:00 PM,08:45:00 PM
+Jhalrapatan,Jhalawar,Jakhar Travels,7,0:0:30,Non A/c,07:00:00 PM,07:30:00 PM
+Jhalrapatan,Jodhpur,Jakhar Travels,467,0:11:41,Non A/c,05:30:00 PM,05:11:00 AM
+Jhalrapatan,Kota,Jakhar Travels,88,0:2:50,Non A/c,07:00:00 PM,09:50:00 PM
+Jhalrapatan,Kota,Jakhar Travels,88,0:2:0,Non A/c,08:30:00 PM,10:30:00 PM
+Jhalrapatan,Kota,Jakhar Travels,88,0:2:0,Non A/c,09:00:00 PM,11:00:00 PM
+Ambaji,AbuRoad,Gujarat Travels-,23,0:0:45,Non A/c,12:00:00 PM,12:45:00 PM
+Ambaji,AbuRoad,Gujarat Travels-,23,0:1:0,Non A/c,03:55:00 AM,04:55:00 AM
+Kumbashi Anegudde,Kota,Sri Durgamba Travels,7,0:0:10,2+1 Seater-Sleeper Airbus,07:35:00 PM,07:45:00 PM
+Shirdi,Kakroli,shreenath travellers,783,0:19:0,Non A/c,11:30:00 AM,06:30:00 AM
+Shirdi,Bhilwara,shreenath travellers,737,0:21:0,Non A/c,11:30:00 AM,08:30:00 AM
+Shirdi,Udaipur,shreenath travellers,700,0:17:30,Non A/c,11:30:00 AM,05:00:00 AM
+Jaipur,Nimbaheda,Kalpana Travels Pvt.Ltd.,338,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Jaipur,Nimbaheda,Kalpana Travels Pvt.Ltd.,338,0:8:0,Non A/c,07:00:00 PM,03:00:00 AM
+Jaipur,Nimbaheda,Kalpana Travels Pvt.Ltd.,338,0:8:0,Non A/c,11:15:00 PM,07:15:00 AM
+Jaipur,Nimbaheda,Kalpana Travels Pvt.Ltd.,338,0:8:0,Non A/c,08:00:00 PM,04:00:00 AM
+Jaipur,Bundi,Hans Travels Indore-,209,0:5:55,Non A/c,06:00:00 PM,11:55:00 PM
+Jaipur,Bundi,Dashmesh Tour & Travels,209,0:5:14,Non A/c,07:00:00 PM,12:14:00 AM
+Jaipur,Bundi,Hans Travels Indore-,209,0:5:30,Non A/c,07:30:00 PM,01:00:00 AM
+Jaipur,Bundi,Kalpana Travels Pvt.Ltd.,209,0:5:15,Non A/c,11:30:00 PM,04:45:00 AM
+Jaipur,Bundi,Kalpana Travels Pvt.Ltd.,209,0:5:30,Non A/c,06:00:00 PM,11:30:00 PM
+Jaipur,Bundi,Kalpana Travels Pvt.Ltd.,209,0:5:30,Non A/c,07:00:00 PM,12:30:00 AM
+Jaipur,Nasirabad,Kalpana Travels Pvt.Ltd.,134,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Jaipur,Nasirabad,Gujarat Travels-,134,0:4:0,A/c,05:00:00 PM,09:00:00 PM
+Jaipur,Nasirabad,Kalpana Travels Pvt.Ltd.,134,0:2:45,Non A/c,03:00:00 PM,05:45:00 PM
+Jaipur,Nasirabad,Gujarat Travels-,134,0:4:0,A/c,08:00:00 PM,12:00:00 AM
+Jaipur,Nasirabad,Kalpana Travels Pvt.Ltd.,134,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Jaipur,Nasirabad,Shree Mahaveer Travels,134,0:2:0,Non A/c,03:30:00 PM,05:30:00 PM
+Jaipur,Tonk,Kalpana Travels Pvt.Ltd.,97,0:2:45,Non A/c,11:30:00 PM,02:15:00 AM
+Jaipur,Tonk,Dashmesh Tour & Travels,97,0:2:26,Non A/c,07:00:00 PM,09:26:00 PM
+Jaipur,Tonk,Kalpana Travels Pvt.Ltd.,97,0:3:0,Non A/c,07:00:00 PM,10:00:00 PM
+Jaipur,Tonk,Kalpana Travels Pvt.Ltd.,97,0:3:0,Non A/c,06:00:00 PM,09:00:00 PM
+Jaipur,Tonk,Hans Travels Indore-,97,0:3:0,Non A/c,07:30:00 PM,10:30:00 PM
+Jaipur,Tonk,Hans Travels Indore-,97,0:2:55,Non A/c,06:00:00 PM,08:55:00 PM
+Jaipur,Kapasan,shrinath travel agency,336,0:6:30,Non A/c,11:00:00 PM,05:30:00 AM
+Jaipur,Newai,Kalpana Travels Pvt.Ltd.,70,0:1:30,Non A/c,06:00:00 PM,07:30:00 PM
+Jaipur,Newai,Kalpana Travels Pvt.Ltd.,70,0:1:30,Non A/c,07:00:00 PM,08:30:00 PM
+Jaipur,Newai,Kalpana Travels Pvt.Ltd.,70,0:2:15,Non A/c,11:30:00 PM,01:45:00 AM
+Jaipur,Bikaner,Kalpana Travels Pvt.Ltd.,330,0:6:45,Non A/c,11:15:00 PM,06:00:00 AM
+Jaipur,Bhim,Kalpana Travels Pvt.Ltd.,237,0:4:0,Non A/c,09:00:00 PM,01:00:00 AM
+Jaipur,Bhim,shrinath travel agency,237,0:5:0,Non A/c,03:00:00 PM,08:00:00 PM
+Jaipur,Bhim,Kalpana Travels Pvt.Ltd.,237,0:5:56,Non A/c,07:00:00 PM,12:56:00 AM
+Jaipur,Bhim,Shree Mahaveer Travels,237,0:4:30,Non A/c,01:30:00 PM,06:00:00 PM
+Jaipur,Bhim,Kalpana Travels Pvt.Ltd.,237,0:5:56,Non A/c,11:00:00 PM,04:56:00 AM
+Jaipur,Bhim,Kalpana Travels Pvt.Ltd.,237,0:4:30,Non A/c,09:15:00 PM,01:45:00 AM
+Jaipur,Bhim,shrinath travel agency,237,0:5:30,Non A/c,01:00:00 PM,06:30:00 PM
+Jaipur,Bhim,Goyal Travels,237,0:5:30,A/c,05:30:00 PM,11:00:00 PM
+Jaipur,Bhim,Kalpana Travels Pvt.Ltd.,237,0:4:30,Non A/c,08:30:00 PM,01:00:00 AM
+Jaipur,Udaipur,shree rishabh travels-batco-group,260,0:6:30,A/c,11:55:00 PM,06:25:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,10:30:00 PM,07:30:00 AM
+Jaipur,Udaipur,shrinath travel agency,400,0:10:0,Non A/c,01:00:00 PM,11:00:00 PM
+Jaipur,Udaipur,shrinath travel agency-brand new lcd coach,340,0:8:30,A/c,05:00:00 PM,01:30:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,320,0:8:0,Non A/c,03:00:00 PM,11:00:00 PM
+Jaipur,Udaipur,Parshwanath Travel Agency,340,0:8:30,Luxury,09:05:00 PM,05:35:00 AM
+Jaipur,Udaipur,shree parshwanath travels,360,0:9:0,Non A/c,09:30:00 PM,06:30:00 AM
+Jaipur,Udaipur,Shree Mahaveer Travels,324,0:8:6,A/c,05:30:00 PM,01:36:00 AM
+Jaipur,Udaipur,shrinath travel agency,357,0:8:55,Non A/c,03:00:00 PM,11:55:00 PM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,08:30:00 PM,05:30:00 AM
+Jaipur,Udaipur,Shree Mahaveer Travels,340,0:8:30,Non A/c,01:30:00 PM,10:00:00 PM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,380,0:9:30,Non A/c,09:00:00 PM,06:30:00 AM
+Jaipur,Udaipur,shrinath travel agency,280,0:7:0,Volvo  A/c,08:45:00 PM,03:45:00 AM
+Jaipur,Udaipur,rishabh travels-udr crossing to ahm,280,0:7:0,A/c,11:59:00 PM,06:59:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,09:15:00 PM,06:15:00 AM
+Jaipur,Udaipur,Gujarat Travels-,360,0:9:0,A/c,05:00:00 PM,02:00:00 AM
+Jaipur,Udaipur,shrinath travel agency,380,0:9:30,Non A/c,07:00:00 PM,04:30:00 AM
+Jaipur,Udaipur,shrinath travel agency,280,0:7:0,Volvo  A/c,11:30:00 PM,06:30:00 AM
+Jaipur,Udaipur,rishabh travels,360,0:9:0,Non A/c,09:15:00 PM,06:15:00 AM
+Jaipur,Udaipur,Speedlink Travel Services,260,0:6:30,Ordinary A/C,11:30:00 PM,06:00:00 AM
+Jaipur,Udaipur,shrinath travel agency-brandnew volvo coac,280,0:7:0,Volvo  A/c,11:30:00 PM,06:30:00 AM
+Jaipur,Udaipur,shrinath travel agency-brandnew volvo coac,280,0:7:0,Volvo  A/c,08:45:00 PM,03:45:00 AM
+Jaipur,Udaipur,rishabh travels-new ac sleeper,185,0:4:38,A/c,10:30:00 PM,03:08:00 AM
+Jaipur,Udaipur,Parshwanath Travel Agency,320,0:8:0,Luxury A/C,07:00:00 PM,03:00:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,07:00:00 PM,04:00:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,06:00:00 PM,03:00:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,11:00:00 PM,08:00:00 AM
+Jaipur,Udaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,08:00:00 PM,05:00:00 AM
+Jaipur,Udaipur,Seema Pooja Travels(Ptc),648,0:16:12,A/c,03:15:00 PM,07:27:00 AM
+Jaipur,Udaipur,shrinath travel agency,360,0:9:0,Non A/c,11:00:00 PM,08:00:00 AM
+Jaipur,Udaipur,Gujarat Travels-,360,0:9:0,A/c,08:00:00 PM,05:00:00 AM
+Jaipur,Udaipur,shrinath travel agency,360,0:9:0,Non A/c,09:00:00 PM,06:00:00 AM
+Jaipur,Nathdwara,Dashmesh Tour & Travels,347,0:8:41,Non A/c,07:30:00 PM,04:11:00 AM
+Jaipur,Nathdwara,Shree Mahaveer Travels,347,0:8:41,A/c,05:30:00 PM,02:11:00 AM
+Jaipur,Nathdwara,Shree Mahaveer Travels,347,0:7:0,Non A/c,01:30:00 PM,08:30:00 PM
+Jaipur,Nathdwara,Goyal Travels,347,0:8:30,Non A/c,03:15:00 PM,11:45:00 PM
+Jaipur,Nathdwara,Parshwanath Travel Agency,347,0:9:15,Luxury,09:05:00 PM,06:20:00 AM
+Jaipur,Dholpur,Kalpana Travels Pvt.Ltd.,259,0:6:30,Non A/c,09:00:00 PM,03:30:00 AM
+Jaipur,Dholpur,Kalpana Travels Pvt.Ltd.,259,0:6:30,Non A/c,08:00:00 PM,02:30:00 AM
+Jaipur,Gulabpura,Chandra,184,0:4:0,Non A/c,05:30:00 PM,09:30:00 PM
+Jaipur,Sirohi,Dashmesh Tour & Travels,429,0:10:44,Non A/c,08:00:00 PM,06:44:00 AM
+Jaipur,Sirohi,Kalpana Travels Pvt.Ltd.,429,0:9:0,Non A/c,07:00:00 PM,04:00:00 AM
+Jaipur,Sirohi,Dashmesh Tour & Travels,429,0:10:44,Non A/c,10:00:00 PM,08:44:00 AM
+Jaipur,Sirohi,Kalpana Travels Pvt.Ltd.,429,0:8:15,Non A/c,08:30:00 PM,04:45:00 AM
+Jaipur,Sirohi,Kalpana Travels Pvt.Ltd.,429,0:8:15,Non A/c,09:00:00 PM,05:15:00 AM
+Jaipur,Sirohi,Kalpana Travels Pvt.Ltd.,429,0:8:15,Non A/c,05:00:00 PM,01:15:00 AM
+Jaipur,Sirohi,Kalpana Travels Pvt.Ltd.,429,0:9:0,Non A/c,06:00:00 PM,03:00:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,280,0:7:0,Non A/c,10:15:00 PM,05:15:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,06:00:00 PM,12:30:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,280,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Jaipur,Pali,Dashmesh Tour & Travels,116,0:2:54,Non A/c,10:00:00 PM,12:54:00 AM
+Jaipur,Pali,Dashmesh Tour & Travels,116,0:2:54,Non A/c,08:00:00 PM,10:54:00 PM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,08:30:00 PM,03:00:00 AM
+Jaipur,Pali,Dashmesh Tour & Travels,116,0:2:54,Non A/c,10:30:00 PM,01:24:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,07:00:00 PM,01:30:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,05:00:00 PM,11:30:00 PM
+Jaipur,Pali,Dashmesh Tour & Travels,116,0:2:54,Non A/c,08:30:00 PM,11:24:00 PM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,250,0:6:15,Non A/c,11:00:00 PM,05:15:00 AM
+Jaipur,Pali,Kalpana Travels Pvt.Ltd.,240,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,210,0:5:15,Non A/c,11:00:00 PM,04:15:00 AM
+Jaipur,SojatCity,Dashmesh Tour & Travels,116,0:2:54,Non A/c,08:30:00 PM,11:24:00 PM
+Jaipur,SojatCity,Dashmesh Tour & Travels,116,0:2:54,Non A/c,10:00:00 PM,12:54:00 AM
+Jaipur,SojatCity,Dashmesh Tour & Travels,116,0:2:54,Non A/c,08:00:00 PM,10:54:00 PM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,05:00:00 PM,10:30:00 PM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,07:00:00 PM,12:30:00 AM
+Jaipur,SojatCity,Dashmesh Tour & Travels,116,0:2:54,Non A/c,10:30:00 PM,01:24:00 AM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,10:15:00 PM,03:15:00 AM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,09:00:00 PM,02:30:00 AM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,06:00:00 PM,11:30:00 PM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,10:00:00 PM,03:00:00 AM
+Jaipur,SojatCity,Kalpana Travels Pvt.Ltd.,220,0:5:30,Non A/c,08:30:00 PM,02:00:00 AM
+Jaipur,Jhalawar,Dashmesh Tour & Travels,318,0:7:57,Non A/c,07:00:00 PM,02:57:00 AM
+Jaipur,Jhalawar,Hans Travels Indore-,318,0:8:35,Non A/c,06:15:00 PM,02:50:00 AM
+Jaipur,Niwai,Hans Travels Indore-,70,0:2:0,Non A/c,07:30:00 PM,09:30:00 PM
+Jaipur,Fatehnagar,shrinath travel agency,347,0:7:0,Non A/c,11:00:00 PM,06:00:00 AM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,10:00:00 PM,11:30:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,10:30:00 PM,12:00:00 AM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,07:00:00 PM,08:30:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,05:00:00 PM,06:30:00 PM
+Jaipur,Kishangadh,Goyal Travels,103,0:2:0,A/c,05:30:00 PM,07:30:00 PM
+Jaipur,Kishangadh,Shree Mahaveer Travels,103,0:2:35,Non A/c,08:00:00 PM,10:35:00 PM
+Jaipur,Kishangadh,Shree Mahaveer Travels,103,0:2:35,Non A/c,09:00:00 PM,11:35:00 PM
+Jaipur,Kishangadh,shrinath travel agency,103,0:1:15,Non A/c,03:00:00 PM,04:15:00 PM
+Jaipur,Kishangadh,Gujarat Travels-,103,0:2:0,A/c,05:00:00 PM,07:00:00 PM
+Jaipur,Kishangadh,Shree Mahaveer Travels,103,0:1:30,Non A/c,09:30:00 PM,11:00:00 PM
+Jaipur,Kishangadh,shrinath travel agency,103,0:2:0,Non A/c,09:00:00 PM,11:00:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,08:00:00 PM,09:30:00 PM
+Jaipur,Kishangadh,shrinath travel agency,103,0:1:30,Non A/c,01:00:00 PM,02:30:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,11:15:00 PM,12:45:00 AM
+Jaipur,Kishangadh,Gujarat Travels-,103,0:2:0,A/c,08:00:00 PM,10:00:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,08:30:00 PM,10:00:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:2:30,Non A/c,05:30:00 PM,08:00:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,06:00:00 PM,07:30:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:30,Non A/c,09:00:00 PM,10:30:00 PM
+Jaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,103,0:1:0,Non A/c,03:00:00 PM,04:00:00 PM
+Jaipur,Kishangadh,Shree Mahaveer Travels,103,0:1:30,Non A/c,08:30:00 PM,10:00:00 PM
+Jaipur,Mavli,shrinath travel agency,377,0:7:0,Non A/c,11:00:00 PM,06:00:00 AM
+Jaipur,AbuRoad,Kalpana Travels Pvt.Ltd.,465,0:11:0,Non A/c,09:00:00 PM,08:00:00 AM
+Jaipur,AbuRoad,Dashmesh Tour & Travels,465,0:11:38,Non A/c,10:00:00 PM,09:38:00 AM
+Jaipur,AbuRoad,Kalpana Travels Pvt.Ltd.,465,0:11:0,Non A/c,05:00:00 PM,04:00:00 AM
+Jaipur,AbuRoad,Kalpana Travels Pvt.Ltd.,465,0:11:0,Non A/c,08:30:00 PM,07:30:00 AM
+Jaipur,AbuRoad,Kalpana Travels Pvt.Ltd.,465,0:10:30,Non A/c,07:00:00 PM,05:30:00 AM
+Jaipur,AbuRoad,Dashmesh Tour & Travels,465,0:11:38,Non A/c,08:00:00 PM,07:38:00 AM
+Jaipur,AbuRoad,Kalpana Travels Pvt.Ltd.,465,0:10:30,Non A/c,06:00:00 PM,04:30:00 AM
+Jaipur,Jodhpur,Shree Mahaveer Travels,331,0:8:16,Non A/c,08:00:00 PM,04:16:00 AM
+Jaipur,Jodhpur,Kalpana Travels Pvt.Ltd.,331,0:8:0,Non A/c,08:00:00 PM,04:00:00 AM
+Jaipur,Jodhpur,Kalpana Travels Pvt.Ltd.,331,0:7:30,Non A/c,10:15:00 PM,05:45:00 AM
+Jaipur,Jodhpur,Shree Mahaveer Travels,331,0:8:16,Non A/c,09:00:00 PM,05:16:00 AM
+Jaipur,Jodhpur,Kalpana Travels Pvt.Ltd.,331,0:7:45,Non A/c,11:00:00 PM,06:45:00 AM
+Jaipur,Keshariyaji,Kalpana Travels Pvt.Ltd.,482,0:10:0,Non A/c,06:00:00 PM,04:00:00 AM
+Jaipur,Keshariyaji,Kalpana Travels Pvt.Ltd.,482,0:11:0,Non A/c,09:00:00 PM,08:00:00 AM
+Jaipur,Keshariyaji,Kalpana Travels Pvt.Ltd.,482,0:10:30,Non A/c,08:00:00 PM,06:30:00 AM
+Jaipur,Keshariyaji,Kalpana Travels Pvt.Ltd.,482,0:10:0,Non A/c,10:30:00 PM,08:30:00 AM
+Jaipur,Keshariyaji,Dashmesh Tour & Travels,482,0:12:3,Non A/c,07:30:00 PM,07:33:00 AM
+Jaipur,Devgadh,shrinath travel agency,631,0:6:30,Non A/c,01:00:00 PM,07:30:00 PM
+Jaipur,Devgadh,shrinath travel agency,631,1:5:30,Non A/c,03:00:00 PM,08:30:00 PM
+Jaipur,Deoli,Hans Travels Indore-,190,0:4:45,Non A/c,06:00:00 PM,10:45:00 PM
+Jaipur,Chittor,shrinath travel agency-brand new lcd coach,305,0:5:30,A/c,01:00:00 AM,06:30:00 AM
+Jaipur,Chittor,Shree Mahaveer Travels,305,0:6:0,Non A/c,03:30:00 PM,09:30:00 PM
+Jaipur,Chittor,Gujarat Travels-,305,0:7:30,A/c,05:00:00 PM,12:30:00 AM
+Jaipur,Chittor,shrinath travel agency,305,0:6:0,Non A/c,11:00:00 PM,05:00:00 AM
+Jaipur,Chittor,shrinath travel agency-brandnew volvo coac,305,0:5:30,Volvo  A/c,11:30:00 PM,05:00:00 AM
+Jaipur,Chittor,shree rishabh travels-batco-group,305,0:5:0,A/c,11:55:00 PM,04:55:00 AM
+Jaipur,Chittor,Gujarat Travels-,305,0:7:30,A/c,08:00:00 PM,03:30:00 AM
+Jaipur,Chittor,shrinath travel agency-brandnew volvo coac,305,0:5:30,Volvo  A/c,08:45:00 PM,02:15:00 AM
+Jaipur,Chittor,shrinath travel agency,305,0:5:0,Volvo  A/c,08:45:00 PM,01:45:00 AM
+Jaipur,Chittor,shrinath travel agency,305,0:5:30,Volvo  A/c,11:30:00 PM,05:00:00 AM
+Jaipur,Chittor,rishabh travels-new ac sleeper,305,0:6:0,A/c,10:30:00 PM,04:30:00 AM
+Jaipur,Chittor,shrinath travel agency-brand new lcd coach,305,0:6:30,A/c,05:00:00 PM,11:30:00 PM
+Jaipur,Dungarpur,Kalpana Travels Pvt.Ltd.,519,0:12:0,Non A/c,10:00:00 PM,10:00:00 AM
+Jaipur,Dungarpur,Kalpana Travels Pvt.Ltd.,519,0:12:30,Non A/c,09:00:00 PM,09:30:00 AM
+Jaipur,Jhalrapatan,Dashmesh Tour & Travels,324,0:8:6,Non A/c,07:00:00 PM,03:06:00 AM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,09:00:00 PM,01:00:00 AM
+Jaipur,Beawer,shrinath travel agency,186,0:4:0,Non A/c,01:00:00 PM,05:00:00 PM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,05:00:00 PM,09:00:00 PM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,07:00:00 PM,11:00:00 PM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,08:30:00 PM,12:30:00 AM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:4:0,Non A/c,08:00:00 PM,12:00:00 AM
+Jaipur,Beawer,shrinath travel agency,186,0:3:30,Non A/c,09:00:00 PM,12:30:00 AM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:3:45,Non A/c,11:00:00 PM,02:45:00 AM
+Jaipur,Beawer,Kalpana Travels Pvt.Ltd.,186,0:3:0,Non A/c,10:15:00 PM,01:15:00 AM
+Jaipur,Beawer,shrinath travel agency,186,0:3:45,Non A/c,03:00:00 PM,06:45:00 PM
+Jaipur,Kakroli,rishabh travels,335,0:7:0,Non A/c,09:15:00 PM,04:15:00 AM
+Jaipur,Kakroli,shrinath travel agency,335,0:8:0,Non A/c,03:00:00 PM,11:00:00 PM
+Jaipur,Kakroli,shrinath travel agency,335,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Jaipur,Bhilwara,Speedlink Travel Services,247,0:1:0,Ordinary A/C,11:30:00 PM,12:30:00 AM
+Jaipur,Bhilwara,Parshwanath Travel Agency,247,0:4:50,Luxury A/C,07:00:00 PM,11:50:00 PM
+Jaipur,Bhilwara,Gujarat Travels-,247,0:6:0,A/c,08:00:00 PM,02:00:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:6:0,Non A/c,11:15:00 PM,05:15:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:5:30,Non A/c,09:00:00 PM,02:30:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:5:30,Non A/c,06:00:00 PM,11:30:00 PM
+Jaipur,Bhilwara,Chandra,247,0:5:0,Non A/c,05:30:00 PM,10:30:00 PM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:5:30,Non A/c,10:30:00 PM,04:00:00 AM
+Jaipur,Bhilwara,Gujarat Travels-,247,0:6:0,A/c,05:00:00 PM,11:00:00 PM
+Jaipur,Bhilwara,shrinath travel agency,247,0:4:0,Volvo  A/c,08:45:00 PM,12:45:00 AM
+Jaipur,Bhilwara,shrinath travel agency-brandnew volvo coac,247,0:4:30,Volvo  A/c,11:30:00 PM,04:00:00 AM
+Jaipur,Bhilwara,shrinath travel agency,247,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:7:0,Non A/c,03:00:00 PM,10:00:00 PM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:5:0,Non A/c,08:00:00 PM,01:00:00 AM
+Jaipur,Bhilwara,rishabh travels-new ac sleeper,247,0:6:0,A/c,10:30:00 PM,04:30:00 AM
+Jaipur,Bhilwara,shrinath travel agency,247,0:4:30,Volvo  A/c,11:30:00 PM,04:00:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:6:11,Non A/c,12:30:00 AM,04:30:00 AM
+Jaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,247,0:5:0,Non A/c,07:00:00 PM,12:00:00 AM
+Jaipur,Bhilwara,shrinath travel agency-brand new lcd coach,247,0:5:30,A/c,05:00:00 PM,10:30:00 PM
+Jaipur,Bhilwara,shree rishabh travels-batco-group,247,0:4:0,A/c,11:55:00 PM,03:55:00 AM
+Jaipur,Bhilwara,shrinath travel agency,247,0:4:30,Non A/c,11:00:00 PM,03:30:00 AM
+Jaipur,Bhilwara,shrinath travel agency-brandnew volvo coac,247,0:4:30,Volvo  A/c,08:45:00 PM,01:15:00 AM
+Jaipur,Bhilwara,Goyal Travels,247,0:7:0,Non A/c,03:15:00 PM,10:15:00 PM
+Jaipur,Pushkar,Kalpana Travels Pvt.Ltd.,142,0:3:30,Non A/c,05:30:00 PM,09:00:00 PM
+Jaipur,Pushkar,Shree Rishabh Travels,142,0:3:30,Non A/c,04:30:00 AM,08:00:00 AM
+Jaipur,Pushkar,shree rishabh travels-batco group,142,0:3:30,Non A/c,04:30:00 AM,08:00:00 AM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,06:00:00 PM,08:30:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:3:0,Non A/c,05:30:00 PM,08:30:00 PM
+Jaipur,Ajmer,shrinath travel agency,130,0:2:30,Non A/c,09:00:00 PM,11:30:00 PM
+Jaipur,Ajmer,Gujarat Travels-,130,0:3:30,A/c,05:00:00 PM,08:30:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,08:30:00 PM,11:00:00 PM
+Jaipur,Ajmer,Dashmesh Tour & Travels,130,0:3:15,Non A/c,08:00:00 PM,11:15:00 PM
+Jaipur,Ajmer,Shree Mahaveer Travels,130,0:3:15,A/c,05:30:00 PM,08:45:00 PM
+Jaipur,Ajmer,Dashmesh Tour & Travels,130,0:3:15,Non A/c,10:30:00 PM,01:45:00 AM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:3:15,Non A/c,10:00:00 PM,08:45:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:0,Non A/c,09:15:00 PM,11:15:00 PM
+Jaipur,Ajmer,Dashmesh Tour & Travels,130,0:3:15,Non A/c,08:30:00 PM,11:45:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,07:00:00 PM,09:30:00 PM
+Jaipur,Ajmer,rishabh travels,130,0:2:30,Non A/c,09:15:00 PM,11:45:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,08:00:00 PM,10:30:00 PM
+Jaipur,Ajmer,Shree Mahaveer Travels,130,0:2:30,Non A/c,08:30:00 PM,11:00:00 PM
+Jaipur,Ajmer,Shree Mahaveer Travels,130,0:3:15,Non A/c,09:00:00 PM,12:15:00 AM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,11:15:00 PM,01:45:00 AM
+Jaipur,Ajmer,Goyal Travels,130,0:3:15,Non A/c,09:00:00 PM,12:00:00 AM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,09:00:00 PM,11:30:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:3:0,Non A/c,10:30:00 PM,01:30:00 AM
+Jaipur,Ajmer,Dashmesh Tour & Travels,130,0:3:15,Non A/c,10:00:00 PM,01:15:00 AM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:15,Non A/c,03:00:00 PM,05:15:00 PM
+Jaipur,Ajmer,Shree Mahaveer Travels,130,0:2:30,Non A/c,01:30:00 PM,04:00:00 PM
+Jaipur,Ajmer,Goyal Travels,130,0:3:0,A/c,05:30:00 PM,08:30:00 PM
+Jaipur,Ajmer,Gujarat Travels-,130,0:3:30,A/c,08:00:00 PM,11:30:00 PM
+Jaipur,Ajmer,shrinath travel agency,130,0:2:30,Non A/c,03:00:00 PM,05:30:00 PM
+Jaipur,Ajmer,Shree Mahaveer Travels,130,0:3:15,Non A/c,08:00:00 PM,11:15:00 PM
+Jaipur,Ajmer,shrinath travel agency,130,0:2:30,Non A/c,01:00:00 PM,03:30:00 PM
+Jaipur,Ajmer,Kalpana Travels Pvt.Ltd.,130,0:2:30,Non A/c,05:00:00 PM,07:30:00 PM
+Jaipur,Kota,Hans Travels Indore-,236,0:6:30,Non A/c,07:30:00 PM,02:00:00 AM
+Jaipur,Kota,Kalpana Travels Pvt.Ltd.,236,0:6:15,Non A/c,11:30:00 PM,05:45:00 AM
+Jaipur,Kota,Dashmesh Tour & Travels,236,0:5:54,Non A/c,07:00:00 PM,12:54:00 AM
+Jaipur,Kota,Kalpana Travels Pvt.Ltd.,236,0:6:0,Non A/c,06:00:00 PM,12:00:00 AM
+Jaipur,Kota,Hans Travels Indore-,236,0:6:55,Non A/c,06:00:00 PM,12:55:00 AM
+Jaipur,Kota,Kalpana Travels Pvt.Ltd.,236,0:6:0,Non A/c,07:00:00 PM,01:00:00 AM
+Surat,Keshariyaji,shreenath travellers,405,0:12:30,Non A/c,08:30:00 PM,09:00:00 AM
+Surat,Keshariyaji,shreenath travellers,405,0:10:0,Non A/c,07:30:00 PM,05:30:00 AM
+Surat,Keshariyaji,shreenath travellers,405,0:8:30,Non A/c,06:20:00 PM,02:50:00 AM
+Surat,Keshariyaji,Neeta Tours and Travels,405,0:8:31,B9R Multi-Axle Semi Sleeper Volvo A/C,11:59:00 PM,08:30:00 AM
+Surat,Keshariyaji,shreenath travellers,405,0:12:30,Non A/c,09:45:00 PM,10:15:00 AM
+Surat,Keshariyaji,Kalpana Travels Pvt.Ltd.,405,0:9:30,Non A/c,02:00:00 PM,11:30:00 PM
+Surat,Keshariyaji,shreenath travellers,405,0:12:30,Non A/c  A/c,09:00:00 PM,09:30:00 AM
+Surat,Keshariyaji,shreenath travellers,405,0:12:30,Non A/c,10:00:00 PM,10:30:00 AM
+Surat,Pali,Laxmi Travellers-NON A/C,600,0:15:0,Non A/c,05:00:00 PM,08:00:00 AM
+Surat,Pali,shreenath travellers,620,0:15:30,Non A/c,05:30:00 PM,09:00:00 AM
+Surat,Pali,shreenath travellers,560,0:14:0,A/c,04:30:00 PM,06:30:00 AM
+Surat,Pali,Laxmi Travellers-ext,515,0:12:53,A/c,06:30:00 PM,07:23:00 AM
+Surat,Pali,shreenath travellers,620,0:15:30,Non A/c,04:00:00 PM,07:30:00 AM
+Surat,Pali,shreenath travellers,540,0:13:30,Non A/c,05:35:00 PM,07:05:00 AM
+Surat,Pali,Laxmi Travellers-NON A/C,520,0:13:0,Non A/c,02:30:00 PM,03:30:00 AM
+Surat,Pali,Laxmi Travellers-extra,515,0:12:53,A/c,06:30:00 PM,07:23:00 AM
+Surat,Pali,Laxmi Travellers-NON A/C,600,0:15:0,Non A/c,01:00:00 PM,04:00:00 AM
+Surat,Sirohi,shreenath travellers,528,0:11:30,Non A/c,04:00:00 PM,03:30:00 AM
+Surat,Sirohi,shreenath travellers,528,0:12:0,Non A/c,05:05:00 PM,05:05:00 AM
+Surat,Sirohi,shreenath travellers,528,0:12:0,Non A/c,05:35:00 PM,05:35:00 AM
+Surat,Sirohi,Laxmi Travellers-ext,528,0:9:48,A/c,06:30:00 PM,04:18:00 AM
+Surat,Sirohi,shreenath travellers,528,0:11:30,Non A/c,05:30:00 PM,05:00:00 AM
+Surat,Sirohi,shreenath travellers,528,0:12:0,Non A/c,05:00:00 PM,05:00:00 AM
+Surat,Sirohi,Laxmi Travellers-extra,528,0:9:48,A/c,06:30:00 PM,04:18:00 AM
+Surat,Sirohi,shreenath travellers,528,0:11:0,A/c,04:30:00 PM,03:30:00 AM
+Surat,Sirohi,shrinath travel agency,528,0:12:0,Non A/c,05:30:00 PM,05:30:00 AM
+Surat,Sirohi,Laxmi Travellers-NON A/C,528,0:13:0,Non A/c,05:00:00 PM,06:00:00 AM
+Surat,Sirohi,Laxmi Travellers-NON A/C,528,0:10:0,Non A/c,02:30:00 PM,12:30:00 AM
+Surat,Gogunda,shreenath travellers,505,0:15:0,Non A/c,10:00:00 PM,01:00:00 PM
+Surat,Gogunda,shreenath travellers,505,0:15:0,Non A/c,09:45:00 PM,12:45:00 PM
+Surat,Gogunda,shreenath travellers,505,0:15:0,Non A/c  A/c,09:00:00 PM,12:00:00 PM
+Surat,Gogunda,shreenath travellers,505,0:15:0,Non A/c,08:30:00 PM,11:30:00 AM
+Surat,Nathdwara,Neeta Tours and Travels,523,0:11:1,B9R Multi-Axle Semi Sleeper Volvo A/C,11:59:00 PM,11:00:00 AM
+Surat,Kakroli,shreenath travellers,538,0:11:30,Non A/c,06:20:00 PM,05:50:00 AM
+Surat,Kakroli,shrinath travel agency,538,0:13:30,Non A/c,02:00:00 PM,03:30:00 AM
+Surat,Kakroli,shrinath travel agency-brand new lcd coach,538,0:11:30,A/c,06:30:00 PM,06:00:00 AM
+Surat,Kakroli,shrinath travel agency,538,0:13:30,Non A/c,05:00:00 PM,06:30:00 AM
+Surat,Kakroli,shreenath travellers,538,0:13:27,Non A/c,09:30:00 PM,10:57:00 AM
+Surat,Kota,Vardhman Subham Travels,700,0:17:30,Non A/c,08:30:00 AM,02:00:00 AM
+Surat,Udaipur,shrinath travel agency,500,0:12:30,Non A/c,02:00:00 PM,02:30:00 AM
+Surat,Udaipur,shreenath travellers,185,0:4:38,Non A/c,09:30:00 PM,02:08:00 AM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c,04:00:00 PM,02:00:00 AM
+Surat,Udaipur,shrinath travel agency-brand new lcd coach,380,0:9:30,A/c,06:30:00 PM,04:00:00 AM
+Surat,Udaipur,Laxmi Travellers-NON A/C,481,0:12:1,Non A/c,01:00:00 PM,01:01:00 AM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c,09:45:00 PM,07:45:00 AM
+Surat,Udaipur,shreenath travellers,500,0:12:30,A/c,02:00:00 PM,02:30:00 AM
+Surat,Udaipur,shreenath travellers,420,0:10:30,Non A/c,07:30:00 PM,06:00:00 AM
+Surat,Udaipur,Kalpana Travels Pvt.Ltd.,400,0:10:0,Non A/c,02:00:00 PM,12:00:00 AM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c  A/c,09:00:00 PM,07:00:00 AM
+Surat,Udaipur,shreenath travellers,420,0:10:30,A/c,07:35:00 PM,06:05:00 AM
+Surat,Udaipur,shrinath travel agency,480,0:12:0,Non A/c,05:00:00 PM,05:00:00 AM
+Surat,Udaipur,R R Travels-,341,0:8:31,Non A/c,02:00:00 PM,10:31:00 PM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c,06:20:00 PM,04:20:00 AM
+Surat,Udaipur,Laxmi Travellers-RAMA KRISHNA,450,0:11:15,Non A/c,08:30:00 PM,07:45:00 AM
+Surat,Udaipur,Neeta Tours and Travels,401,0:10:1,B9R Multi-Axle Semi Sleeper Volvo A/C,11:59:00 PM,10:00:00 AM
+Surat,Udaipur,rishabh travels-rishabh,463,0:11:35,Non A/c  A/c,12:00:00 AM,11:35:00 AM
+Surat,Udaipur,Vardhman Subham Travels,741,0:18:32,Non A/c,08:30:00 AM,03:02:00 AM
+Surat,Udaipur,Laxmi Travellers-NON A/C,480,0:12:0,Non A/c,02:30:00 PM,02:30:00 AM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c,10:00:00 PM,08:00:00 AM
+Surat,Udaipur,Laxmi Travellers-,450,0:11:15,Non A/c,08:30:00 PM,07:45:00 AM
+Surat,Udaipur,shreenath travellers,400,0:10:0,Non A/c,08:30:00 PM,06:30:00 AM
+Surat,Udaipur,shreenath travellers,480,0:12:0,A/c,08:00:00 PM,08:00:00 AM
+Surat,Kankroli,Laxmi Travellers-,538,0:12:40,Non A/c,08:30:00 PM,09:10:00 AM
+Surat,Kankroli,Laxmi Travellers-RAMA KRISHNA,538,0:12:40,Non A/c,08:30:00 PM,09:10:00 AM
+Surat,Sayra,shreenath travellers,541,0:15:30,Non A/c,08:30:00 PM,12:00:00 PM
+Surat,Sayra,shreenath travellers,541,0:15:30,Non A/c,10:00:00 PM,01:30:00 PM
+Surat,Sayra,shreenath travellers,541,0:15:30,Non A/c,09:45:00 PM,01:15:00 PM
+Surat,Sayra,shreenath travellers,541,0:15:30,Non A/c  A/c,09:00:00 PM,12:30:00 PM
+Surat,Chittor,Vardhman Subham Travels,582,0:14:33,Non A/c,08:30:00 AM,11:03:00 PM
+Surat,Ajmer,shreenath travellers,740,0:16:0,Non A/c,04:00:00 PM,08:00:00 AM
+Surat,Ajmer,shrinath travel agency,740,0:17:0,Non A/c,02:00:00 PM,07:00:00 AM
+Surat,Ajmer,shreenath travellers,740,0:17:0,A/c,02:00:00 PM,07:00:00 AM
+Surat,Ajmer,Laxmi Travellers-NON A/C,740,0:18:0,Non A/c,02:30:00 PM,08:30:00 AM
+Surat,Ajmer,Laxmi Travellers-NON A/C,740,0:16:1,Non A/c,01:00:00 PM,05:01:00 AM
+Surat,Ajmer,R R Travels-,740,0:13:3,Non A/c,02:00:00 PM,03:03:00 AM
+Surat,Ajmer,Kalpana Travels Pvt.Ltd.,740,0:14:30,Non A/c,02:00:00 PM,04:30:00 AM
+Surat,Jodhpur,Laxmi Travellers-ext,713,0:14:3,A/c,06:30:00 PM,08:33:00 AM
+Surat,Jodhpur,shreenath travellers,713,0:16:30,Non A/c,04:00:00 PM,08:30:00 AM
+Surat,Jodhpur,Laxmi Travellers-extra,713,0:14:3,A/c,06:30:00 PM,08:33:00 AM
+Surat,Jodhpur,Laxmi Travellers-NON A/C,713,0:15:30,Non A/c,01:00:00 PM,04:30:00 AM
+Surat,Jodhpur,Laxmi Travellers-NON A/C,713,0:15:30,Non A/c,05:00:00 PM,08:30:00 AM
+Surat,Jodhpur,shreenath travellers,713,0:16:30,Non A/c,05:30:00 PM,10:00:00 AM
+Surat,Jodhpur,Laxmi Travellers-NON A/C,713,0:13:30,Non A/c,02:30:00 PM,04:00:00 AM
+Surat,Jodhpur,shreenath travellers,713,0:14:0,Non A/c,05:35:00 PM,07:35:00 AM
+Surat,Jodhpur,shreenath travellers,713,0:15:0,A/c,04:30:00 PM,07:30:00 AM
+Surat,Nasirabad,Kalpana Travels Pvt.Ltd.,749,0:13:0,Non A/c,02:00:00 PM,03:00:00 AM
+Surat,Kishangadh,shrinath travel agency,786,0:18:0,Non A/c,02:00:00 PM,08:00:00 AM
+Surat,Kishangadh,Kalpana Travels Pvt.Ltd.,786,0:15:0,Non A/c,02:00:00 PM,05:00:00 AM
+Surat,Kishangadh,shreenath travellers,786,0:18:0,A/c,02:00:00 PM,08:00:00 AM
+Surat,Kishangadh,Laxmi Travellers-NON A/C,786,0:16:31,Non A/c,01:00:00 PM,05:31:00 AM
+Surat,Kishangadh,R R Travels-,786,0:13:36,Non A/c,02:00:00 PM,03:36:00 AM
+Surat,Amet,shrinath travel agency,574,0:13:45,Non A/c,05:00:00 PM,06:45:00 AM
+Surat,Jaipur,shrinath travel agency,885,0:19:0,Non A/c,02:00:00 PM,09:00:00 AM
+Surat,Jaipur,Kalpana Travels Pvt.Ltd.,885,0:17:0,Non A/c,02:00:00 PM,07:00:00 AM
+Surat,Jaipur,shreenath travellers,885,0:19:0,A/c,02:00:00 PM,09:00:00 AM
+Surat,Jaipur,R R Travels-,885,0:15:8,Non A/c,02:00:00 PM,05:08:00 AM
+Surat,Kherwara,Neeta Tours and Travels,389,0:9:1,B9R Multi-Axle Semi Sleeper Volvo A/C,11:59:00 PM,09:00:00 AM
+Surat,Kherwara,shrinath travel agency,389,0:9:0,Non A/c,02:00:00 PM,11:00:00 PM
+Surat,Beawer,shreenath travellers,687,0:16:0,A/c,02:00:00 PM,06:00:00 AM
+Surat,Beawer,shrinath travel agency,687,0:16:0,Non A/c,02:00:00 PM,06:00:00 AM
+Surat,Beawer,shreenath travellers,687,0:15:0,Non A/c,04:00:00 PM,07:00:00 AM
+Surat,Beawer,Laxmi Travellers-NON A/C,687,0:15:1,Non A/c,01:00:00 PM,04:01:00 AM
+Surat,Beawer,R R Travels-,687,0:12:12,Non A/c,02:00:00 PM,02:12:00 AM
+Surat,Bhim,shreenath travellers,634,0:14:0,Non A/c,04:00:00 PM,06:00:00 AM
+Surat,Bhim,Laxmi Travellers-NON A/C,634,0:14:1,Non A/c,01:00:00 PM,03:01:00 AM
+Surat,Bhim,shreenath travellers,634,0:15:0,A/c,02:00:00 PM,05:00:00 AM
+Surat,Bhim,R R Travels-,634,0:11:23,Non A/c,02:00:00 PM,01:23:00 AM
+Surat,Bhim,shrinath travel agency,634,0:15:0,Non A/c,02:00:00 PM,05:00:00 AM
+Surat,Bhilwara,Laxmi Travellers-,634,0:14:20,Non A/c,08:30:00 PM,10:50:00 AM
+Surat,Bhilwara,shreenath travellers,634,0:15:51,Non A/c,09:30:00 PM,01:21:00 PM
+Surat,Bhilwara,shreenath travellers,634,0:12:0,Non A/c,06:20:00 PM,06:20:00 AM
+Surat,Bhilwara,Laxmi Travellers-RAMA KRISHNA,634,0:14:20,Non A/c,08:30:00 PM,10:50:00 AM
+Surat,Bhilwara,shrinath travel agency-brand new lcd coach,634,0:13:30,A/c,06:30:00 PM,08:00:00 AM
+Surat,Bhilwara,Laxmi Travellers-NON A/C,634,0:16:0,Non A/c,02:30:00 PM,06:30:00 AM
+Surat,Bhilwara,Kalpana Travels Pvt.Ltd.,634,0:12:0,Non A/c,02:00:00 PM,02:00:00 AM
+Surat,Pushkar,Laxmi Travellers-NON A/C,753,0:18:30,Non A/c,02:30:00 PM,09:00:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:11:0,Non A/c,05:05:00 PM,04:05:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:9:0,A/c,04:30:00 PM,01:30:00 AM
+Surat,AbuRoad,Laxmi Travellers-NON A/C,457,0:11:0,Non A/c,01:00:00 PM,12:00:00 AM
+Surat,AbuRoad,Laxmi Travellers-NON A/C,457,0:8:30,Non A/c,02:30:00 PM,11:00:00 PM
+Surat,AbuRoad,shreenath travellers,457,0:11:0,Non A/c,05:00:00 PM,04:00:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:10:0,Non A/c,04:00:00 PM,02:00:00 AM
+Surat,AbuRoad,Laxmi Travellers-extra,457,0:8:28,A/c,06:30:00 PM,02:58:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:10:0,Non A/c,07:00:00 PM,05:00:00 AM
+Surat,AbuRoad,Laxmi Travellers-NON A/C,457,0:10:30,Non A/c,05:00:00 PM,03:30:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:10:0,Non A/c,05:30:00 PM,03:30:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:11:0,Non A/c,05:35:00 PM,04:35:00 AM
+Surat,AbuRoad,shrinath travel agency,457,0:11:30,Non A/c,05:30:00 PM,05:00:00 AM
+Surat,AbuRoad,Laxmi Travellers-ext,457,0:8:28,A/c,06:30:00 PM,02:58:00 AM
+Surat,AbuRoad,shreenath travellers,457,0:10:30,Non A/c,07:05:00 PM,05:35:00 AM
+Nasik,Udaipur,shreenath travellers,463,0:11:35,Non A/c,01:30:00 PM,01:05:00 AM
+Nasik,Kakroli,shreenath travellers,463,0:11:35,Non A/c,01:30:00 PM,01:05:00 AM
+Nasik,Bhilwara,shreenath travellers,463,0:11:35,Non A/c,01:30:00 PM,01:05:00 AM
+Kakroli,Nathdwara,Shreenath Travellers (Udr),16,0:0:24,Non A/c,03:45:00 PM,04:09:00 PM
+Kakroli,Udaipur,shrinath travel agency,37,0:0:55,Non A/c,11:00:00 PM,11:55:00 PM
+Kakroli,Udaipur,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,07:10:00 PM,09:10:00 PM
+Kakroli,Udaipur,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,08:00:00 PM,10:00:00 PM
+Kakroli,Udaipur,shree parshwanath travels,264,0:6:36,Non A/c,08:00:00 PM,02:36:00 AM
+Kakroli,Udaipur,shrinath travel agency,301,0:7:32,Non A/c,08:30:00 PM,04:02:00 AM
+Kakroli,Udaipur,Shreenath Travellers (Udr),370,0:9:15,Non A/c,03:45:00 PM,01:00:00 AM
+Kakroli,Udaipur,shrinath travel agency,70,0:1:45,Non A/c,10:00:00 PM,11:45:00 PM
+Kakroli,Udaipur,shrinath travel agency,40,0:1:0,Non A/c,02:00:00 PM,03:00:00 PM
+Kakroli,Bhilwara,shrinath travel agency,91,0:2:0,Non A/c,08:00:00 PM,10:00:00 PM
+Kakroli,Bhilwara,shrinath travel agency,91,0:2:15,Non A/c,10:30:00 PM,12:45:00 AM
+Kakroli,Bhilwara,shrinath travel agency-brand new lcd coach,91,0:2:0,Non A/c,08:15:00 PM,10:15:00 PM
+Kakroli,Bhilwara,Natraj Travels,91,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+Kakroli,Naukha,shrinath travel agency,364,0:7:0,Non A/c,08:45:00 PM,03:45:00 AM
+Kakroli,Naukha,rishabh travels,364,0:7:30,Non A/c,07:50:00 PM,03:20:00 AM
+Kakroli,Beawer,shrinath travel agency,153,0:1:0,Non A/c,08:45:00 PM,09:45:00 PM
+Kakroli,Beawer,shrinath travel agency,153,0:3:15,Non A/c,10:30:00 PM,01:45:00 AM
+Kakroli,Ajmer,shrinath travel agency-brand new lcd coach,205,0:4:15,Non A/c,08:15:00 PM,12:30:00 AM
+Kakroli,Ajmer,shrinath travel agency,205,0:4:15,Non A/c,10:30:00 PM,02:45:00 AM
+Kakroli,Ajmer,shrinath travel agency,205,0:1:30,Non A/c,08:45:00 PM,10:15:00 PM
+Kakroli,Ajmer,rishabh travels,205,0:5:8,Non A/c,02:00:00 PM,07:08:00 PM
+Kakroli,Ajmer,Shreenath Travellers (Udr),205,0:3:0,Non A/c,02:45:00 PM,05:45:00 PM
+Kakroli,Bikaner,rishabh travels,425,0:10:30,Non A/c,07:50:00 PM,06:20:00 AM
+Kakroli,Bikaner,shrinath travel agency,425,0:8:0,Non A/c,08:45:00 PM,04:45:00 AM
+Kakroli,Pushkar,shrinath travel agency,219,0:2:0,Non A/c,08:45:00 PM,10:45:00 PM
+Kakroli,Jodhpur,rishabh travels-jhakhar,204,0:5:6,Non A/c,11:05:00 PM,04:11:00 AM
+Kakroli,Jodhpur,Jakhar Travels,204,0:5:6,Non A/c,11:30:00 PM,04:36:00 AM
+Kakroli,Jodhpur,rishabh travels-jhakkhar,204,0:5:6,Non A/c,02:50:00 PM,07:56:00 PM
+Kakroli,Beawar,Shreenath Travellers (Udr),153,0:2:30,Non A/c,02:45:00 PM,05:15:00 PM
+Kakroli,Beawar,shrinath travel agency-brand new lcd coach,153,0:3:15,Non A/c,08:15:00 PM,11:30:00 PM
+Kakroli,Jaipur,shrinath travel agency-brand new lcd coach,335,0:6:15,Non A/c,08:15:00 PM,02:30:00 AM
+Kakroli,Jaipur,shrinath travel agency,335,0:6:30,Non A/c,08:00:00 PM,02:30:00 AM
+Kakroli,Jaipur,rishabh travels-rishabh,335,0:6:0,Non A/c,10:45:00 PM,04:45:00 AM
+Kakroli,Jaipur,shrinath travel agency,335,0:7:15,Non A/c,10:30:00 PM,05:45:00 AM
+Kakroli,Jaipur,rishabh travels,335,0:5:30,Non A/c,07:30:00 PM,01:00:00 AM
+Kakroli,Pali,rishabh travels-jhakkhar,116,0:2:54,Non A/c,02:50:00 PM,05:44:00 PM
+Kakroli,Pali,Jakhar Travels,116,0:2:54,Non A/c,11:30:00 PM,02:24:00 AM
+Kakroli,Bhim,Shreenath Travellers (Udr),100,0:1:30,Non A/c,02:45:00 PM,04:15:00 PM
+Kakroli,Bhim,shrinath travel agency-brand new lcd coach,100,0:2:0,Non A/c,08:15:00 PM,10:15:00 PM
+Kakroli,Bhim,shrinath travel agency,100,0:0:30,Non A/c,08:45:00 PM,09:15:00 PM
+Kakroli,Kishangadh,shrinath travel agency,237,0:6:15,Non A/c,10:30:00 PM,04:45:00 AM
+Pali,AbuRoad,Gujarat Travels-LCD COACH,180,0:4:30,A/c,10:30:00 PM,03:00:00 AM
+Pali,Sirohi,shrinath travel agency,140,0:3:30,Non A/c,10:00:00 PM,01:30:00 AM
+Pali,Sirohi,shrinath travel agency,120,0:3:0,Non A/c,08:30:00 PM,11:30:00 PM
+Pali,Sirohi,Gujarat Travels-LCD COACH,100,0:2:30,A/c,10:30:00 PM,01:00:00 AM
+Pali,Jodhpur,Chandra,46,0:1:9,Non A/c,10:00:00 PM,11:09:00 PM
+Pali,Jodhpur,Chandra,46,0:1:9,Non A/c,09:15:00 PM,10:24:00 PM
+Gulabpura,Ajmer,shree rishabh travels-batco group,72,0:2:0,Non A/c,09:30:00 PM,11:30:00 PM
+Jetpur,Nathdwara,Mahasagar Travels LTD.,608,0:15:12,Luxury,05:15:00 PM,04:30:00 PM
+Jetpur,Nathdwara,Mahasagar Travels LTD.,608,0:15:12,Luxury A/C,03:20:00 PM,02:35:00 PM
+Jetpur,Keshariyaji,Mahasagar Travels LTD.,490,0:12:15,Luxury A/C,03:20:00 PM,02:35:00 PM
+Jetpur,Keshariyaji,Mahasagar Travels LTD.,490,0:12:15,Luxury,05:15:00 PM,04:30:00 PM
+Jetpur,Udaipur,Mahasagar Travels LTD.,255,0:6:23,Luxury,05:15:00 PM,04:30:00 PM
+Jetpur,Udaipur,Mahasagar Travels LTD.,255,0:6:23,Luxury A/C,03:20:00 PM,02:35:00 PM
+Bhavnagar,Pali,shrinath travel agency,540,0:13:30,Non A/c,04:30:00 PM,06:00:00 AM
+Bhavnagar,Sirohi,shrinath travel agency,446,0:11:0,Non A/c,04:30:00 PM,03:30:00 AM
+Bhavnagar,Jodhpur,shrinath travel agency,631,0:15:0,Non A/c,04:30:00 PM,07:30:00 AM
+Bhavnagar,AbuRoad,shrinath travel agency,375,0:9:30,Non A/c,04:30:00 PM,02:00:00 AM
+Pune,Bhilwara,shrinath travel agency,955,0:21:0,Non A/c,01:00:00 PM,10:00:00 AM
+Pune,Bhilwara,shrinath travel agency-brand new ac coach,955,0:22:0,A/c,02:00:00 PM,12:00:00 PM
+Pune,Udaipur,shrinath travel agency-brand new ac coach,740,0:18:30,A/c,02:00:00 PM,08:30:00 AM
+Pune,Udaipur,karan travels-KARAN(hyundai),720,0:18:0,Non A/c  A/c,12:45:00 PM,06:45:00 AM
+Pune,Udaipur,karan travels-karan hundai,800,0:20:0,Non A/c,02:45:00 PM,10:45:00 AM
+Pune,Udaipur,shrinath travel agency,720,0:18:0,Non A/c,01:00:00 PM,07:00:00 AM
+Pune,Udaipur,Neeta Tours and Travels,820,0:20:30,B9R Multi-Axle Semi Sleeper Volvo A/C,01:30:00 PM,10:00:00 AM
+Pune,Kakroli,shrinath travel agency,930,0:20:0,Non A/c,01:00:00 PM,09:00:00 AM
+Pune,Kakroli,shrinath travel agency-brand new ac coach,930,0:20:0,A/c,02:00:00 PM,10:00:00 AM
+Pune,Keshariyaji,Neeta Tours and Travels,797,0:19:0,B9R Multi-Axle Semi Sleeper Volvo A/C,01:30:00 PM,08:30:00 AM
+Pune,Kherwara,Neeta Tours and Travels,780,0:19:30,B9R Multi-Axle Semi Sleeper Volvo A/C,01:30:00 PM,09:00:00 AM
+Pune,Kherwara,shrinath travel agency,780,0:17:30,Non A/c,01:00:00 PM,06:30:00 AM
+Pune,Nathdwara,Neeta Tours and Travels,914,0:21:30,B9R Multi-Axle Semi Sleeper Volvo A/C,01:30:00 PM,11:00:00 AM
+Vazhakulam,Kota,Sri Durgamba Travels,2245,1:14:35,2+2 Pushback Luxury Seater,05:30:00 PM,08:05:00 AM
+Jhalawar,Niwai,Hans Travels Indore-,249,0:6:0,Non A/c,12:35:00 AM,06:35:00 AM
+Jhalawar,Deoli,Hans Travels Indore-,153,0:3:50,Non A/c,12:35:00 AM,04:25:00 AM
+Jhalawar,Tonk,Hans Travels Indore-,224,0:5:10,Non A/c,12:35:00 AM,05:45:00 AM
+Jhalawar,Beawar,Jakhar Travels,330,0:8:15,Non A/c,05:45:00 PM,02:00:00 AM
+Jhalawar,Jaipur,Hans Travels Indore-,318,0:8:5,Non A/c,12:35:00 AM,08:40:00 AM
+Jhalawar,Kota,Jakhar Travels,82,0:2:0,Non A/c,09:15:00 PM,11:15:00 PM
+Jhalawar,Kota,Jakhar Travels,82,0:1:30,Non A/c,07:30:00 PM,09:00:00 PM
+Jhalawar,Kota,Jakhar Travels,82,0:2:0,Non A/c,08:45:00 PM,10:45:00 PM
+Jhalawar,Jodhpur,Jakhar Travels,461,0:11:32,Non A/c,05:45:00 PM,05:17:00 AM
+Aurangabad,Ajmer,Manmandir Motel & Travels Pvt. Ltd,882,0:22:3,Non A/c,03:00:00 PM,01:03:00 PM
+Aurangabad,Udaipur,Manmandir Motel & Travels Pvt. Ltd,500,0:12:30,Non A/c,01:00:00 PM,01:30:00 AM
+Aurangabad,Asind,Manmandir Motel & Travels Pvt. Ltd,805,0:20:8,Non A/c,03:00:00 PM,11:08:00 AM
+Nimbaheda,Jaipur,shrinath travel agency-brand new lcd coach,339,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Nimbaheda,Bhilwara,shrinath travel agency-brand new lcd coach,88,0:2:30,Non A/c,06:00:00 PM,08:30:00 PM
+Nimbaheda,Chittor,shrinath travel agency-brand new lcd coach,35,0:1:0,Non A/c,06:00:00 PM,07:00:00 PM
+Niwai,Kota,Hans Travels Indore-,167,0:4:50,Non A/c,08:20:00 PM,01:10:00 AM
+Niwai,Jhalawar,Hans Travels Indore-,249,0:6:30,Non A/c,08:20:00 PM,02:50:00 AM
+Gadag,Kota,Sri Durgamba Travels,1289,1:7:50,2+3SLIGHT PUSH BACK,08:30:00 PM,04:20:00 AM
+Jodhpur,Nathdwara,Jakhar Travels,216,0:7:30,Non A/c,08:30:00 AM,04:00:00 PM
+Jodhpur,Nathdwara,Jakhar Travels,216,0:7:30,Non A/c,01:20:00 PM,08:50:00 PM
+Jodhpur,Naukha,Kalpana Travels Pvt.Ltd.,188,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Jodhpur,Naukha,Kalpana Travels Pvt.Ltd.,188,0:4:0,Non A/c,05:30:00 AM,09:30:00 AM
+Jodhpur,Naukha,Kalpana Travels Pvt.Ltd.,188,0:4:0,Non A/c,09:00:00 AM,01:00:00 PM
+Jodhpur,Naukha,Kalpana Travels Pvt.Ltd.-Pinky travels,188,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Jodhpur,Kota,Jain Travels (regd.)-,391,0:8:50,Non A/c,09:30:00 PM,06:20:00 AM
+Jodhpur,Kota,Kalpana Travels Pvt.Ltd.,391,0:8:30,Non A/c,09:30:00 PM,06:00:00 AM
+Jodhpur,Kota,Jain Travels (regd.)-,391,0:8:40,Non A/c,09:00:00 PM,05:40:00 AM
+Jodhpur,Kota,Laxmi Travellers-,391,0:8:30,Non A/c,09:30:00 PM,06:00:00 AM
+Jodhpur,Kota,Laxmi Travellers-NON A/C,391,0:8:30,Non A/c,09:30:00 PM,06:00:00 AM
+Jodhpur,Kota,Kalpana Travels Pvt.Ltd.,391,0:8:30,Non A/c,09:00:00 PM,05:30:00 AM
+Jodhpur,Kota,V.K.Jain Travels-,391,0:8:30,Non A/c,09:30:00 PM,06:00:00 AM
+Jodhpur,Chittor,Jain Travels (regd.)-,291,0:7:20,Non A/c,10:00:00 PM,05:20:00 AM
+Jodhpur,Nimbahera,Laxmi Travellers-NON A/C,325,0:8:10,Non A/c,09:00:00 PM,05:10:00 AM
+Jodhpur,Nimbahera,Jain Travels (regd.)-,325,0:8:20,Non A/c,10:00:00 PM,06:20:00 AM
+Jodhpur,Beawer,Jain Travels (regd.)-,151,0:4:30,Non A/c,10:30:00 PM,03:00:00 AM
+Jodhpur,Beawer,Jain Travels (regd.)-,151,0:4:30,Non A/c,11:00:00 AM,03:30:00 PM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:3:30,Non A/c,11:00:00 PM,02:30:00 AM
+Jodhpur,Beawer,Laxmi Travellers-NON A/C,151,0:3:0,Non A/c,10:00:00 AM,01:00:00 PM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:4:0,Non A/c,09:00:00 PM,01:00:00 AM
+Jodhpur,Beawer,Laxmi Travellers-NON A/C,151,0:3:0,Non A/c,10:00:00 PM,01:00:00 AM
+Jodhpur,Beawer,Jain Travels (regd.)-,151,0:3:50,Non A/c,10:00:00 PM,01:50:00 AM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:3:30,Non A/c,09:30:00 PM,01:00:00 AM
+Jodhpur,Beawer,V.K.Jain Travels-,151,0:2:45,Non A/c,09:30:00 PM,12:15:00 AM
+Jodhpur,Beawer,V.K.Jain Travels-,151,0:3:50,Non A/c,12:30:00 PM,04:20:00 PM
+Jodhpur,Beawer,V.K.Jain Travels-,151,0:3:40,Non A/c,10:15:00 PM,01:55:00 AM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:3:30,Non A/c,10:00:00 PM,01:30:00 AM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:3:30,Non A/c,01:30:00 PM,05:00:00 PM
+Jodhpur,Beawer,Laxmi Travellers-,151,0:2:30,Non A/c,06:00:00 PM,08:30:00 PM
+Jodhpur,Beawer,Laxmi Travellers-,151,0:2:45,Non A/c,09:30:00 PM,12:15:00 AM
+Jodhpur,Beawer,Laxmi Travellers-A/C,151,0:2:30,A/c,10:30:00 PM,01:00:00 AM
+Jodhpur,Beawer,Jain Travels (regd.)-,151,0:4:30,Non A/c,07:00:00 AM,11:30:00 AM
+Jodhpur,Beawer,Laxmi Travellers-NON A/C,151,0:2:45,Non A/c,09:30:00 PM,12:15:00 AM
+Jodhpur,Beawer,Jain Travels (regd.)-,151,0:4:30,Non A/c,02:00:00 PM,06:30:00 PM
+Jodhpur,Beawer,Kalpana Travels Pvt.Ltd.,151,0:3:30,Non A/c,10:30:00 PM,02:00:00 AM
+Jodhpur,Beawer,V.K.Jain Travels-,151,0:3:30,Non A/c,06:30:00 PM,10:00:00 PM
+Jodhpur,Fatehnagar,Laxmi Travellers-NON A/C,243,0:6:25,Non A/c,09:00:00 PM,03:25:00 AM
+Jodhpur,Nimbaheda,Kalpana Travels Pvt.Ltd.,325,0:8:30,Non A/c,10:00:00 PM,06:30:00 AM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,10:30:00 PM,11:45:00 PM
+Jodhpur,Pali,Gujarat Travels-LCD COACH,60,0:1:30,A/c,09:00:00 PM,10:30:00 PM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,06:00:00 PM,07:15:00 PM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,07:30:00 PM,08:45:00 PM
+Jodhpur,Pali,shrinath travel agency,60,0:1:30,Non A/c,08:30:00 PM,10:00:00 PM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,09:00:00 PM,10:15:00 PM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,09:45:00 PM,11:00:00 PM
+Jodhpur,Pali,V.K.Jain Travels-,50,0:1:15,Non A/c,03:30:00 PM,04:45:00 PM
+Jodhpur,Bhilwara,Kalpana Travels Pvt.Ltd.,233,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Jodhpur,Bhilwara,Jain Travels (regd.)-,233,0:5:50,Non A/c,10:00:00 PM,03:50:00 AM
+Jodhpur,Sirohi,Laxmi Travellers-A/C,182,0:4:0,A/c,07:30:00 PM,11:30:00 PM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:4:5,Non A/c,10:30:00 PM,02:35:00 AM
+Jodhpur,Sirohi,shrinath travel agency,182,0:4:0,Non A/c,08:30:00 PM,12:30:00 AM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:4:5,Non A/c,07:30:00 PM,11:35:00 PM
+Jodhpur,Sirohi,Jain Travels (regd.)-,182,0:3:45,Non A/c,09:30:00 PM,01:15:00 AM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:3:45,Non A/c,03:30:00 PM,07:15:00 PM
+Jodhpur,Sirohi,Laxmi Travellers-NON A/C,182,0:4:0,Non A/c,06:30:00 PM,10:30:00 PM
+Jodhpur,Sirohi,Gujarat Travels-LCD COACH,182,0:4:0,A/c,09:00:00 PM,01:00:00 AM
+Jodhpur,Sirohi,Jakhar Travels,182,0:4:33,A/c,10:30:00 PM,03:03:00 AM
+Jodhpur,Sirohi,Jakhar Travels,182,0:4:33,Non A/c,09:00:00 PM,01:33:00 AM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:3:35,Non A/c,09:00:00 PM,12:35:00 AM
+Jodhpur,Sirohi,Laxmi Travellers-NON A/C,182,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Jodhpur,Sirohi,Laxmi Travellers-NON A/C,182,0:4:0,Non A/c,08:00:00 PM,12:00:00 AM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:4:5,Non A/c,09:45:00 PM,01:50:00 AM
+Jodhpur,Sirohi,V.K.Jain Travels-,182,0:3:40,Non A/c,06:00:00 PM,09:40:00 PM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:5:5,Non A/c,10:30:00 PM,03:35:00 AM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:4:45,Non A/c,03:30:00 PM,08:15:00 PM
+Jodhpur,AbuRoad,Laxmi Travellers-A/C,258,0:5:0,A/c,07:30:00 PM,12:30:00 AM
+Jodhpur,AbuRoad,Jain Travels (regd.)-,258,0:5:10,Non A/c,09:30:00 PM,02:40:00 AM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:4:40,Non A/c,06:00:00 PM,10:40:00 PM
+Jodhpur,AbuRoad,Jain Travels (regd.)-,258,0:6:10,Non A/c,09:00:00 PM,03:10:00 AM
+Jodhpur,AbuRoad,Laxmi Travellers-NON A/C,258,0:5:30,Non A/c,06:30:00 PM,12:00:00 AM
+Jodhpur,AbuRoad,Gujarat Travels-LCD COACH,258,0:6:0,A/c,09:00:00 PM,03:00:00 AM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:5:5,Non A/c,09:45:00 PM,02:50:00 AM
+Jodhpur,AbuRoad,Jakhar Travels,258,0:6:27,Non A/c,09:00:00 PM,03:27:00 AM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:4:35,Non A/c,09:00:00 PM,01:35:00 AM
+Jodhpur,AbuRoad,Laxmi Travellers-NON A/C,258,0:5:0,Non A/c,10:00:00 PM,03:00:00 AM
+Jodhpur,AbuRoad,Laxmi Travellers-NON A/C,258,0:5:0,Non A/c,08:00:00 PM,01:00:00 AM
+Jodhpur,AbuRoad,Jain Travels (regd.)-,258,0:6:10,Non A/c,07:45:00 AM,01:55:00 PM
+Jodhpur,AbuRoad,Jain Travels (regd.)-,258,0:6:10,Non A/c,08:00:00 PM,02:10:00 AM
+Jodhpur,AbuRoad,V.K.Jain Travels-,258,0:5:5,Non A/c,07:30:00 PM,12:35:00 AM
+Jodhpur,Kapasan,Laxmi Travellers-NON A/C,250,0:6:40,Non A/c,09:00:00 PM,03:40:00 AM
+Jodhpur,Bikaner,Laxmi Travellers-,303,0:5:0,Non A/c,10:30:00 PM,03:30:00 AM
+Jodhpur,Bikaner,Kalpana Travels Pvt.Ltd.,303,0:5:30,Non A/c,10:30:00 PM,04:00:00 AM
+Jodhpur,Bikaner,V.K.Jain Travels-,303,0:5:0,Non A/c,08:30:00 PM,01:30:00 AM
+Jodhpur,Bikaner,Kalpana Travels Pvt.Ltd.,303,0:5:30,Non A/c,09:00:00 AM,02:30:00 PM
+Jodhpur,Bikaner,Jain Travels (regd.)-,303,0:4:0,Non A/c,08:00:00 PM,12:00:00 AM
+Jodhpur,Bikaner,Kalpana Travels Pvt.Ltd.,303,0:5:30,Non A/c,05:30:00 AM,11:00:00 AM
+Jodhpur,Bikaner,Jain Travels (regd.)-,303,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Jodhpur,Bikaner,Jain Travels (regd.)-,303,0:4:30,Non A/c,09:00:00 PM,01:30:00 AM
+Jodhpur,Bikaner,Laxmi Travellers-A/C,303,0:5:0,A/c,08:30:00 PM,01:30:00 AM
+Jodhpur,Bikaner,Kalpana Travels Pvt.Ltd.-Pinky travels,303,0:7:0,Non A/c,10:30:00 PM,05:30:00 AM
+Jodhpur,Bikaner,Jain Travels (regd.)-,303,0:4:0,Non A/c,10:00:00 PM,02:00:00 AM
+Jodhpur,Bundi,Jain Travels (regd.)-,341,0:7:50,Non A/c,09:30:00 PM,05:20:00 AM
+Jodhpur,Bundi,V.K.Jain Travels-,341,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+Jodhpur,Bundi,Laxmi Travellers-,341,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+Jodhpur,Bundi,Kalpana Travels Pvt.Ltd.,341,0:7:30,Non A/c,09:30:00 PM,05:00:00 AM
+Jodhpur,Bundi,Laxmi Travellers-NON A/C,341,0:8:0,Non A/c,09:30:00 PM,05:30:00 AM
+Jodhpur,Bundi,Kalpana Travels Pvt.Ltd.,341,0:7:30,Non A/c,09:00:00 PM,04:30:00 AM
+Jodhpur,Bundi,Jain Travels (regd.)-,341,0:7:40,Non A/c,09:00:00 PM,04:40:00 AM
+Jodhpur,Udaipur,Jakhar Travels,320,0:8:0,Non A/c,08:30:00 AM,04:30:00 PM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,09:30:00 PM,03:55:00 AM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,07:30:00 AM,01:55:00 PM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,10:15:00 PM,04:40:00 AM
+Jodhpur,Udaipur,Kalpana Travels Pvt.Ltd.-gogadev,260,0:6:30,Non A/c,09:30:00 PM,04:00:00 AM
+Jodhpur,Udaipur,Laxmi Travellers-NON A/C,260,0:6:30,Non A/c,10:15:00 PM,04:45:00 AM
+Jodhpur,Udaipur,Jakhar Travels,320,0:8:0,Non A/c,01:20:00 PM,09:20:00 PM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,10:00:00 PM,04:25:00 AM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,11:00:00 AM,05:25:00 PM
+Jodhpur,Udaipur,Kalpana Travels Pvt.Ltd.-gogadev,260,0:6:30,Non A/c,10:30:00 PM,05:00:00 AM
+Jodhpur,Udaipur,Jain Travels (regd.)-,257,0:6:25,Non A/c,02:00:00 PM,08:25:00 PM
+Jodhpur,Udaipur,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,10:00:00 PM,04:30:00 AM
+Jodhpur,Mavli,Laxmi Travellers-NON A/C,246,0:6:10,Non A/c,09:00:00 PM,03:10:00 AM
+Jodhpur,Kishangadh,Laxmi Travellers-A/C,232,0:6:0,A/c,10:30:00 PM,04:30:00 AM
+Jodhpur,Kishangadh,Jain Travels (regd.)-,232,0:6:25,Non A/c,10:00:00 PM,04:25:00 AM
+Jodhpur,Kishangadh,Jain Travels (regd.)-,232,0:6:25,Non A/c,10:30:00 PM,04:55:00 AM
+Jodhpur,Kishangadh,Jain Travels (regd.)-,232,0:6:25,Non A/c,11:00:00 AM,05:25:00 PM
+Jodhpur,Kishangadh,V.K.Jain Travels-,232,0:5:30,Non A/c,10:15:00 PM,03:45:00 AM
+Jodhpur,Kishangadh,V.K.Jain Travels-,232,0:5:30,Non A/c,06:30:00 PM,12:00:00 AM
+Jodhpur,Kishangadh,Kalpana Travels Pvt.Ltd.,232,0:5:0,Non A/c,10:30:00 PM,03:30:00 AM
+Jodhpur,Kishangadh,V.K.Jain Travels-,232,0:5:40,Non A/c,12:30:00 PM,06:10:00 PM
+Jodhpur,Kishangadh,Laxmi Travellers-,232,0:4:30,Non A/c,06:00:00 PM,10:30:00 PM
+Jodhpur,Kishangadh,Kalpana Travels Pvt.Ltd.,232,0:5:30,Non A/c,09:00:00 PM,02:30:00 AM
+Jodhpur,Kishangadh,Kalpana Travels Pvt.Ltd.,232,0:5:0,Non A/c,11:00:00 PM,04:00:00 AM
+Jodhpur,Kishangadh,Kalpana Travels Pvt.Ltd.,232,0:6:0,Non A/c,01:30:00 PM,07:30:00 PM
+Jodhpur,Kishangadh,Jain Travels (regd.)-,232,0:6:25,Non A/c,02:00:00 PM,08:25:00 PM
+Jodhpur,Kishangadh,Jain Travels (regd.)-,232,0:6:25,Non A/c,07:00:00 AM,01:25:00 PM
+Jodhpur,Kishangadh,Laxmi Travellers-NON A/C,232,0:5:30,Non A/c,10:00:00 AM,03:30:00 PM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:8:25,Non A/c,11:00:00 AM,07:25:00 PM
+Jodhpur,Jaipur,Kalpana Travels Pvt.Ltd.,331,0:8:30,Non A/c,01:30:00 PM,10:00:00 PM
+Jodhpur,Jaipur,Laxmi Travellers-NON A/C,331,0:6:30,Non A/c,10:00:00 PM,04:30:00 AM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:8:25,Non A/c,07:00:00 AM,03:25:00 PM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:6:50,Non A/c,05:00:00 PM,11:50:00 PM
+Jodhpur,Jaipur,Laxmi Travellers-,331,0:6:30,Non A/c,06:00:00 PM,12:30:00 AM
+Jodhpur,Jaipur,Laxmi Travellers-A/C,331,0:7:0,A/c,10:30:00 PM,05:30:00 AM
+Jodhpur,Jaipur,Kalpana Travels Pvt.Ltd.,331,0:7:0,Non A/c,10:30:00 PM,05:30:00 AM
+Jodhpur,Jaipur,Kalpana Travels Pvt.Ltd.,331,0:7:0,Non A/c,11:00:00 PM,06:00:00 AM
+Jodhpur,Jaipur,Laxmi Travellers-NON A/C,331,0:6:30,Non A/c,10:00:00 AM,04:30:00 PM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:8:25,Non A/c,02:00:00 PM,10:25:00 PM
+Jodhpur,Jaipur,V.K.Jain Travels-,331,0:8:0,Non A/c,10:15:00 PM,06:15:00 AM
+Jodhpur,Jaipur,V.K.Jain Travels-,331,0:8:10,Non A/c,12:30:00 PM,08:40:00 PM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:8:25,Non A/c,10:30:00 PM,06:55:00 AM
+Jodhpur,Jaipur,Kalpana Travels Pvt.Ltd.,331,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Jodhpur,Jaipur,V.K.Jain Travels-,331,0:7:30,Non A/c,06:30:00 PM,02:00:00 AM
+Jodhpur,Jaipur,Jain Travels (regd.)-,331,0:8:25,Non A/c,10:00:00 PM,06:25:00 AM
+Jodhpur,Ajmer,Kalpana Travels Pvt.Ltd.,201,0:4:30,Non A/c,01:30:00 PM,06:00:00 PM
+Jodhpur,Ajmer,Jain Travels (regd.)-,201,0:5:45,Non A/c,10:30:00 PM,04:15:00 AM
+Jodhpur,Ajmer,V.K.Jain Travels-,201,0:4:50,Non A/c,12:30:00 PM,05:20:00 PM
+Jodhpur,Ajmer,Jain Travels (regd.)-,201,0:5:45,Non A/c,11:00:00 AM,04:45:00 PM
+Jodhpur,Ajmer,Kalpana Travels Pvt.Ltd.,201,0:4:30,Non A/c,10:30:00 PM,03:00:00 AM
+Jodhpur,Ajmer,Jain Travels (regd.)-,201,0:5:45,Non A/c,10:00:00 PM,03:45:00 AM
+Jodhpur,Ajmer,Laxmi Travellers-A/C,201,0:4:0,A/c,10:30:00 PM,02:30:00 AM
+Jodhpur,Ajmer,V.K.Jain Travels-,201,0:5:0,Non A/c,06:30:00 PM,11:30:00 PM
+Jodhpur,Ajmer,V.K.Jain Travels-,201,0:4:40,Non A/c,10:15:00 PM,02:55:00 AM
+Jodhpur,Ajmer,Laxmi Travellers-,201,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Jodhpur,Ajmer,Jain Travels (regd.)-,201,0:5:45,Non A/c,02:00:00 PM,07:45:00 PM
+Jodhpur,Ajmer,Kalpana Travels Pvt.Ltd.,201,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Jodhpur,Ajmer,Jain Travels (regd.)-,201,0:5:45,Non A/c,07:00:00 AM,12:45:00 PM
+Jodhpur,Ajmer,Laxmi Travellers-NON A/C,201,0:4:30,Non A/c,10:00:00 AM,02:30:00 PM
+Jodhpur,Ajmer,Kalpana Travels Pvt.Ltd.,201,0:4:30,Non A/c,11:00:00 PM,03:30:00 AM
+Jodhpur,Deoli,Laxmi Travellers-NON A/C,280,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Jodhpur,Deoli,Jain Travels (regd.)-,273,0:6:50,Non A/c,09:30:00 PM,04:20:00 AM
+Jodhpur,Deoli,Jain Travels (regd.)-,273,0:6:50,Non A/c,09:00:00 PM,03:50:00 AM
+Jodhpur,Deoli,Laxmi Travellers-,280,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Jodhpur,Deoli,V.K.Jain Travels-,280,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Jodhpur,Nasirabad,Laxmi Travellers-,200,0:4:30,Non A/c,09:30:00 PM,02:00:00 AM
+Jodhpur,Nasirabad,Kalpana Travels Pvt.Ltd.,200,0:4:30,Non A/c,09:00:00 PM,01:30:00 AM
+Jodhpur,Nasirabad,V.K.Jain Travels-,200,0:4:30,Non A/c,09:30:00 PM,02:00:00 AM
+Jodhpur,Nasirabad,Jain Travels (regd.)-,200,0:5:5,Non A/c,09:30:00 PM,02:35:00 AM
+Jodhpur,Nasirabad,Jain Travels (regd.)-,200,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Jodhpur,Nasirabad,Kalpana Travels Pvt.Ltd.,200,0:4:30,Non A/c,09:30:00 PM,02:00:00 AM
+Jodhpur,Nasirabad,Laxmi Travellers-NON A/C,200,0:4:30,Non A/c,09:30:00 PM,02:00:00 AM
+Jodhpur,Gogunda,Jakhar Travels,226,0:5:39,A/c,10:30:00 PM,04:09:00 AM
+Jamnagar,Bhilwara,shrinath travel agency-brand new lcd coach,741,0:16:0,A/c,02:30:00 PM,06:30:00 AM
+Jamnagar,AbuRoad,shrinath travel agency,478,0:10:0,Non A/c,04:30:00 PM,02:30:00 AM
+Jamnagar,Pali,shrinath travel agency,520,0:13:0,Non A/c,04:30:00 PM,05:30:00 AM
+Jamnagar,Jodhpur,shrinath travel agency,673,0:14:0,Non A/c,04:30:00 PM,06:30:00 AM
+Jamnagar,Udaipur,shrinath travel agency-brand new lcd coach,460,0:11:30,A/c,02:30:00 PM,02:00:00 AM
+Jamnagar,Udaipur,Paavan travels,460,0:11:30,Non A/c,02:30:00 PM,02:00:00 AM
+Jamnagar,Udaipur,shrinath travel agency,480,0:12:0,Non A/c,05:00:00 PM,05:00:00 AM
+Jamnagar,Sirohi,shrinath travel agency,513,0:11:0,Non A/c,04:30:00 PM,03:30:00 AM
+Jamnagar,Kakroli,shrinath travel agency-brand new lcd coach,645,0:13:30,A/c,02:30:00 PM,04:00:00 AM
+Bhachau,Nathdwara,Om Sainath Travels,488,0:12:12,A/c,11:40:00 PM,11:52:00 AM
+Bhachau,AbuRoad,Om Sainath Travels,323,0:8:5,A/c,11:40:00 PM,07:45:00 AM
+Bhachau,Udaipur,Om Sainath Travels,278,0:6:57,A/c,11:40:00 PM,06:37:00 AM
+Ganganagar,Bikaner,Chandra,243,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Guna,Dholpur,Hans Travels Indore-,275,0:6:30,Non A/c,01:40:00 AM,08:10:00 AM
+Guna,Dholpur,Hans Travels Indore-,275,0:5:40,A/c,02:15:00 AM,07:55:00 AM
+Udaipur,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,313,0:7:50,A/c,11:45:00 PM,07:35:00 AM
+Udaipur,Jaipur,shrinath travel agency-brand new lcd coach,320,0:8:0,A/c,02:30:00 AM,10:30:00 AM
+Udaipur,Jaipur,shrinath travel agency,278,0:6:57,Non A/c,02:30:00 AM,09:27:00 AM
+Udaipur,Jaipur,Parshwanath Travel Agency,340,0:8:30,Luxury A/C,11:30:00 PM,08:00:00 AM
+Udaipur,Jaipur,Kalpana Travels Pvt.Ltd.,185,0:4:38,Non A/c,10:30:00 PM,03:08:00 AM
+Udaipur,Jaipur,rishabh travels,320,0:8:0,Non A/c,06:40:00 PM,02:40:00 AM
+Udaipur,Jaipur,rishabh travels,400,0:10:0,Non A/c,05:45:00 PM,03:45:00 AM
+Udaipur,Jaipur,shrinath travel agency,280,0:7:0,Non A/c,11:55:00 PM,06:55:00 AM
+Udaipur,Jaipur,shrinath travel agency-brandnew volvo coac,260,0:6:30,Volvo  A/c,09:05:00 PM,03:35:00 AM
+Udaipur,Jaipur,rishabh travels-new ac sleeper,320,0:8:0,A/c,10:00:00 PM,06:00:00 AM
+Udaipur,Jaipur,rishabh travels-rishabh,340,0:8:30,Non A/c,09:15:00 PM,05:45:00 AM
+Udaipur,Jaipur,rishabh travels-brand new lcd coach,310,0:7:45,A/c,07:00:00 PM,02:45:00 AM
+Udaipur,Jaipur,Natraj Travels-,327,0:8:10,Non A/c,08:00:00 PM,04:10:00 AM
+Udaipur,Jaipur,Kalpana Travels Pvt.Ltd.,360,0:9:0,Non A/c,09:30:00 PM,06:30:00 AM
+Udaipur,Jaipur,rishabh travels-rishabh,340,0:8:30,Non A/c  A/c,10:15:00 PM,06:45:00 AM
+Udaipur,Jaipur,shree parshwanath travels,320,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Udaipur,Jaipur,shrinath travel agency,260,0:6:30,Volvo  A/c,09:05:00 PM,03:35:00 AM
+Udaipur,Jaipur,shree parshwanath travels,360,0:9:0,Non A/c,09:30:00 PM,06:30:00 AM
+Udaipur,Jaipur,shree parshwanath travels,360,0:9:0,A/c,07:00:00 PM,04:00:00 AM
+Udaipur,Jaipur,Speedlink Travel Services,300,0:7:30,Ordinary A/C,07:30:00 PM,03:00:00 AM
+Udaipur,Jaipur,shrinath travel agency,280,0:7:0,Non A/c,01:30:00 AM,08:30:00 AM
+Udaipur,Jaipur,shree parshwanath travels,327,0:8:10,A/c,08:30:00 PM,04:40:00 AM
+Udaipur,Jaipur,shrinath travel agency,360,0:9:0,Non A/c,09:00:00 PM,06:00:00 AM
+Udaipur,Jaipur,shrinath travel agency-brand new lcd coach,320,0:8:0,Non A/c,06:30:00 PM,02:30:00 AM
+Udaipur,Jaipur,Gujarat Travels-Toilet facility,340,0:8:30,A/c,07:30:00 AM,04:00:00 PM
+Udaipur,Jaipur,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,05:00:00 PM,08:29:00 PM
+Udaipur,Jaipur,rishabh travels-extra,360,0:9:0,Non A/c,07:30:00 PM,04:30:00 AM
+Udaipur,Jaipur,shrinath travel agency-brandnew volvo coac,280,0:7:0,Volvo  A/c,11:55:00 PM,06:55:00 AM
+Udaipur,Jaipur,shrinath travel agency,340,0:8:30,Non A/c,06:00:00 PM,02:30:00 AM
+Udaipur,Jaipur,Parshwanath Travel Agency,340,0:8:30,Luxury,12:35:00 AM,09:05:00 AM
+Udaipur,Jaipur,Jain Travels (regd.)-,357,0:8:55,Non A/c,05:45:00 PM,02:40:00 AM
+Udaipur,Jaipur,rishabh travels-shreenath,320,0:8:0,Non A/c,09:15:00 PM,05:15:00 AM
+Udaipur,Jaipur,Natraj Travels-,347,0:8:40,Non A/c,10:00:00 PM,06:40:00 AM
+Udaipur,Jodhpur,Jain Travels (regd.)-,260,0:6:30,Non A/c,09:30:00 PM,04:00:00 AM
+Udaipur,Jodhpur,Kamlesh Travels,280,0:7:0,Non A/c,01:30:00 PM,08:30:00 PM
+Udaipur,Jodhpur,rishabh travels-jhakhar,280,0:7:0,Non A/c,09:45:00 PM,04:45:00 AM
+Udaipur,Jodhpur,Jain Travels (regd.)-,300,0:7:30,Non A/c,10:00:00 PM,05:30:00 AM
+Udaipur,Jodhpur,Jain Travels (regd.)-,300,0:7:30,Non A/c,10:15:00 PM,05:45:00 AM
+Udaipur,Jodhpur,Kamlesh Travels,280,0:7:0,Non A/c,07:30:00 AM,02:30:00 PM
+Udaipur,Jodhpur,Jain Travels (regd.)-,260,0:6:30,Non A/c,01:45:00 PM,08:15:00 PM
+Udaipur,Jodhpur,Jain Travels (regd.)-,260,0:6:30,Non A/c,04:00:00 PM,10:30:00 PM
+Udaipur,Jodhpur,rishabh travels-jhakkhar,280,0:7:0,Non A/c,01:30:00 PM,08:30:00 PM
+Udaipur,Jodhpur,Jain Travels (regd.)-,260,0:6:30,Non A/c,07:45:00 AM,02:15:00 PM
+Udaipur,Jodhpur,rishabh travels-JAKHAR A/C COAC,162,0:4:3,A/c,10:15:00 PM,02:18:00 AM
+Udaipur,Jodhpur,Chandra,280,0:7:0,Non A/c,08:00:00 AM,03:00:00 PM
+Udaipur,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,180,0:4:30,A/c,11:45:00 PM,04:15:00 AM
+Udaipur,Nasirabad,Natraj Travels-,207,0:5:10,Non A/c,08:00:00 PM,01:10:00 AM
+Udaipur,Nasirabad,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,05:00:00 PM,08:29:00 PM
+Udaipur,Nasirabad,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,10:30:00 PM,01:59:00 AM
+Udaipur,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,180,0:4:30,A/c,03:30:00 AM,08:00:00 AM
+Udaipur,Bikaner,shrinath travel agency,560,0:14:0,Non A/c,06:45:00 PM,08:45:00 AM
+Udaipur,Bikaner,rishabh travels,480,0:12:0,Non A/c,06:20:00 PM,06:20:00 AM
+Udaipur,Naukha,rishabh travels,360,0:9:0,Non A/c,06:20:00 PM,03:20:00 AM
+Udaipur,Devgadh,shrinath travel agency,80,0:2:0,Non A/c,11:55:00 PM,01:55:00 AM
+Udaipur,Devgadh,shrinath travel agency,40,0:1:0,Non A/c,01:30:00 AM,02:30:00 AM
+Udaipur,Kishangadh,shrinath travel agency,278,0:6:57,Non A/c,02:30:00 AM,09:27:00 AM
+Udaipur,Kishangadh,Natraj Travels-,247,0:6:10,Non A/c,10:00:00 PM,04:10:00 AM
+Udaipur,Kishangadh,rishabh travels-rishabh,280,0:7:0,Non A/c,09:15:00 PM,04:15:00 AM
+Udaipur,Kishangadh,shrinath travel agency,220,0:5:30,Non A/c,01:30:00 AM,07:00:00 AM
+Udaipur,Kishangadh,rishabh travels-rishabh,300,0:7:30,Non A/c  A/c,10:15:00 PM,05:45:00 AM
+Udaipur,Kishangadh,shree parshwanath travels,300,0:7:30,Non A/c,09:30:00 PM,05:00:00 AM
+Udaipur,Kishangadh,shrinath travel agency,240,0:6:0,Non A/c,11:55:00 PM,05:55:00 AM
+Udaipur,Kishangadh,Jain Travels (regd.)-,257,0:6:25,Non A/c,05:45:00 PM,12:10:00 AM
+Udaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,280,0:7:0,Non A/c,09:30:00 PM,04:30:00 AM
+Udaipur,Kishangadh,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,10:30:00 PM,01:59:00 AM
+Udaipur,Kishangadh,shrinath travel agency,320,0:8:0,Non A/c,09:00:00 PM,05:00:00 AM
+Udaipur,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,233,0:5:50,A/c,11:45:00 PM,05:35:00 AM
+Udaipur,Chittor,shrinath travel agency,60,0:1:30,Volvo  A/c,09:05:00 PM,10:35:00 PM
+Udaipur,Chittor,rishabh travels,67,0:1:40,Non A/c,10:00:00 PM,11:40:00 PM
+Udaipur,Chittor,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,07:30:00 PM,09:30:00 PM
+Udaipur,Chittor,shree parshwanath travels,40,0:1:0,A/c,08:30:00 PM,09:30:00 PM
+Udaipur,Chittor,shrinath travel agency-brandnew volvo coac,60,0:1:30,Volvo  A/c,09:05:00 PM,10:35:00 PM
+Udaipur,Chittor,shrinath travel agency-brandnew volvo coac,60,0:1:30,Volvo  A/c,11:55:00 PM,01:25:00 AM
+Udaipur,Chittor,Shrinath Travels (Kota)-,80,0:2:0,Non A/c,10:30:00 PM,12:30:00 AM
+Udaipur,Chittor,shree parshwanath travels,80,0:2:0,A/c,07:00:00 PM,09:00:00 PM
+Udaipur,Chittor,Gujarat Travels-Toilet facility,60,0:1:30,A/c,07:30:00 AM,09:00:00 AM
+Udaipur,Chittor,rishabh travels-brand new lcd coach,80,0:2:0,A/c,07:00:00 PM,09:00:00 PM
+Udaipur,Chittor,shrinath travel agency,60,0:1:30,Volvo  A/c,11:55:00 PM,01:25:00 AM
+Udaipur,Chittor,rishabh travels-new ac sleeper,80,0:2:0,A/c,10:00:00 PM,12:00:00 AM
+Udaipur,Chittor,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,02:30:00 AM,04:30:00 AM
+Udaipur,Chittor,rishabh travels-shreenath,80,0:2:0,Non A/c,09:15:00 PM,11:15:00 PM
+Udaipur,Kota,Shrinath Travels (Kota)-,280,0:7:0,Non A/c,10:30:00 PM,05:30:00 AM
+Udaipur,Kota,rishabh travels,240,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Udaipur,Pali,Kamlesh Travels,240,0:6:0,Non A/c,07:30:00 AM,01:30:00 PM
+Udaipur,Pali,Jain Travels (regd.)-,200,0:5:0,Non A/c,09:30:00 PM,02:30:00 AM
+Udaipur,Pali,Chandra,220,0:5:30,Non A/c,08:00:00 AM,01:30:00 PM
+Udaipur,Pali,rishabh travels-jhakkhar,220,0:5:30,Non A/c,01:30:00 PM,07:00:00 PM
+Udaipur,Pali,Kamlesh Travels,240,0:6:0,Non A/c,01:30:00 PM,07:30:00 PM
+Udaipur,Pali,rishabh travels-jhakhar,240,0:6:0,Non A/c,09:45:00 PM,03:45:00 AM
+Udaipur,Pali,Jain Travels (regd.)-,240,0:6:0,Non A/c,10:15:00 PM,04:15:00 AM
+Udaipur,Pali,Jain Travels (regd.)-,200,0:5:0,Non A/c,07:45:00 AM,12:45:00 PM
+Udaipur,Pali,Jain Travels (regd.)-,200,0:5:0,Non A/c,01:45:00 PM,06:45:00 PM
+Udaipur,Pali,rishabh travels-JAKHAR A/C COAC,162,0:4:3,A/c,10:15:00 PM,02:18:00 AM
+Udaipur,Pali,Jain Travels (regd.)-,200,0:5:0,Non A/c,04:00:00 PM,09:00:00 PM
+Udaipur,Pali,Jain Travels (regd.)-,240,0:6:0,Non A/c,10:00:00 PM,04:00:00 AM
+Udaipur,Bhim,Jain Travels (regd.)-,147,0:3:40,Non A/c,05:45:00 PM,09:25:00 PM
+Udaipur,Bhim,Kalpana Travels Pvt.Ltd.,160,0:4:0,Non A/c,09:30:00 PM,01:30:00 AM
+Udaipur,Bhim,shrinath travel agency-brand new lcd coach,150,0:3:45,Non A/c,06:30:00 PM,10:15:00 PM
+Udaipur,Bhim,shrinath travel agency,160,0:4:0,Non A/c,11:55:00 PM,03:55:00 AM
+Udaipur,Bhim,Shreenath Travellers (Udr),140,0:3:30,Non A/c,12:45:00 PM,04:15:00 PM
+Udaipur,Bhim,shrinath travel agency,60,0:1:30,Non A/c,01:30:00 AM,03:00:00 AM
+Udaipur,Bhim,Natraj Travels-,140,0:3:30,Non A/c,10:00:00 PM,01:30:00 AM
+Udaipur,Bhim,shree parshwanath travels,160,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Udaipur,Bhim,shrinath travel agency,278,0:6:57,Non A/c,02:30:00 AM,09:27:00 AM
+Udaipur,Bhim,rishabh travels,83,0:2:5,Non A/c,12:30:00 PM,02:35:00 PM
+Udaipur,Gulabpura,Natraj Travels-,180,0:4:30,Non A/c,08:00:00 PM,12:30:00 AM
+Udaipur,Sirohi,rishabh travels-JAKHAR A/C COAC,162,0:4:3,A/c,10:15:00 PM,02:18:00 AM
+Udaipur,Sirohi,Rishabh Travels,162,0:4:3,Non A/c,10:15:00 PM,02:18:00 AM
+Udaipur,Beawar,shrinath travel agency-brand new lcd coach,200,0:5:0,Non A/c,06:30:00 PM,11:30:00 PM
+Udaipur,Beawar,Parshwanath Travel Agency,190,0:4:45,Luxury,12:35:00 AM,05:20:00 AM
+Udaipur,Beawar,Kamlesh Travels,116,0:2:54,Non A/c,10:00:00 PM,12:54:00 AM
+Udaipur,Beawar,Kamlesh Travels,116,0:2:54,Non A/c,01:00:00 PM,03:54:00 PM
+Udaipur,Beawar,Shreenath Travellers (Udr),180,0:4:30,Non A/c,12:45:00 PM,05:15:00 PM
+Udaipur,AbuRoad,Om Sainath Travels,162,0:4:3,A/c,04:30:00 PM,08:33:00 PM
+Udaipur,Nathdwara,Chandra,40,0:1:0,Non A/c,10:30:00 PM,11:30:00 PM
+Udaipur,Nathdwara,Chandra,40,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Udaipur,Nathdwara,Chandra,40,0:1:0,Non A/c,08:00:00 AM,09:00:00 AM
+Udaipur,Nathdwara,Jakhar Travels,40,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Udaipur,Nathdwara,Ashok Travels Regd.,40,0:1:0,Non A/c,05:45:00 PM,06:45:00 PM
+Udaipur,Bhilwara,shrinath travel agency,100,0:2:30,Volvo  A/c,11:55:00 PM,02:25:00 AM
+Udaipur,Bhilwara,rishabh travels,160,0:4:0,Non A/c,05:45:00 PM,09:45:00 PM
+Udaipur,Bhilwara,shrinath travel agency,100,0:2:30,Volvo  A/c,09:05:00 PM,11:35:00 PM
+Udaipur,Bhilwara,shrinath travel agency,160,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Udaipur,Bhilwara,shrinath travel agency-brand new lcd coach,120,0:3:0,A/c,02:30:00 AM,05:30:00 AM
+Udaipur,Bhilwara,shrinath travel agency,160,0:4:0,Non A/c,09:00:00 PM,01:00:00 AM
+Udaipur,Bhilwara,Ashok Travels Regd.,180,0:4:30,Non A/c,05:45:00 PM,10:15:00 PM
+Udaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,10:30:00 PM,01:59:00 AM
+Udaipur,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,120,0:3:0,A/c,03:30:00 AM,06:30:00 AM
+Udaipur,Bhilwara,rishabh travels-new ac sleeper,120,0:3:0,A/c,10:00:00 PM,01:00:00 AM
+Udaipur,Bhilwara,shrinath travel agency-brand new lcd coach,150,0:3:45,Non A/c,06:30:00 PM,10:15:00 PM
+Udaipur,Bhilwara,shree parshwanath travels,130,0:3:15,A/c,07:00:00 PM,10:15:00 PM
+Udaipur,Bhilwara,Natraj Travels-,140,0:3:30,Non A/c,08:00:00 PM,11:30:00 PM
+Udaipur,Bhilwara,shrinath travel agency-brandnew volvo coac,100,0:2:30,Volvo  A/c,09:05:00 PM,11:35:00 PM
+Udaipur,Bhilwara,Gujarat Travels-Toilet facility,100,0:2:30,A/c,07:30:00 AM,10:00:00 AM
+Udaipur,Bhilwara,shree parshwanath travels,160,0:4:0,Non A/c,06:00:00 PM,10:00:00 PM
+Udaipur,Bhilwara,shrinath travel agency-brandnew volvo coac,100,0:2:30,Volvo  A/c,11:55:00 PM,02:25:00 AM
+Udaipur,Bhilwara,Chandra,160,0:4:0,Non A/c,07:00:00 PM,11:00:00 PM
+Udaipur,Bhilwara,Gujarat Travels-BRAND NEW LCD COACH,120,0:3:0,A/c,11:45:00 PM,02:45:00 AM
+Udaipur,Bhilwara,rishabh travels-brand new lcd coach,120,0:3:0,A/c,07:00:00 PM,10:00:00 PM
+Udaipur,Bhilwara,shree parshwanath travels,187,0:4:40,A/c,08:30:00 PM,01:10:00 AM
+Udaipur,Bhilwara,rishabh travels-shreenath,120,0:3:0,Non A/c,09:15:00 PM,12:15:00 AM
+Udaipur,Bhilwara,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,05:00:00 PM,08:29:00 PM
+Udaipur,Bhilwara,Speedlink Travel Services,100,0:2:30,Ordinary A/C,07:30:00 PM,10:00:00 PM
+Udaipur,Ajmer,rishabh travels-rishabh,260,0:6:30,Non A/c  A/c,10:15:00 PM,04:45:00 AM
+Udaipur,Ajmer,shree parshwanath travels,240,0:6:0,Non A/c,09:30:00 PM,03:30:00 AM
+Udaipur,Ajmer,Parshwanath Travel Agency,240,0:6:0,Luxury,12:35:00 AM,06:35:00 AM
+Udaipur,Ajmer,rishabh travels,280,0:7:0,Non A/c,12:30:00 PM,07:30:00 PM
+Udaipur,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,193,0:4:50,A/c,03:30:00 AM,08:20:00 AM
+Udaipur,Ajmer,Jain Travels (regd.)-,227,0:5:40,Non A/c,05:45:00 PM,11:25:00 PM
+Udaipur,Ajmer,Kalpana Travels Pvt.Ltd.,139,0:3:29,Non A/c,10:30:00 PM,01:59:00 AM
+Udaipur,Ajmer,shrinath travel agency-brand new lcd coach,240,0:6:0,Non A/c,06:30:00 PM,12:30:00 AM
+Udaipur,Ajmer,Shreenath Travellers (Udr),240,0:6:0,Non A/c,12:45:00 PM,06:45:00 PM
+Udaipur,Ajmer,shree parshwanath travels,240,0:6:0,Non A/c,06:00:00 PM,12:00:00 AM
+Udaipur,Ajmer,rishabh travels-rishabh,240,0:6:0,Non A/c,09:15:00 PM,03:15:00 AM
+Udaipur,Ajmer,Kalpana Travels Pvt.Ltd.,260,0:6:30,Non A/c,09:30:00 PM,04:00:00 AM
+Udaipur,Ajmer,shrinath travel agency,240,0:6:0,Non A/c,09:00:00 PM,03:00:00 AM
+Udaipur,Ajmer,shrinath travel agency,200,0:5:0,Non A/c,11:55:00 PM,04:55:00 AM
+Udaipur,Ajmer,shrinath travel agency,160,0:4:0,Non A/c,01:30:00 AM,05:30:00 AM
+Udaipur,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,193,0:4:50,A/c,11:45:00 PM,04:35:00 AM
+Udaipur,Ajmer,Natraj Travels-,227,0:5:40,Non A/c,10:00:00 PM,03:40:00 AM
+Udaipur,Ajmer,Kamlesh Travels,116,0:2:54,Non A/c,10:00:00 PM,12:54:00 AM
+Udaipur,Ajmer,shrinath travel agency,278,0:6:57,Non A/c,02:30:00 AM,09:27:00 AM
+Udaipur,Ajmer,Kamlesh Travels,116,0:2:54,Non A/c,01:00:00 PM,03:54:00 PM
+Udaipur,Beawer,rishabh travels,160,0:4:0,Non A/c,06:20:00 PM,10:20:00 PM
+Udaipur,Beawer,shrinath travel agency,200,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Udaipur,Beawer,Jain Travels (regd.)-,187,0:4:40,Non A/c,05:45:00 PM,10:25:00 PM
+Udaipur,Beawer,Natraj Travels-,180,0:4:30,Non A/c,10:00:00 PM,02:30:00 AM
+Udaipur,Beawer,shree parshwanath travels,200,0:5:0,Non A/c,09:30:00 PM,02:30:00 AM
+Udaipur,Beawer,shrinath travel agency,180,0:4:30,Non A/c,11:55:00 PM,04:25:00 AM
+Udaipur,Beawer,Kalpana Travels Pvt.Ltd.,200,0:5:0,Non A/c,09:30:00 PM,02:30:00 AM
+Udaipur,Beawer,shree parshwanath travels,200,0:5:0,Non A/c,06:00:00 PM,11:00:00 PM
+Udaipur,Beawer,rishabh travels-rishabh,200,0:5:0,Non A/c,09:15:00 PM,02:15:00 AM
+Udaipur,Beawer,shrinath travel agency,278,0:6:57,Non A/c,02:30:00 AM,09:27:00 AM
+Udaipur,Beawer,shrinath travel agency,80,0:2:0,Non A/c,01:30:00 AM,03:30:00 AM
+Udaipur,Beawer,rishabh travels,220,0:5:30,Non A/c,12:30:00 PM,06:00:00 PM
+Udaipur,Jhalrapatan,rishabh travels,380,0:9:30,Non A/c,10:00:00 PM,07:30:00 AM
+Udaipur,Kherwara,Shreeji Travel Agency-Eagle,80,0:2:0,A/c,01:00:00 AM,03:00:00 AM
+Udaipur,Kakroli,rishabh travels,60,0:1:30,Non A/c,06:20:00 PM,07:50:00 PM
+Udaipur,Kakroli,Ashok Travels Regd.,60,0:1:30,Non A/c,05:45:00 PM,07:15:00 PM
+Udaipur,Kakroli,shrinath travel agency,80,0:2:0,Non A/c,06:00:00 PM,08:00:00 PM
+Udaipur,Kakroli,shrinath travel agency,60,0:1:30,Non A/c,09:00:00 PM,10:30:00 PM
+Udaipur,Kakroli,shrinath travel agency-brand new lcd coach,70,0:1:45,Non A/c,06:30:00 PM,08:15:00 PM
+Nasirabad,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,134,0:3:20,A/c,04:15:00 AM,07:35:00 AM
+Nasirabad,Bhilwara,Gujarat Travels-,112,0:2:0,A/c,12:00:00 AM,02:00:00 AM
+Nasirabad,Bhilwara,Gujarat Travels-,112,0:2:0,A/c,09:00:00 PM,11:00:00 PM
+Nasirabad,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,20,0:0:20,A/c,04:15:00 AM,04:35:00 AM
+Nasirabad,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,35,0:1:20,A/c,04:15:00 AM,05:35:00 AM
+Nasirabad,Udaipur,Gujarat Travels-,200,0:5:0,A/c,12:00:00 AM,05:00:00 AM
+Nasirabad,Udaipur,Gujarat Travels-,200,0:5:0,A/c,09:00:00 PM,02:00:00 AM
+Nasirabad,Chittor,Gujarat Travels-,169,0:3:30,A/c,09:00:00 PM,12:30:00 AM
+Nasirabad,Chittor,Gujarat Travels-,169,0:3:30,A/c,12:00:00 AM,03:30:00 AM
+Dewas,Dholpur,Hans Travels Indore-,519,0:12:10,Non A/c,08:00:00 PM,08:10:00 AM
+Dewas,Dholpur,Hans Travels Indore-,519,0:11:10,A/c,08:45:00 PM,07:55:00 AM
+Baroda,Kishangadh,shreenath travellers,631,0:15:47,A/c,05:30:00 PM,09:17:00 AM
+Baroda,Kishangadh,R R Travels-,631,0:10:49,Non A/c,04:47:00 PM,03:36:00 AM
+Baroda,Kishangadh,shrinath travel agency,631,0:12:30,Non A/c,05:30:00 PM,06:00:00 AM
+Baroda,Kishangadh,Kalpana Travels Pvt.Ltd.,631,0:15:0,Non A/c,05:30:00 PM,08:30:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:6:30,Non A/c,09:00:00 PM,03:30:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:7:0,Non A/c,10:35:00 PM,05:35:00 AM
+Baroda,AbuRoad,shrinath travel agency,303,0:6:30,Non A/c,09:00:00 PM,03:30:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:6:30,Non A/c,10:30:00 PM,05:00:00 AM
+Baroda,AbuRoad,Gujarat Travels-,303,0:7:30,A/c,09:00:00 PM,04:30:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:6:30,Non A/c,07:30:00 PM,02:00:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:7:30,Non A/c,08:30:00 PM,04:00:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:5:30,A/c,08:00:00 PM,01:30:00 AM
+Baroda,AbuRoad,shreenath travellers,303,0:7:30,Non A/c,08:35:00 PM,04:05:00 AM
+Baroda,Devgadh,Shri Krishna Travels (Baroda),103,0:11:0,Luxury A/C,05:15:00 PM,04:15:00 AM
+Baroda,Beawer,shreenath travellers,533,0:13:20,A/c,05:30:00 PM,06:50:00 AM
+Baroda,Beawer,R R Travels-,533,0:9:25,Non A/c,04:47:00 PM,02:12:00 AM
+Baroda,Beawer,shrinath travel agency,533,0:7:15,Non A/c,05:30:00 PM,12:45:00 AM
+Baroda,Beawer,shreenath travellers,533,0:12:0,Non A/c,07:45:00 PM,07:45:00 AM
+Baroda,Sirohi,shreenath travellers,374,0:8:0,Non A/c,09:00:00 PM,05:00:00 AM
+Baroda,Sirohi,shrinath travel agency,374,0:7:0,Non A/c,09:00:00 PM,04:00:00 AM
+Baroda,Sirohi,shreenath travellers,374,0:8:30,Non A/c,08:35:00 PM,05:05:00 AM
+Baroda,Sirohi,shreenath travellers,374,0:8:30,Non A/c,08:30:00 PM,05:00:00 AM
+Baroda,Sirohi,shreenath travellers,374,0:8:0,Non A/c,07:30:00 PM,03:30:00 AM
+Baroda,Sirohi,shreenath travellers,374,0:7:30,A/c,08:00:00 PM,03:30:00 AM
+Baroda,Bhilwara,Kalpana Travels Pvt.Ltd.,479,0:12:0,Non A/c,05:30:00 PM,05:30:00 AM
+Baroda,Bhilwara,shrinath travel agency-brand new lcd coach,479,0:10:30,A/c,10:00:00 PM,08:30:00 AM
+Baroda,Bhilwara,Shri Krishna Travels (Baroda),479,0:11:30,Luxury A/C,08:15:00 PM,07:45:00 AM
+Baroda,Bhilwara,shreenath travellers,479,0:11:59,Non A/c,10:30:00 PM,10:29:00 AM
+Baroda,Nathdwara,Shri Krishna Travels (Baroda),368,0:9:0,Luxury A/C,05:15:00 PM,02:15:00 AM
+Baroda,Nathdwara,Shri Krishna Travels (Baroda),368,0:8:30,Luxury A/C,08:15:00 PM,04:45:00 AM
+Baroda,Nathdwara,Rishabh Travels,368,0:9:12,Non A/c,01:00:00 AM,10:12:00 AM
+Baroda,Kakroli,shrinath travel agency-brand new lcd coach,383,0:8:30,A/c,10:00:00 PM,06:30:00 AM
+Baroda,Kakroli,shrinath travel agency,383,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Baroda,Kakroli,Shri Krishna Travels (Baroda),383,0:9:0,Luxury A/C,08:15:00 PM,05:15:00 AM
+Baroda,Kakroli,shrinath travel agency,383,0:10:0,Non A/c,05:30:00 PM,03:30:00 AM
+Baroda,Kakroli,shreenath travellers,383,0:9:35,Non A/c,10:30:00 PM,08:05:00 AM
+Baroda,Ajmer,Kalpana Travels Pvt.Ltd.,585,0:14:30,Non A/c,05:30:00 PM,08:00:00 AM
+Baroda,Ajmer,R R Travels-,585,0:10:16,Non A/c,04:47:00 PM,03:03:00 AM
+Baroda,Ajmer,shreenath travellers,585,0:13:0,Non A/c,07:45:00 PM,08:45:00 AM
+Baroda,Ajmer,Shri Krishna Travels (Baroda),585,0:14:0,Luxury A/C,05:15:00 PM,07:15:00 AM
+Baroda,Ajmer,shreenath travellers,585,0:14:38,A/c,05:30:00 PM,08:08:00 AM
+Baroda,Ajmer,shrinath travel agency,585,0:11:15,Non A/c,05:30:00 PM,04:45:00 AM
+Baroda,Jaipur,Kalpana Travels Pvt.Ltd.,730,0:16:0,Non A/c,05:30:00 PM,09:30:00 AM
+Baroda,Jaipur,Vardhman Subham Travels,730,0:18:15,A/c,06:30:00 PM,12:45:00 PM
+Baroda,Jaipur,R R Travels-,730,0:12:21,Non A/c,04:47:00 PM,05:08:00 AM
+Baroda,Jaipur,Shri Krishna Travels (Baroda),730,0:16:0,Luxury A/C,05:15:00 PM,09:15:00 AM
+Baroda,Jaipur,shreenath travellers,730,0:14:30,A/c,05:30:00 PM,08:00:00 AM
+Baroda,Jaipur,shrinath travel agency,730,0:14:30,Non A/c,05:30:00 PM,08:00:00 AM
+Baroda,Nasirabad,Kalpana Travels Pvt.Ltd.,595,0:14:0,Non A/c,05:30:00 PM,07:30:00 AM
+Baroda,Keshariyaji,Kalpana Travels Pvt.Ltd.,250,0:6:30,Non A/c,05:30:00 PM,12:00:00 AM
+Baroda,Keshariyaji,shreenath travellers,250,0:6:15,Non A/c,11:30:00 PM,05:45:00 AM
+Baroda,Keshariyaji,shreenath travellers,250,0:6:15,Non A/c,11:15:00 PM,05:30:00 AM
+Baroda,Keshariyaji,shreenath travellers,250,0:4:0,Non A/c,10:30:00 PM,02:30:00 AM
+Baroda,Amet,shrinath travel agency,420,0:7:15,Non A/c,09:00:00 PM,04:15:00 AM
+Baroda,Gogunda,shreenath travellers,350,0:8:45,Non A/c,11:30:00 PM,08:15:00 AM
+Baroda,Sayra,shreenath travellers,387,0:9:41,Non A/c,11:30:00 PM,09:11:00 AM
+Baroda,Beawar,Shri Krishna Travels (Baroda),533,0:13:0,Luxury A/C,05:15:00 PM,06:15:00 AM
+Baroda,Pali,shreenath travellers,420,0:10:30,A/c,08:00:00 PM,06:30:00 AM
+Baroda,Pali,shreenath travellers,480,0:12:0,Non A/c,07:30:00 PM,07:30:00 AM
+Baroda,Pali,shreenath travellers,480,0:12:0,Non A/c,09:00:00 PM,09:00:00 AM
+Baroda,Bhim,shreenath travellers,480,0:11:0,Non A/c,07:45:00 PM,06:45:00 AM
+Baroda,Bhim,R R Travels-,480,0:8:36,Non A/c,04:47:00 PM,01:23:00 AM
+Baroda,Bhim,shreenath travellers,480,0:12:0,A/c,05:30:00 PM,05:30:00 AM
+Baroda,Bhim,shrinath travel agency,480,0:7:15,Non A/c,05:30:00 PM,12:45:00 AM
+Baroda,Bhim,Shri Krishna Travels (Baroda),480,0:12:0,Luxury A/C,05:15:00 PM,05:15:00 AM
+Baroda,Udaipur,shrinath travel agency,180,0:4:30,Non A/c,09:00:00 PM,01:30:00 AM
+Baroda,Udaipur,Shri Krishna Travels (Baroda),300,0:7:30,Luxury A/C,08:15:00 PM,03:45:00 AM
+Baroda,Udaipur,shrinath travel agency-brand new lcd coach,260,0:6:30,A/c,10:00:00 PM,04:30:00 AM
+Baroda,Udaipur,Rishabh Travels,463,0:11:35,Non A/c,01:00:00 AM,12:35:00 PM
+Baroda,Udaipur,shrinath travel agency,360,0:9:0,Non A/c,05:30:00 PM,02:30:00 AM
+Baroda,Udaipur,shreenath travellers,278,0:6:57,Non A/c,11:30:00 PM,06:27:00 AM
+Baroda,Udaipur,shreenath travellers,185,0:4:38,Non A/c,10:30:00 PM,03:08:00 AM
+Baroda,Udaipur,shreenath travellers,300,0:7:30,A/c,11:20:00 PM,06:50:00 AM
+Baroda,Udaipur,Kalpana Travels Pvt.Ltd.,400,0:10:0,Non A/c,05:30:00 PM,03:30:00 AM
+Baroda,Udaipur,shreenath travellers,231,0:5:47,Non A/c,11:15:00 PM,05:02:00 AM
+Baroda,Udaipur,shreenath travellers,370,0:9:15,A/c,05:30:00 PM,02:45:00 AM
+Baroda,Udaipur,Gujarat Travels-A/C,240,0:6:0,Non A/c  A/c,09:00:00 PM,03:00:00 AM
+Baroda,Udaipur,R R Travels-,229,0:5:44,Non A/c,04:47:00 PM,10:31:00 PM
+Baroda,Udaipur,shreenath travellers,280,0:7:0,Non A/c,07:45:00 PM,02:45:00 AM
+Baroda,Udaipur,rishabh travels-rishabh,463,0:11:35,Non A/c  A/c,01:00:00 AM,12:35:00 PM
+Baroda,Udaipur,Shri Krishna Travels (Baroda),300,0:7:30,Luxury A/C,05:15:00 PM,12:45:00 AM
+Baroda,Jodhpur,shreenath travellers,559,0:13:0,Non A/c,09:00:00 PM,10:00:00 AM
+Baroda,Jodhpur,shreenath travellers,559,0:11:30,A/c,08:00:00 PM,07:30:00 AM
+Baroda,Jodhpur,shreenath travellers,559,0:13:0,Non A/c,07:30:00 PM,08:30:00 AM
+Hubli,Kota,Sri Durgamba Travels,1351,1:5:50,2+3SLIGHT PUSH BACK,10:30:00 PM,04:20:00 AM
+Hubli,Kota,Sri Durgamba Travels,1351,1:6:10,2+1 Seater-Sleeper Airbus,11:00:00 PM,05:10:00 AM
+Anjar,AbuRoad,Om Sainath Travels,362,0:9:3,A/c,10:00:00 PM,07:03:00 AM
+Anjar,Nathdwara,Om Sainath Travels,527,0:13:11,A/c,10:00:00 PM,11:11:00 AM
+Anjar,Udaipur,Om Sainath Travels,278,0:6:57,A/c,10:00:00 PM,04:57:00 AM
+Bhilwara,Kherwara,Shreeji Travel Agency-Eagle,251,0:5:30,A/c,09:30:00 PM,03:00:00 AM
+Bhilwara,Kherwara,Namdev Travels-,251,0:6:30,Non A/c,07:00:00 PM,01:30:00 AM
+Bhilwara,Kherwara,Namdev Travels-,251,0:4:0,Non A/c,03:30:00 PM,07:30:00 PM
+Bhilwara,Kherwara,Namdev Travels-,251,0:4:0,Non A/c,04:30:00 PM,08:30:00 PM
+Bhilwara,Kherwara,Shreeji Travel Agency-,251,0:5:35,Non A/c,04:00:00 PM,09:35:00 PM
+Bhilwara,Kherwara,Shreeji Travel Agency-,251,0:5:35,Non A/c,03:30:00 PM,09:05:00 PM
+Bhilwara,Kherwara,Namdev Travels-,251,0:5:30,Non A/c,06:00:00 PM,11:30:00 PM
+Bhilwara,Kherwara,Shreeji Travel Agency-,251,0:5:10,Non A/c,06:00:00 PM,11:10:00 PM
+Bhilwara,Kherwara,Shreeji Travel Agency-,251,0:5:55,Non A/c,11:30:00 AM,05:25:00 PM
+Bhilwara,Kherwara,Shreeji Travel Agency-,251,0:5:15,Non A/c,04:30:00 PM,09:45:00 PM
+Bhilwara,Nimbaheda,Rajlaxmi Travel Agency,88,0:1:30,Non A/c,05:15:00 PM,06:45:00 PM
+Bhilwara,Udaipur,shrinath travel agency-brandnew volvo coac,120,0:3:0,Volvo  A/c,12:45:00 AM,03:45:00 AM
+Bhilwara,Udaipur,Namdev Travels-,177,0:4:25,Non A/c,09:30:00 PM,01:55:00 AM
+Bhilwara,Udaipur,Rajlaxmi Travel Agency,160,0:4:0,Non A/c,03:15:00 PM,07:15:00 PM
+Bhilwara,Udaipur,Shreeji Travel Agency-,147,0:3:40,Non A/c,06:00:00 PM,09:40:00 PM
+Bhilwara,Udaipur,Shreeji Travel Agency-,163,0:4:5,Non A/c,03:30:00 PM,07:35:00 PM
+Bhilwara,Udaipur,shrinath travel agency-brand new lcd coach,120,0:3:0,A/c,10:30:00 PM,01:30:00 AM
+Bhilwara,Udaipur,Parshwanath Travel Agency,120,0:3:0,Luxury A/C,10:00:00 PM,01:00:00 AM
+Bhilwara,Udaipur,shrinath travel agency,120,0:3:0,Volvo  A/c,12:45:00 AM,03:45:00 AM
+Bhilwara,Udaipur,Shreeji Travel Agency-,150,0:3:45,Non A/c,04:30:00 PM,08:15:00 PM
+Bhilwara,Udaipur,Shreenath Travellers (Udr),190,0:4:45,Non A/c,04:00:00 PM,08:45:00 PM
+Bhilwara,Udaipur,Namdev Travels-,120,0:3:0,Non A/c,03:30:00 PM,06:30:00 PM
+Bhilwara,Udaipur,Speedlink Travel Services,220,0:5:30,Ordinary A/C,12:30:00 AM,06:00:00 AM
+Bhilwara,Udaipur,Karnavati Travels,117,0:2:55,Non A/c,09:00:00 PM,11:55:00 PM
+Bhilwara,Udaipur,Shreeji Travel Agency-,163,0:4:5,Non A/c,04:00:00 PM,08:05:00 PM
+Bhilwara,Udaipur,Shreenath Travellers (Udr),180,0:4:30,Non A/c,01:30:00 PM,06:00:00 PM
+Bhilwara,Udaipur,shrinath travel agency-brand new lcd coach,180,0:4:30,A/c,05:30:00 PM,10:00:00 PM
+Bhilwara,Udaipur,Gujarat Travels-,120,0:3:0,A/c,02:00:00 AM,05:00:00 AM
+Bhilwara,Udaipur,shrinath travel agency-brand new lcd coach,173,0:4:20,A/c,05:00:00 PM,09:20:00 PM
+Bhilwara,Udaipur,Gujarat Travels-,120,0:3:0,A/c,11:00:00 PM,02:00:00 AM
+Bhilwara,Udaipur,Namdev Travels-,120,0:3:0,Non A/c,04:30:00 PM,07:30:00 PM
+Bhilwara,Udaipur,Shreeji Travel Agency-,177,0:4:25,Non A/c,11:30:00 AM,03:55:00 PM
+Bhilwara,Udaipur,Namdev Travels-,180,0:4:30,Non A/c,07:00:00 PM,11:30:00 PM
+Bhilwara,Udaipur,Shreeji Travel Agency-Eagle,140,0:3:30,A/c,09:30:00 PM,01:00:00 AM
+Bhilwara,Udaipur,shree parshwanath travels,180,0:4:30,Non A/c,05:30:00 PM,10:00:00 PM
+Bhilwara,Udaipur,Namdev Travels-,140,0:3:30,Non A/c,06:00:00 PM,09:30:00 PM
+Bhilwara,Udaipur,Parshwanath Travel Agency,170,0:4:15,Luxury,05:35:00 PM,09:50:00 PM
+Bhilwara,Kakroli,shrinath travel agency-brand new lcd coach,91,0:2:30,A/c,05:30:00 PM,08:00:00 PM
+Bhilwara,Kakroli,shrinath travel agency-brand new lcd coach,91,0:2:10,A/c,05:00:00 PM,07:10:00 PM
+Bhilwara,Kakroli,shree parshwanath travels,91,0:2:30,Non A/c,05:30:00 PM,08:00:00 PM
+Bhilwara,Kakroli,Shreenath Travellers (Udr),91,0:2:15,Non A/c,01:30:00 PM,03:45:00 PM
+Bhilwara,Kapasan,Shreeji Travel Agency-,86,0:1:40,Non A/c,04:00:00 PM,05:40:00 PM
+Bhilwara,Kapasan,Namdev Travels-,86,0:2:10,Non A/c,09:30:00 PM,11:40:00 PM
+Bhilwara,Kapasan,Karnavati Travels,86,0:1:30,Non A/c,09:00:00 PM,10:30:00 PM
+Bhilwara,Kapasan,Rajshri Travels Agency_Bhilwara,86,0:1:30,Non A/c,08:30:00 PM,10:00:00 PM
+Bhilwara,Kapasan,Rajlaxmi Travel Agency,86,0:1:58,Non A/c,10:00:00 PM,11:58:00 PM
+Bhilwara,Kapasan,Shreeji Travel Agency-,86,0:1:40,Non A/c,06:00:00 PM,07:40:00 PM
+Bhilwara,Kapasan,Shreeji Travel Agency-,86,0:2:0,Non A/c,11:30:00 AM,01:30:00 PM
+Bhilwara,Kankroli,Shreeji Travel Agency-,91,0:1:45,Non A/c,04:30:00 PM,06:15:00 PM
+Bhilwara,Kankroli,Shreeji Travel Agency-,91,0:2:5,Non A/c,03:30:00 PM,05:35:00 PM
+Bhilwara,Kankroli,Namdev Travels-,91,0:1:30,Non A/c,04:30:00 PM,06:00:00 PM
+Bhilwara,Kankroli,Namdev Travels-,91,0:1:30,Non A/c,03:30:00 PM,05:00:00 PM
+Bhilwara,Kankroli,Namdev Travels-,91,0:2:0,Non A/c,06:00:00 PM,08:00:00 PM
+Bhilwara,Mavli,Namdev Travels-,128,0:3:30,Non A/c,07:00:00 PM,10:30:00 PM
+Bhilwara,Mavli,Shreeji Travel Agency-,128,0:3:5,Non A/c,04:00:00 PM,07:05:00 PM
+Bhilwara,Mavli,Shreeji Travel Agency-,128,0:3:25,Non A/c,11:30:00 AM,02:55:00 PM
+Bhilwara,Mavli,Namdev Travels-,128,0:3:25,Non A/c,09:30:00 PM,12:55:00 AM
+Bhilwara,Mavli,Karnavati Travels,128,0:2:0,Non A/c,09:00:00 PM,11:00:00 PM
+Bhilwara,Mavli,Shreeji Travel Agency-,128,0:2:50,Non A/c,06:00:00 PM,08:50:00 PM
+Bhilwara,Chittor,Shreeji Travel Agency-Eagle,54,0:1:0,A/c,09:30:00 PM,10:30:00 PM
+Bhilwara,Chittor,shrinath travel agency-brand new lcd coach,54,0:1:0,A/c,10:30:00 PM,11:30:00 PM
+Bhilwara,Chittor,shrinath travel agency-brandnew volvo coac,54,0:1:0,Volvo  A/c,12:45:00 AM,01:45:00 AM
+Bhilwara,Chittor,Gujarat Travels-,54,0:1:30,A/c,11:00:00 PM,12:30:00 AM
+Bhilwara,Chittor,Rajshri Travels Agency_Bhilwara,54,0:1:0,Non A/c,08:30:00 PM,09:30:00 PM
+Bhilwara,Chittor,Shreeji Travel Agency-,54,0:1:0,Non A/c,06:00:00 PM,07:00:00 PM
+Bhilwara,Chittor,shrinath travel agency,54,0:1:0,Volvo  A/c,12:45:00 AM,01:45:00 AM
+Bhilwara,Chittor,Gujarat Travels-,54,0:1:30,A/c,02:00:00 AM,03:30:00 AM
+Bhilwara,Chittor,Namdev Travels-,54,0:1:30,Non A/c,09:30:00 PM,11:00:00 PM
+Bhilwara,Chittor,Rajlaxmi Travel Agency,54,0:1:0,Non A/c,10:00:00 PM,11:00:00 PM
+Bhilwara,Chittor,Shreeji Travel Agency-,54,0:1:0,Non A/c,04:00:00 PM,05:00:00 PM
+Bhilwara,Chittor,Shreeji Travel Agency-,54,0:1:15,Non A/c,11:30:00 AM,12:45:00 PM
+Bhilwara,Chittor,Namdev Travels-,54,0:1:30,Non A/c,07:00:00 PM,08:30:00 PM
+Bhilwara,Chittor,Rajlaxmi Travel Agency,54,0:1:0,Non A/c,05:15:00 PM,06:15:00 PM
+Bhilwara,Chittor,Karnavati Travels,54,0:1:0,Non A/c,09:00:00 PM,10:00:00 PM
+Bhilwara,Chittaurgarh,Parshwanath Travel Agency,54,0:1:15,Luxury A/C,10:00:00 PM,11:15:00 PM
+Bhilwara,Kota,Shrinath Travels (Kota)-,159,0:5:0,Non A/c,11:30:00 PM,04:30:00 AM
+Bhilwara,Jodhpur,Chandra,233,0:6:30,Non A/c,02:15:00 PM,08:45:00 PM
+Bhilwara,Jodhpur,Chandra,233,0:5:50,Non A/c,10:15:00 PM,04:05:00 AM
+Bhilwara,Kishangadh,Gujarat Travels-BRAND NEW LCD COACH,148,0:2:50,A/c,02:45:00 AM,05:35:00 AM
+Bhilwara,Ajmer,shree rishabh travels-batco group,135,0:2:30,Non A/c,08:30:00 PM,11:00:00 PM
+Bhilwara,Ajmer,Gujarat Travels-BRAND NEW LCD COACH,135,0:1:50,A/c,02:45:00 AM,04:35:00 AM
+Bhilwara,Gulabpura,Chandra,67,0:1:0,Non A/c,06:30:00 AM,07:30:00 AM
+Bhilwara,Nathdwara,Shreenath Travellers (Udr),106,0:3:0,Non A/c,01:30:00 PM,04:30:00 PM
+Bhilwara,Nathdwara,Parshwanath Travel Agency,106,0:3:0,Luxury,05:35:00 PM,08:35:00 PM
+Bhilwara,Nasirabad,Gujarat Travels-BRAND NEW LCD COACH,112,0:1:30,A/c,02:45:00 AM,04:15:00 AM
+Bhilwara,Fatehnagar,Shreeji Travel Agency-,102,0:2:20,Non A/c,06:00:00 PM,08:20:00 PM
+Bhilwara,Fatehnagar,Shreeji Travel Agency-,102,0:2:25,Non A/c,04:00:00 PM,06:25:00 PM
+Bhilwara,Fatehnagar,Shreeji Travel Agency-,102,0:2:45,Non A/c,11:30:00 AM,02:15:00 PM
+Bhilwara,Fatehnagar,Namdev Travels-,102,0:2:55,Non A/c,09:30:00 PM,12:25:00 AM
+Bhilwara,Fatehnagar,Rajshri Travels Agency_Bhilwara,102,0:2:30,Non A/c,08:30:00 PM,11:00:00 PM
+Bhilwara,Fatehnagar,Namdev Travels-,102,0:3:0,Non A/c,07:00:00 PM,10:00:00 PM
+Bhilwara,Beawar,Chandra,114,0:3:0,Non A/c,02:15:00 PM,05:15:00 PM
+Bhilwara,Jaipur,shrinath travel agency-brand new lcd coach,247,0:5:30,Non A/c,08:30:00 PM,02:00:00 AM
+Bhilwara,Jaipur,shree rishabh travels-batco group,247,0:6:11,Non A/c,08:30:00 PM,02:41:00 AM
+Bhilwara,Jaipur,Natraj Travels-,247,0:4:40,Non A/c,11:30:00 PM,04:10:00 AM
+Bhilwara,Jaipur,rishabh travels-shreenath,247,0:5:30,Non A/c,12:15:00 AM,05:45:00 AM
+Bhilwara,Jaipur,shree parshwanath travels,247,0:3:40,A/c,10:15:00 PM,01:55:00 AM
+Bhilwara,Jaipur,Vishwakarma Travels_Bhilwara,247,0:5:0,Non A/c,05:35:00 PM,10:35:00 PM
+Bhilwara,Jaipur,shree parshwanath travels,247,0:7:30,Non A/c,10:00:00 PM,05:30:00 AM
+Bhilwara,Jaipur,Gujarat Travels-BRAND NEW LCD COACH,247,0:4:50,A/c,02:45:00 AM,07:35:00 AM
+Bhilwara,Jaipur,shrinath travel agency-brand new lcd coach,247,0:5:0,A/c,05:30:00 AM,10:30:00 AM
+Bhilwara,Jaipur,shrinath travel agency-brandnew volvo coac,247,0:4:0,Volvo  A/c,11:00:00 PM,03:00:00 AM
+Bhilwara,Jaipur,Speedlink Travel Services,247,0:5:0,Ordinary A/C,10:00:00 PM,03:00:00 AM
+Bhilwara,Jaipur,rishabh travels,247,0:5:0,Non A/c,09:45:00 PM,02:45:00 AM
+Bhilwara,Jaipur,shrinath travel agency,247,0:4:0,Volvo  A/c,11:00:00 PM,03:00:00 AM
+Bhilwara,Jaipur,shrinath travel agency-brand new lcd coach,247,0:4:30,Non A/c,10:15:00 PM,02:45:00 AM
+Bhilwara,Jaipur,Chandra,247,0:5:0,Non A/c,06:30:00 AM,11:30:00 AM
+Bhilwara,Jaipur,rishabh travels-new ac sleeper,247,0:6:11,A/c,01:00:00 AM,07:11:00 AM
+Bhilwara,Jaipur,Gujarat Travels-Toilet facility,247,0:6:0,A/c,10:00:00 AM,04:00:00 PM
+Bhilwara,Jaipur,rishabh travels-brand new lcd coach,247,0:2:0,A/c,10:00:00 PM,12:00:00 AM
+Bhilwara,Jaipur,shrinath travel agency,247,0:4:30,Non A/c,10:00:00 PM,02:30:00 AM
+Bhilwara,Jaipur,Namdev Travels-,247,0:5:0,Non A/c,09:00:00 PM,02:00:00 AM
+Bharuch,Kishangadh,shreenath travellers,713,0:17:50,A/c,04:00:00 PM,09:50:00 AM
+Bharuch,Kishangadh,R R Travels-,713,0:11:59,Non A/c,03:37:00 PM,03:36:00 AM
+Bharuch,Gogunda,shreenath travellers,432,0:10:48,Non A/c,10:30:00 PM,09:18:00 AM
+Bharuch,Gogunda,shreenath travellers,432,0:13:0,Non A/c  A/c,11:00:00 PM,12:00:00 PM
+Bharuch,Gogunda,shreenath travellers,432,0:13:0,Non A/c,12:00:00 AM,01:00:00 PM
+Bharuch,Gogunda,shreenath travellers,432,0:13:0,Non A/c,11:45:00 PM,12:45:00 PM
+Bharuch,AbuRoad,shreenath travellers,384,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:9:0,Non A/c,07:00:00 PM,04:00:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:8:0,Non A/c,09:00:00 PM,05:00:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:8:30,Non A/c,09:05:00 PM,05:35:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:8:0,Non A/c,07:30:00 PM,03:30:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:9:0,Non A/c,07:05:00 PM,04:05:00 AM
+Bharuch,AbuRoad,shreenath travellers,384,0:6:30,A/c,06:30:00 PM,01:00:00 AM
+Bharuch,Jaipur,Vardhman Subham Travels,812,0:20:18,A/c,05:00:00 PM,01:18:00 PM
+Bharuch,Jaipur,R R Travels-,812,0:13:31,Non A/c,03:37:00 PM,05:08:00 AM
+Bharuch,Jaipur,shreenath travellers,812,0:20:18,A/c,04:00:00 PM,12:18:00 PM
+Bharuch,Ajmer,R R Travels-,666,0:11:26,Non A/c,03:37:00 PM,03:03:00 AM
+Bharuch,Ajmer,shreenath travellers,666,0:14:0,Non A/c,06:00:00 PM,08:00:00 AM
+Bharuch,Ajmer,shreenath travellers,666,0:16:39,A/c,04:00:00 PM,08:39:00 AM
+Bharuch,Jodhpur,shreenath travellers,640,0:14:30,Non A/c,07:30:00 PM,10:00:00 AM
+Bharuch,Jodhpur,shreenath travellers,640,0:14:30,Non A/c,06:00:00 PM,08:30:00 AM
+Bharuch,Jodhpur,shreenath travellers,640,0:12:30,A/c,06:30:00 PM,07:00:00 AM
+Bharuch,Pali,shreenath travellers,540,0:13:30,Non A/c,07:30:00 PM,09:00:00 AM
+Bharuch,Pali,shreenath travellers,460,0:11:30,A/c,06:30:00 PM,06:00:00 AM
+Bharuch,Pali,shreenath travellers,540,0:13:30,Non A/c,06:00:00 PM,07:30:00 AM
+Bharuch,Bhim,shreenath travellers,561,0:14:2,A/c,04:00:00 PM,06:02:00 AM
+Bharuch,Bhim,shreenath travellers,561,0:12:0,Non A/c,06:00:00 PM,06:00:00 AM
+Bharuch,Bhim,R R Travels-,561,0:9:46,Non A/c,03:37:00 PM,01:23:00 AM
+Bharuch,Udaipur,shreenath travellers,231,0:5:47,Non A/c,09:30:00 PM,03:17:00 AM
+Bharuch,Udaipur,shreenath travellers,185,0:4:38,Non A/c,10:30:00 PM,03:08:00 AM
+Bharuch,Udaipur,shreenath travellers,360,0:9:0,Non A/c,12:00:00 AM,09:00:00 AM
+Bharuch,Udaipur,shreenath travellers,320,0:8:0,Non A/c,06:00:00 PM,02:00:00 AM
+Bharuch,Udaipur,shreenath travellers,360,0:9:0,Non A/c,11:45:00 PM,08:45:00 AM
+Bharuch,Udaipur,shreenath travellers,370,0:9:15,A/c,04:00:00 PM,01:15:00 AM
+Bharuch,Udaipur,shreenath travellers,360,0:9:0,Non A/c  A/c,11:00:00 PM,08:00:00 AM
+Bharuch,Udaipur,shreenath travellers,340,0:8:30,A/c,09:35:00 PM,06:05:00 AM
+Bharuch,Udaipur,R R Travels-,276,0:6:54,Non A/c,03:37:00 PM,10:31:00 PM
+Bharuch,Udaipur,shreenath travellers,220,0:5:30,Non A/c,08:40:00 PM,02:10:00 AM
+Bharuch,Beawer,shreenath travellers,614,0:13:0,Non A/c,06:00:00 PM,07:00:00 AM
+Bharuch,Beawer,shreenath travellers,614,0:15:21,A/c,04:00:00 PM,07:21:00 AM
+Bharuch,Beawer,R R Travels-,614,0:10:35,Non A/c,03:37:00 PM,02:12:00 AM
+Bharuch,Sayra,shreenath travellers,468,0:11:42,Non A/c,10:30:00 PM,10:12:00 AM
+Bharuch,Sayra,shreenath travellers,468,0:13:30,Non A/c,11:45:00 PM,01:15:00 PM
+Bharuch,Sayra,shreenath travellers,468,0:13:30,Non A/c,12:00:00 AM,01:30:00 PM
+Bharuch,Sayra,shreenath travellers,468,0:13:30,Non A/c  A/c,11:00:00 PM,12:30:00 PM
+Bharuch,Kakroli,shreenath travellers,465,0:8:30,Non A/c,08:40:00 PM,05:10:00 AM
+Bharuch,Kakroli,shreenath travellers,465,0:11:38,Non A/c,10:30:00 PM,10:08:00 AM
+Bharuch,Bhilwara,shreenath travellers,561,0:14:2,Non A/c,10:30:00 PM,12:32:00 PM
+Bharuch,Bhilwara,shreenath travellers,561,0:9:0,Non A/c,08:40:00 PM,05:40:00 AM
+Bharuch,Sirohi,shreenath travellers,454,0:9:30,Non A/c,06:00:00 PM,03:30:00 AM
+Bharuch,Sirohi,shreenath travellers,454,0:9:30,Non A/c,07:30:00 PM,05:00:00 AM
+Bharuch,Sirohi,shreenath travellers,454,0:10:0,Non A/c,07:00:00 PM,05:00:00 AM
+Bharuch,Sirohi,shreenath travellers,454,0:10:0,Non A/c,07:05:00 PM,05:05:00 AM
+Bharuch,Sirohi,shreenath travellers,454,0:8:30,A/c,06:30:00 PM,03:00:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:5:0,Non A/c,08:40:00 PM,01:40:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:10:30,Non A/c,12:00:00 AM,10:30:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:8:18,Non A/c,10:30:00 PM,06:48:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:8:18,Non A/c,09:30:00 PM,05:48:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:10:30,Non A/c  A/c,11:00:00 PM,09:30:00 AM
+Bharuch,Keshariyaji,shreenath travellers,332,0:10:30,Non A/c,11:45:00 PM,10:15:00 AM
+Shajapur,Dholpur,Hans Travels Indore-,459,0:9:40,A/c,10:15:00 PM,07:55:00 AM
+Shajapur,Dholpur,Hans Travels Indore-,459,0:10:30,Non A/c,09:40:00 PM,08:10:00 AM
+Belgaum,Kota,Sri Durgamba Travels,1263,1:8:10,2+1 Seater-Sleeper Airbus,09:00:00 PM,05:10:00 AM
+Shamlaji,Jaipur,shrinath travel agency-brand new lcd coach,554,0:10:0,A/c,12:30:00 AM,10:30:00 AM
+Shamlaji,Jaipur,shrinath travel agency-brandnew volvo coac,554,0:8:30,Volvo  A/c,06:30:00 PM,03:00:00 AM
+Shamlaji,Udaipur,shrinath travel agency-brandnew volvo coac,100,0:2:30,Volvo  A/c,06:30:00 PM,09:00:00 PM
+Shamlaji,Udaipur,shrinath travel agency-brandnew volvo coac,80,0:2:0,Volvo  A/c,09:30:00 AM,11:30:00 AM
+Shamlaji,Udaipur,shrinath travel agency-brand new lcd coach,80,0:2:0,A/c,12:30:00 AM,02:30:00 AM
+Shamlaji,Udaipur,shrinath travel agency-brandnew volvo coac,80,0:2:0,Volvo  A/c,01:30:00 AM,03:30:00 AM
+Shamlaji,Udaipur,shrinath travel agency-brandnew volvo coac,80,0:2:0,Volvo  A/c,04:00:00 PM,06:00:00 PM
+Shamlaji,Bhilwara,shrinath travel agency-brand new lcd coach,303,0:5:0,A/c,12:30:00 AM,05:30:00 AM
+Shamlaji,Bhilwara,shrinath travel agency-brandnew volvo coac,303,0:4:30,Volvo  A/c,06:30:00 PM,11:00:00 PM
+Shamlaji,Chittor,shrinath travel agency-brandnew volvo coac,251,0:3:30,Volvo  A/c,06:30:00 PM,10:00:00 PM
+Shamlaji,Chittor,shrinath travel agency-brand new lcd coach,251,0:4:0,A/c,12:30:00 AM,04:30:00 AM

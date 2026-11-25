@@ -1,7 +1,7 @@
-# AuraTour: User Study Results and Recruitment Report
+# User Study Results and Recruitment Report
 
 > **Document Type:** Human Subjects Research Evaluation Report  
-> **System:** AuraTour Sustainable & Crowd-Aware Tourism Recommender (Rajasthan, India)  
+> **System:** Sustainable & Crowd-Aware Tourism Recommender (Rajasthan, India)  
 > **Study Target:** $N = 30\text{--}50$ Verified Participants  
 > **Status:** Participant Intake Phase Active (Pre-registered Statistical Pipeline Verified)  
 > **Repository Data Store:** `backend/data/results/user_study_responses.json`  
@@ -10,7 +10,7 @@
 
 ## 1. Executive Summary
 
-This report documents the empirical user study design, intake status, and statistical evaluation framework for AuraTour. The study compares **C5 Full Multi-Criteria** against **C1 Baseline** via a double-blinded, within-subjects paired comparison across six theoretical dimensions: *Relevance*, *Perceived Sustainability*, *Practical Usefulness*, *Trust & Credibility*, *Itinerary Feasibility*, and *Willingness to Visit*.
+This report documents the empirical user study design, intake status, and statistical evaluation framework for the system. The study compares **C5 Full Multi-Criteria** against **C1 Baseline** via a double-blinded, within-subjects paired comparison across six theoretical dimensions: *Relevance*, *Perceived Sustainability*, *Practical Usefulness*, *Trust & Credibility*, *Itinerary Feasibility*, and *Willingness to Visit*.
 
 ### Key Scientific Principles Maintained
 1. **Zero Data Fabrication:** In strict adherence to academic integrity standards, simulated persona benchmarks (P1–P7) are stored separately from human data. The human response store currently contains $0$ fabricated responses.
@@ -39,7 +39,7 @@ This report documents the empirical user study design, intake status, and statis
 Recruitment is organized across three primary channels:
 - **Academic Student & Faculty Cohorts:** Computer science and tourism management departments evaluating digital travel assistants.
 - **Domestic Travel Communities:** Online forums and travel clubs with prior travel experience in Rajasthan.
-- **Public Research Portal:** Direct access via the AuraTour interface (`http://localhost:5173/`, tab *"User Study Survey"*).
+- **Public Research Portal:** Direct access via the web interface (`http://localhost:5173/`, tab *"User Study Survey"*).
 
 ---
 

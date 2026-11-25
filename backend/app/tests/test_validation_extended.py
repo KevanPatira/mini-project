@@ -1,5 +1,5 @@
 """
-Extended Validation and Scientific Integrity Tests for AuraTour.
+Extended Validation and Scientific Integrity Tests for Sustainable Tourism Recommender.
 
 Covers Step 4 of Research Validation:
 1. Hand-computed metric verification against exact analytical solutions

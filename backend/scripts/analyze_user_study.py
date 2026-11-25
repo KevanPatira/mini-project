@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-AuraTour: Reproducible Statistical Analysis Pipeline for User Study Responses.
+Reproducible Statistical Analysis Pipeline for User Study Responses.
 
 Loads validated user-study responses, applies pre-registered exclusion criteria,
 computes descriptive distributions and non-parametric paired inferential statistics
 (Wilcoxon Signed-Rank Test, Cliff's Delta, Rank-Biserial Correlation, Bootstrap 95% CIs),
 and produces publication-quality charts and CSV/JSON summary outputs.
 
-Author: AuraTour Research Team
+Author: Research Team
 """
 
 import os
@@ -184,7 +184,7 @@ def generate_power_chart(power_curve, output_dir):
 
     ax.set_xlabel("Sample Size ($N$ Paired Participants)", fontweight="bold")
     ax.set_ylabel("Statistical Power ($1 - \\beta$)", fontweight="bold")
-    ax.set_title("AuraTour Study: Statistical Power vs. Participant Cohort Size", fontweight="bold", pad=12)
+    ax.set_title("User Study: Statistical Power vs. Participant Cohort Size", fontweight="bold", pad=12)
     ax.set_ylim(0.2, 1.02)
     ax.set_xlim(8, 82)
     ax.legend(loc="lower right", frameon=True)
@@ -260,7 +260,7 @@ def generate_study_charts(df_pairs, preferred_dist, output_dir):
 
 def analyze(input_file: str, generate_figures: bool = True):
     print("=" * 72)
-    print("AuraTour: User Study Statistical Analysis Pipeline")
+    print("User Study Statistical Analysis Pipeline")
     print(f"Data Source: {input_file}")
     print("=" * 72)
 
@@ -455,7 +455,7 @@ def analyze(input_file: str, generate_figures: bool = True):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Analyze AuraTour user study responses.")
+    parser = argparse.ArgumentParser(description="Analyze user study responses.")
     parser.add_argument("--input", default=DEFAULT_INPUT_FILE, help="Path to user_study_responses.json")
     parser.add_argument("--no-figures", action="store_true", help="Skip figure generation")
     args = parser.parse_args()

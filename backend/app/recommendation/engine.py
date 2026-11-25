@@ -88,6 +88,8 @@ class RecommendationEngine:
                     origin_lat, origin_lon,
                     row["latitude"], row["longitude"],
                     transport_mode=preferred_transport,
+                    origin_city=origin_city,
+                    dest_city=row.get("city"),
                 )
                 rec_mode = preferred_transport or details.get("recommended_mode")
                 if rec_mode and rec_mode in details:
@@ -164,6 +166,8 @@ class RecommendationEngine:
                     origin_lat, origin_lon,
                     row["latitude"], row["longitude"],
                     transport_mode=preferred_transport,
+                    origin_city=origin_city,
+                    dest_city=row.get("city"),
                 )
                 emission_details.append(details)
             
@@ -195,10 +199,13 @@ class RecommendationEngine:
         # ── 3. Popularity Scores ──
         if weights.get("popularity", 0) > 0:
             all_visitors = df["annual_visitors"].tolist() if "annual_visitors" in df.columns else []
+            all_reviews = df["review_count"].tolist() if "review_count" in df.columns else []
             df["popularity_score"] = df.apply(
                 lambda row: compute_popularity_score(
                     row.get("annual_visitors"),
                     all_visitors,
+                    review_count=row.get("review_count"),
+                    all_review_counts=all_reviews,
                 ),
                 axis=1,
             )

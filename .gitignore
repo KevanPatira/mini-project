@@ -1,5 +1,5 @@
 # ==============================================================================
-# AuraTour - Git Ignore Configuration
+# Sustainable Tourism Recommender - Git Ignore Configuration
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
@@ -55,6 +55,8 @@ kaggle_indian_tourist_places_dataset.zip
 backend/data/raw/*.json
 backend/data/raw/*.geojson
 backend/data/weather/*.json
+backend/data/raw/Review_db.csv
+Review_db.csv
 
 # ------------------------------------------------------------------------------
 # 4. Agent & Internal IDE Artifacts

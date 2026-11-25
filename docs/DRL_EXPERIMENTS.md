@@ -1,4 +1,4 @@
-# Empirical Evaluation and Baseline Experiments for AuraTour DRL
+# Empirical Evaluation and Baseline Experiments for DRL Itinerary Planning
 
 ## 1. Experimental Setup & Benchmarking Protocol
 
