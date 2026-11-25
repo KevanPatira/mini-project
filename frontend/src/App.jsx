@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import RedesignApp from './redesign/RedesignApp';
 import Navbar from './components/Navbar';
 import PreferenceForm from './components/PreferenceForm';
 import RecommendationCard from './components/RecommendationCard';
@@ -13,6 +14,7 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('recommendations');
   const [backendStatus, setBackendStatus] = useState('checking');
   const [totalAttractions, setTotalAttractions] = useState(0);
+  const [useRedesign, setUseRedesign] = useState(true);
 
   // Preference state
   const [preferences, setPreferences] = useState({
@@ -180,8 +182,63 @@ export default function App() {
     }
   };
 
+  if (useRedesign) {
+    return (
+      <RedesignApp
+        activeTab={activeTab}
+        setActiveTab={setActiveTab}
+        backendStatus={backendStatus}
+        totalAttractions={totalAttractions}
+        preferences={preferences}
+        setPreferences={setPreferences}
+        origins={origins}
+        categories={categories}
+        allDestinations={allDestinations}
+        recommendations={recommendations}
+        comparisons={comparisons}
+        selectedAttractionIds={selectedAttractionIds}
+        itinerary={itinerary}
+        loading={loading}
+        itineraryLoading={itineraryLoading}
+        onRecommend={handleRecommendClick}
+        onToggleItinerary={handleToggleItinerary}
+        onRemoveFromItinerary={handleRemoveFromItinerary}
+        onGenerateItinerary={handleGenerateItinerary}
+        onToggleLegacy={() => setUseRedesign(false)}
+        isRedesignActive={true}
+      />
+    );
+  }
+
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+      <div style={{
+        background: '#161e2e',
+        color: '#34d399',
+        padding: '6px 20px',
+        fontSize: '0.8rem',
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        borderBottom: '1px solid rgba(255,255,255,0.1)'
+      }}>
+        <span>Viewing Classic AuraTour UI (Preserved Fallback)</span>
+        <button
+          onClick={() => setUseRedesign(true)}
+          style={{
+            background: '#10b981',
+            color: '#fff',
+            border: 'none',
+            padding: '4px 12px',
+            borderRadius: 4,
+            cursor: 'pointer',
+            fontWeight: 600,
+            fontSize: '0.78rem'
+          }}
+        >
+          Switch to Redesigned Earthy UI →
+        </button>
+      </div>
       <Navbar
         activeTab={activeTab}
         setActiveTab={setActiveTab}
