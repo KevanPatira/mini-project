@@ -222,7 +222,7 @@ export default function App() {
         alignItems: 'center',
         borderBottom: '1px solid rgba(255,255,255,0.1)'
       }}>
-        <span>Viewing Classic AuraTour UI (Preserved Fallback)</span>
+        <span>Viewing Classic UI (Preserved Fallback)</span>
         <button
           onClick={() => setUseRedesign(true)}
           style={{
