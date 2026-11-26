@@ -341,6 +341,7 @@ export default function App() {
             loading={itineraryLoading}
             allAttractions={allDestinations}
             preferences={preferences}
+            onViewMap={() => setActiveTab('map')}
           />
         )}
 

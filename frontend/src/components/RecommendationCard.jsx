@@ -1,5 +1,9 @@
-import React from 'react';
-import { Plus, Check, MapPin, Clock, Award, Info, Leaf, Sparkles, Navigation } from 'lucide-react';
+import React, { useState } from 'react';
+import { 
+  Plus, Check, MapPin, Clock, Award, Info, Leaf, Sparkles, Navigation,
+  Wallet, Layers, ChevronDown, ChevronUp
+} from 'lucide-react';
+import { getTransportIcon } from '../utils/transport';
 
 export default function RecommendationCard({
   item,
@@ -7,13 +11,18 @@ export default function RecommendationCard({
   isInItinerary,
   rank,
 }) {
+  const [showTransitOptions, setShowTransitOptions] = useState(false);
   const { attraction, final_score, score_breakdown, explanation, data_quality_notes } = item;
   const emissionsKg = item.estimated_emissions_kg;
   const distanceKm = item.distance_km;
   const travelHours = item.travel_hours;
   const transportMode = item.transport_mode;
+  const estimatedCostInr = item.estimated_cost_inr;
+  const transportSource = item.transport_source;
+  const transitOptions = item.transit_options || {};
 
   const scorePercent = Math.round(final_score * 100);
+  const TransportIcon = getTransportIcon(transportMode);
 
   // Score color
   const getScoreColor = (score) => {
@@ -214,33 +223,110 @@ export default function RecommendationCard({
           </div>
         </div>
 
-        {/* Transit stats */}
+        {/* Transit stats & Fare Summary */}
         {distanceKm && (
           <div style={{
             display: 'flex',
-            alignItems: 'center',
-            gap: 14,
+            flexDirection: 'column',
+            gap: 8,
             fontSize: '0.78rem',
             color: 'var(--text-secondary)',
             marginBottom: 12,
-            background: 'rgba(255, 255, 255, 0.02)',
-            padding: '6px 12px',
+            background: 'rgba(255, 255, 255, 0.03)',
+            border: '1px solid var(--border-subtle)',
+            padding: '10px 12px',
             borderRadius: 8,
           }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 5 }}>
-              <Navigation size={13} color="var(--emerald-400)" />
-              <span>{Math.round(distanceKm)} km via {transportMode || 'optimal route'}</span>
-            </div>
-            {travelHours && (
-              <div style={{ display: 'flex', alignItems: 'center', gap: 5 }}>
-                <Clock size={13} color="var(--sapphire-400)" />
-                <span>~{travelHours.toFixed(1)} hrs</span>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 6 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 600, color: 'var(--text-main)' }}>
+                <TransportIcon size={14} color="var(--emerald-400)" />
+                <span style={{ textTransform: 'capitalize' }}>{transportMode || 'Transit'}:</span>
+                <span>{Math.round(distanceKm)} km</span>
+                {travelHours && <span style={{ color: 'var(--text-muted)' }}>• ~{travelHours.toFixed(1)} hrs</span>}
               </div>
-            )}
-            {emissionsKg !== undefined && (
-              <div style={{ display: 'flex', alignItems: 'center', gap: 5 }}>
-                <Leaf size={13} color="var(--emerald-400)" />
-                <span>{emissionsKg} kg CO₂e</span>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                {estimatedCostInr !== undefined && estimatedCostInr !== null && (
+                  <span style={{ color: 'var(--amber-400)', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: 3 }}>
+                    <Wallet size={12} />
+                    ₹{Math.round(estimatedCostInr)}
+                  </span>
+                )}
+                {emissionsKg !== undefined && (
+                  <span style={{ color: 'var(--emerald-400)', fontWeight: 600, display: 'inline-flex', alignItems: 'center', gap: 3 }}>
+                    <Leaf size={12} />
+                    {emissionsKg} kg CO₂e
+                  </span>
+                )}
+              </div>
+            </div>
+
+            {/* Source Attribution & Comparison Toggle */}
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center',
+              fontSize: '0.7rem',
+              color: 'var(--text-muted)',
+              borderTop: '1px dashed var(--border-subtle)',
+              paddingTop: 5,
+              flexWrap: 'wrap',
+              gap: 4,
+            }}>
+              <span>Source: <b>{transportSource || 'Empirical Transport Matrix'}</b></span>
+              {Object.keys(transitOptions).length > 1 && (
+                <button
+                  type="button"
+                  onClick={() => setShowTransitOptions(!showTransitOptions)}
+                  style={{
+                    background: 'none',
+                    border: 'none',
+                    color: 'var(--sapphire-400)',
+                    cursor: 'pointer',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 3,
+                    fontSize: '0.72rem',
+                    padding: 0,
+                  }}
+                >
+                  <Layers size={11} />
+                  <span>{showTransitOptions ? 'Hide' : 'Compare Modes'}</span>
+                  {showTransitOptions ? <ChevronUp size={11} /> : <ChevronDown size={11} />}
+                </button>
+              )}
+            </div>
+
+            {/* Mode Comparison Breakdown */}
+            {showTransitOptions && Object.keys(transitOptions).length > 0 && (
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(110px, 1fr))', gap: 6, paddingTop: 4 }}>
+                {Object.entries(transitOptions).map(([mKey, opt]) => {
+                  const MIcon = getTransportIcon(mKey);
+                  const isCur = mKey === transportMode;
+                  return (
+                    <div
+                      key={mKey}
+                      style={{
+                        padding: '5px 8px',
+                        borderRadius: 6,
+                        background: isCur ? 'rgba(16, 185, 129, 0.12)' : 'rgba(255, 255, 255, 0.02)',
+                        border: `1px solid ${isCur ? 'var(--emerald-500)' : 'var(--border-subtle)'}`,
+                        fontSize: '0.7rem',
+                      }}
+                    >
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 4, fontWeight: 600, textTransform: 'capitalize', color: 'var(--text-main)' }}>
+                        <MIcon size={12} color="var(--emerald-400)" />
+                        <span>{mKey}</span>
+                        {isCur && <span style={{ fontSize: '0.62rem', color: 'var(--emerald-400)' }}>(Picked)</span>}
+                      </div>
+                      <div style={{ color: 'var(--text-secondary)', marginTop: 2 }}>
+                        {opt.estimated_cost_inr ? `₹${Math.round(opt.estimated_cost_inr)}` : 'N/A'} • {opt.travel_hours}h
+                      </div>
+                      <div style={{ color: 'var(--emerald-400)', fontWeight: 600 }}>
+                        {opt.emissions_kg} kg CO₂e
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
             )}
           </div>

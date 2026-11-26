@@ -207,6 +207,7 @@ export default function RedesignApp({
                   loading={itineraryLoading}
                   allAttractions={allDestinations}
                   preferences={preferences}
+                  onViewMap={() => setActiveTab('map')}
                 />
               )}
 

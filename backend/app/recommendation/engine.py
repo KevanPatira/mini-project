@@ -95,6 +95,22 @@ class RecommendationEngine:
                 if rec_mode and rec_mode in details:
                     emissions_kg = details[rec_mode].get("emissions_kg")
                     travel_hours = details[rec_mode].get("travel_hours")
+                    distance_km = details[rec_mode].get("distance_km")
+                    cost_inr = details[rec_mode].get("estimated_cost_inr")
+                    source = details[rec_mode].get("data_source")
+                else:
+                    distance_km = None
+                    cost_inr = None
+                    source = None
+            else:
+                details = {}
+                distance_km = None
+                cost_inr = None
+                source = None
+
+            transit_options = {
+                k: v for k, v in details.items() if k != "recommended_mode" and isinstance(v, dict)
+            }
 
             results.append({
                 "rank": len(results) + 1,
@@ -113,7 +129,12 @@ class RecommendationEngine:
                 },
                 "estimated_emissions_kg": emissions_kg,
                 "recommended_transport": rec_mode,
+                "transport_mode": rec_mode,
+                "distance_km": distance_km,
                 "travel_hours": travel_hours,
+                "estimated_cost_inr": cost_inr,
+                "transport_source": source,
+                "transit_options": transit_options,
                 "explanation": self._generate_explanation(
                     row, user_interests, "baseline"
                 ),
@@ -265,6 +286,9 @@ class RecommendationEngine:
             details = row.get("emission_details", {})
             mode = preferred_transport or details.get("recommended_mode")
             mode_details = details.get(mode, {}) if mode else {}
+            transit_options = {
+                k: v for k, v in details.items() if k != "recommended_mode" and isinstance(v, dict)
+            }
             
             result = {
                 "rank": len(results) + 1,
@@ -286,6 +310,8 @@ class RecommendationEngine:
                 "travel_hours": mode_details.get("travel_hours"),
                 "estimated_emissions_kg": mode_details.get("emissions_kg"),
                 "estimated_cost_inr": mode_details.get("estimated_cost_inr"),
+                "transport_source": mode_details.get("data_source"),
+                "transit_options": transit_options,
                 "explanation": self._generate_explanation(
                     row, user_interests, configuration, weights, mode
                 ),

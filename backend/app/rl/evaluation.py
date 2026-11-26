@@ -123,6 +123,7 @@ def generate_drl_itinerary(
     budget_inr: float = 15000.0,
     user_interests: Optional[List[str]] = None,
     preferred_transport: str = "train",
+    selected_attraction_ids: Optional[List[str]] = None,
     checkpoint_path: Optional[str] = None,
     seed: int = 42,
 ) -> Dict[str, Any]:
@@ -131,6 +132,8 @@ def generate_drl_itinerary(
     
     Returns structured itinerary dictionary compatible with ItineraryResponse schema.
     """
+    from app.itinerary.ors_client import get_driving_route
+
     ckpt = checkpoint_path or DEFAULT_CHECKPOINT
     env = TourismItineraryEnv()
 
@@ -159,6 +162,7 @@ def generate_drl_itinerary(
         budget_inr=budget_inr,
         user_interests=user_interests,
         preferred_transport=preferred_transport,
+        candidate_attraction_ids=selected_attraction_ids,
         seed=seed,
     )
 
@@ -174,6 +178,11 @@ def generate_drl_itinerary(
         step_count += 1
 
     inference_ms = round((time.time() - t_infer_start) * 1000, 2)
+
+    origin_info = ORIGIN_CITIES.get(origin_city.lower(), ORIGIN_CITIES["delhi"])
+    curr_lat = origin_info["lat"]
+    curr_lon = origin_info["lon"]
+    has_live_routing = False
 
     # Format itinerary stops for API & UI presentation
     formatted_stops = []
@@ -191,6 +200,21 @@ def generate_drl_itinerary(
         arr_str = f"Day {s['day']}, {int(arr_h):02d}:{int((arr_h % 1) * 60):02d}"
         dep_str = f"Day {s['day']}, {int(dep_h):02d}:{int((dep_h % 1) * 60):02d}"
 
+        dest_lat = att["latitude"]
+        dest_lon = att["longitude"]
+        mode = s["transport_mode"]
+
+        # Compute turn-by-turn road geometry or corridor geometry
+        if mode in ["car", "bus"]:
+            route_res = get_driving_route(curr_lat, curr_lon, dest_lat, dest_lon)
+            leg_geom = route_res.get("geometry", [[curr_lat, curr_lon], [dest_lat, dest_lon]])
+            leg_routing_source = route_res.get("source", "offline_heuristic")
+            if leg_routing_source == "openrouteservice":
+                has_live_routing = True
+        else:
+            leg_geom = [[curr_lat, curr_lon], [dest_lat, dest_lon]]
+            leg_routing_source = "corridor_transit"
+
         formatted_stops.append({
             "order": s["order"],
             "day": s["day"],
@@ -205,6 +229,8 @@ def generate_drl_itinerary(
             "transit_fare_inr": s["transit_fare_inr"],
             "entry_fee_inr": s["entry_fee_inr"],
             "total_leg_cost_inr": s["total_leg_cost_inr"],
+            "routing_source": leg_routing_source,
+            "route_geometry": leg_geom,
             "provenance": {
                 "entry_fee": "sourced (cleaned_tourist_places_rajasthan.csv)" if att["id"] in env.monument_meta else "heuristic",
                 "coordinates": "observed (OSM / Curated Catalog)",
@@ -213,7 +239,8 @@ def generate_drl_itinerary(
             },
         })
 
-    origin_info = ORIGIN_CITIES.get(origin_city.lower(), ORIGIN_CITIES["delhi"])
+        curr_lat = dest_lat
+        curr_lon = dest_lon
 
     # Calculate baseline comparison (private car)
     baseline_car_emissions = round(env.total_distance_km * 0.150, 2)
@@ -240,6 +267,7 @@ def generate_drl_itinerary(
         "duration_violation": bool(env.current_day > trip_duration_days),
         "strategy_used": "drl",
         "provenance_mode": "Mode B (Simulator-Trained DQN)",
+        "routing_provider": "OpenRouteService (Live)" if has_live_routing else "Calibrated Heuristic (Offline)",
         "inference_latency_ms": inference_ms,
         "checkpoint_status": "loaded" if checkpoint_loaded else "missing_fallback",
         "warnings": warnings,

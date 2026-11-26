@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
 import { MapPin, Layers, Check, ShieldCheck, Navigation } from 'lucide-react';
+import { getTransportColor } from '../utils/transport';
 
 const CARTO_STYLES = {
   dark_all: {
@@ -99,6 +100,18 @@ export default function MapView({
 
     const bounds = [];
 
+    // Map itinerary stop order if itinerary exists
+    const stopSequenceMap = {};
+    if (itinerary && itinerary.stops) {
+      itinerary.stops.forEach((stop, index) => {
+        stopSequenceMap[stop.attraction.id] = {
+          order: stop.order || index + 1,
+          day: stop.day || 1,
+          stop: stop,
+        };
+      });
+    }
+
     // Add attraction markers
     const targetAttractions =
       attractions && attractions.length > 0
@@ -110,16 +123,24 @@ export default function MapView({
     targetAttractions.forEach((att) => {
       const rec = recMap[att.id];
       const isSelected = selectedAttractionIds?.includes(att.id);
+      const stopInfo = stopSequenceMap[att.id];
       const isTopRec = rec && rec.rank <= 5;
+      const isItineraryStop = Boolean(stopInfo);
 
-      const markerColor = isSelected ? '#10b981' : isTopRec ? '#059669' : '#3b82f6';
-      const markerSize = isSelected ? 30 : isTopRec ? 26 : 22;
+      const markerColor = isItineraryStop
+        ? '#f59e0b'
+        : isSelected
+        ? '#10b981'
+        : isTopRec
+        ? '#059669'
+        : '#3b82f6';
+      const markerSize = isItineraryStop ? 34 : isSelected ? 30 : isTopRec ? 26 : 22;
 
       const customIcon = L.divIcon({
         className: 'custom-map-pin',
         html: `
           <div style="
-            background: ${markerColor};
+            background: ${isItineraryStop ? 'linear-gradient(135deg, #f59e0b, #d97706)' : markerColor};
             width: ${markerSize}px;
             height: ${markerSize}px;
             border-radius: 50%;
@@ -127,13 +148,13 @@ export default function MapView({
             align-items: center;
             justify-content: center;
             color: #ffffff;
-            font-size: 11px;
+            font-size: ${isItineraryStop ? '12px' : '11px'};
             font-weight: 700;
             border: 2px solid #ffffff;
-            box-shadow: 0 0 12px ${markerColor}88;
+            box-shadow: 0 0 14px ${isItineraryStop ? 'rgba(245, 158, 11, 0.7)' : `${markerColor}88`};
             cursor: pointer;
           ">
-            ${rec ? rec.rank : '•'}
+            ${isItineraryStop ? `#${stopInfo.order}` : rec ? rec.rank : '•'}
           </div>
         `,
         iconSize: [markerSize, markerSize],
@@ -143,7 +164,12 @@ export default function MapView({
       const marker = L.marker([att.latitude, att.longitude], { icon: customIcon });
 
       const popupHtml = `
-        <div style="font-family: sans-serif; padding: 4px; color: #111827; max-width: 220px;">
+        <div style="font-family: sans-serif; padding: 4px; color: #111827; max-width: 230px;">
+          ${
+            isItineraryStop
+              ? `<div style="background: rgba(245, 158, 11, 0.15); color: #d97706; font-size: 11px; font-weight: 700; padding: 2px 6px; border-radius: 4px; margin-bottom: 4px; display: inline-block;">Stop #${stopInfo.order} • Day ${stopInfo.day}</div>`
+              : ''
+          }
           <h4 style="margin: 0 0 4px; font-size: 13px; font-weight: 700;">${att.name}</h4>
           <p style="margin: 0 0 4px; font-size: 11px; color: #4b5563;">${att.city || ''}, ${att.district || ''}</p>
           ${
@@ -177,9 +203,18 @@ export default function MapView({
         }
 
         if (segmentCoords.length > 0) {
-          const isTrain = stop.transport_mode === 'train';
-          const isCar = stop.transport_mode === 'car';
-          const strokeColor = isTrain ? '#38bdf8' : isCar ? '#10b981' : '#f59e0b';
+          const isTrain = (stop.transport_mode || '').toLowerCase().includes('train');
+          const strokeColor = getTransportColor(stop.transport_mode);
+
+          // Outer glowing halo casing for high visibility
+          const halo = L.polyline(segmentCoords, {
+            color: strokeColor,
+            weight: 8,
+            opacity: 0.3,
+            lineCap: 'round',
+            lineJoin: 'round',
+          });
+          polylineLayer.addLayer(halo);
 
           const polyline = L.polyline(segmentCoords, {
             color: strokeColor,

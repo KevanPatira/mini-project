@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { 
   Plus, Check, MapPin, Clock, Award, Leaf, Sparkles, Navigation, 
-  ShieldCheck 
+  ShieldCheck, Wallet, Layers, ChevronDown, ChevronUp
 } from 'lucide-react';
+import { getTransportIcon, formatFare, formatDistance, formatDuration } from '../../utils/transport';
 
 export default function RecommendationCard({
   item,
@@ -10,14 +11,19 @@ export default function RecommendationCard({
   isInItinerary,
   rank,
 }) {
+  const [showTransitOptions, setShowTransitOptions] = useState(false);
   const { attraction, final_score, score_breakdown, explanation } = item;
   const emissionsKg = item.estimated_emissions_kg;
   const distanceKm = item.distance_km;
   const travelHours = item.travel_hours;
   const transportMode = item.transport_mode;
+  const estimatedCostInr = item.estimated_cost_inr;
+  const transportSource = item.transport_source;
+  const transitOptions = item.transit_options || {};
 
   const scorePercent = Math.round(final_score * 100);
   const isTopPick = rank <= 3;
+  const TransportIcon = getTransportIcon(transportMode);
 
   return (
     <div
@@ -182,24 +188,141 @@ export default function RecommendationCard({
           </div>
         </div>
 
-        {/* Transit Distance & CO2 Summary */}
+        {/* Transit Distance, Fare & CO2 Summary */}
         {distanceKm !== undefined && (
-          <div className="at-transit-strip">
-            <span style={{ display: 'inline-flex', alignItems: 'center', gap: 5 }}>
-              <Navigation size={14} color="var(--c-accent)" />
-              {Math.round(distanceKm)} km via {transportMode || 'optimal route'}
-            </span>
-            {travelHours && (
-              <span style={{ display: 'inline-flex', alignItems: 'center', gap: 5 }}>
-                <Clock size={13} />
-                ~{travelHours.toFixed(1)} hrs
+          <div style={{
+            marginTop: 14,
+            backgroundColor: 'var(--c-bg-subtle, #f8f6f0)',
+            borderRadius: 'var(--radius-md, 8px)',
+            border: '1px solid var(--c-border-subtle, #e5e0d4)',
+            padding: '12px 14px',
+            display: 'flex',
+            flexDirection: 'column',
+            gap: 8,
+          }}>
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center',
+              flexWrap: 'wrap',
+              gap: 8,
+              fontSize: '0.82rem',
+            }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 700, color: 'var(--c-primary, #1F3A32)' }}>
+                <TransportIcon size={15} color="var(--c-accent, #C56B45)" />
+                <span style={{ textTransform: 'capitalize' }}>{transportMode || 'Transit'} Route:</span>
+                <span>{Math.round(distanceKm)} km</span>
+                {travelHours && <span style={{ color: 'var(--c-text-muted, #7c887e)', fontWeight: 500 }}>• ~{travelHours.toFixed(1)} hrs</span>}
+              </div>
+
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                {estimatedCostInr !== undefined && estimatedCostInr !== null && (
+                  <span style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 3,
+                    color: 'var(--c-accent, #C56B45)',
+                    fontWeight: 700,
+                    fontSize: '0.84rem',
+                  }}>
+                    <Wallet size={13} />
+                    ₹{Math.round(estimatedCostInr)}
+                  </span>
+                )}
+                {emissionsKg !== undefined && (
+                  <span style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 3,
+                    color: 'var(--c-primary, #1F3A32)',
+                    fontWeight: 700,
+                    fontSize: '0.82rem',
+                  }}>
+                    <Leaf size={13} />
+                    {emissionsKg} kg CO₂e
+                  </span>
+                )}
+              </div>
+            </div>
+
+            {/* Transport Data Source & Alternative Options Toggle */}
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center',
+              fontSize: '0.72rem',
+              color: 'var(--c-text-muted, #7c887e)',
+              borderTop: '1px dashed var(--c-border-subtle, #e5e0d4)',
+              paddingTop: 6,
+              flexWrap: 'wrap',
+              gap: 6,
+            }}>
+              <span>
+                Source: <strong>{transportSource || 'Empirical Transport Matrix'}</strong>
               </span>
-            )}
-            {emissionsKg !== undefined && (
-              <span style={{ display: 'inline-flex', alignItems: 'center', gap: 5, color: 'var(--c-primary)', fontWeight: 700 }}>
-                <Leaf size={13} />
-                {emissionsKg} kg CO₂e
-              </span>
+
+              {Object.keys(transitOptions).length > 1 && (
+                <button
+                  type="button"
+                  onClick={() => setShowTransitOptions(!showTransitOptions)}
+                  style={{
+                    background: 'none',
+                    border: 'none',
+                    color: 'var(--c-accent, #C56B45)',
+                    cursor: 'pointer',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 3,
+                    fontWeight: 600,
+                    fontSize: '0.74rem',
+                    padding: 0,
+                  }}
+                >
+                  <Layers size={11} />
+                  <span>{showTransitOptions ? 'Hide Modes' : 'Compare Modes'}</span>
+                  {showTransitOptions ? <ChevronUp size={11} /> : <ChevronDown size={11} />}
+                </button>
+              )}
+            </div>
+
+            {/* Expanded Transit Modes Comparison */}
+            {showTransitOptions && Object.keys(transitOptions).length > 0 && (
+              <div style={{
+                marginTop: 4,
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(130px, 1fr))',
+                gap: 6,
+                paddingTop: 4,
+              }}>
+                {Object.entries(transitOptions).map(([modeKey, opt]) => {
+                  const ModeIcon = getTransportIcon(modeKey);
+                  const isCurrent = modeKey === transportMode;
+                  return (
+                    <div
+                      key={modeKey}
+                      style={{
+                        padding: '6px 8px',
+                        borderRadius: 6,
+                        backgroundColor: isCurrent ? 'var(--c-sage-soft, #e6ebe7)' : '#ffffff',
+                        border: `1px solid ${isCurrent ? 'var(--c-primary, #1F3A32)' : 'var(--c-border-subtle, #e5e0d4)'}`,
+                        fontSize: '0.72rem',
+                      }}
+                    >
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 4, fontWeight: 700, textTransform: 'capitalize', color: 'var(--c-primary, #1F3A32)' }}>
+                        <ModeIcon size={12} color="var(--c-accent, #C56B45)" />
+                        <span>{modeKey}</span>
+                        {isCurrent && <span style={{ fontSize: '0.65rem', color: 'var(--c-accent, #C56B45)' }}>(Picked)</span>}
+                      </div>
+                      <div style={{ color: 'var(--c-text-secondary, #59665c)', marginTop: 2 }}>
+                        {opt.estimated_cost_inr ? `₹${Math.round(opt.estimated_cost_inr)}` : 'N/A'} • {opt.travel_hours}h
+                      </div>
+                      <div style={{ color: 'var(--c-primary, #1F3A32)', fontWeight: 600 }}>
+                        {opt.emissions_kg} kg CO₂e
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
             )}
           </div>
         )}

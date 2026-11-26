@@ -6,7 +6,7 @@ user preferences, recommendation requests/responses, and evaluation results.
 """
 
 from pydantic import BaseModel, Field, field_validator
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Any
 from enum import Enum
 
 
@@ -156,6 +156,8 @@ class RecommendationResult(BaseModel):
     travel_hours: Optional[float] = None
     estimated_emissions_kg: Optional[float] = None
     estimated_cost_inr: Optional[float] = None
+    transport_source: Optional[str] = None
+    transit_options: Optional[Dict[str, Any]] = None
     
     # Explanation
     explanation: str = Field(..., description="Template-based explanation of why this was recommended")
@@ -195,6 +197,7 @@ class ItineraryRequest(BaseModel):
 class ItineraryStop(BaseModel):
     """A single stop in an itinerary."""
     order: int
+    day: Optional[int] = 1
     attraction: Attraction
     arrival_time: Optional[str] = None
     departure_time: Optional[str] = None
@@ -202,13 +205,18 @@ class ItineraryStop(BaseModel):
     travel_from_previous_km: Optional[float] = None
     travel_from_previous_hours: Optional[float] = None
     transport_mode: Optional[TransportMode] = None
+    leg_emissions_kg: Optional[float] = None
     transit_fare_inr: Optional[float] = None
     entry_fee_inr: Optional[float] = None
     total_leg_cost_inr: Optional[float] = None
+    routing_source: Optional[str] = None
+    route_geometry: Optional[List[List[float]]] = None
+    provenance: Optional[Dict[str, Any]] = None
 
 
 class ItineraryResponse(BaseModel):
     """Generated itinerary."""
+    origin: Optional[str] = None
     stops: List[ItineraryStop]
     total_distance_km: float
     total_travel_hours: float
@@ -218,8 +226,11 @@ class ItineraryResponse(BaseModel):
     total_fare_inr: Optional[float] = None
     total_entry_fees_inr: Optional[float] = None
     remaining_budget_inr: Optional[float] = None
+    baseline_car_emissions_kg: Optional[float] = None
+    co2_savings_kg: Optional[float] = None
     strategy_used: Optional[str] = "2opt"
     provenance_mode: Optional[str] = None
+    routing_provider: Optional[str] = None
     warnings: List[str] = Field(default_factory=list)
 
 

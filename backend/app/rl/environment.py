@@ -156,6 +156,7 @@ class TourismItineraryEnv:
         self.visited_mask = np.zeros(self.n_attractions, dtype=np.int32)
         self.itinerary_stops = []
         self.visited_categories = set()
+        self.candidate_attraction_ids = None
         self.total_distance_km = 0.0
         self.total_emissions_kg = 0.0
         self.total_fare_inr = 0.0
@@ -170,6 +171,7 @@ class TourismItineraryEnv:
         budget_inr: float = 15000.0,
         user_interests: Optional[List[str]] = None,
         preferred_transport: str = "train",
+        candidate_attraction_ids: Optional[List[str]] = None,
         seed: Optional[int] = None,
     ) -> Tuple[np.ndarray, Dict[str, Any]]:
         """Reset environment to the beginning of a traveler scenario."""
@@ -193,6 +195,7 @@ class TourismItineraryEnv:
 
         self.user_interests = user_interests or ["history", "architecture"]
         self.preferred_transport = preferred_transport
+        self.candidate_attraction_ids = set(candidate_attraction_ids) if candidate_attraction_ids else None
 
         self.visited_mask = np.zeros(self.n_attractions, dtype=np.int32)
         self.itinerary_stops = []
@@ -238,10 +241,15 @@ class TourismItineraryEnv:
         if self.done:
             return mask
 
-        # Stop action is always valid once at least 1 attraction is visited
-        mask[self.stop_action_idx] = 1
+        # Stop action is valid once at least 1 attraction has been visited
+        if len(self.itinerary_stops) >= 1:
+            mask[self.stop_action_idx] = 1
 
         for idx, att in enumerate(self.attractions):
+            # If candidate restrictions are active, skip attractions not in the candidate set
+            if self.candidate_attraction_ids and att["id"] not in self.candidate_attraction_ids:
+                continue
+
             # 1. Do not revisit already visited attractions
             if self.visited_mask[idx] == 1:
                 continue
@@ -299,6 +307,10 @@ class TourismItineraryEnv:
 
             # All constraints satisfied -> action is feasible
             mask[idx] = 1
+
+        # Fallback guarantee: if no attraction action is feasible, STOP action is valid
+        if mask.sum() == 0:
+            mask[self.stop_action_idx] = 1
 
         return mask
 

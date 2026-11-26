@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { 
   Clock, MapPin, Navigation, Leaf, Trash2, 
-  AlertTriangle, Train, Bus, Car, Plane, Wallet, ShieldCheck, Sparkles, Calendar 
+  AlertTriangle, Wallet, ShieldCheck, Sparkles, Calendar 
 } from 'lucide-react';
+import { getTransportIcon } from '../../utils/transport';
 
 export default function ItineraryView({
   selectedAttractionIds,
@@ -12,6 +13,7 @@ export default function ItineraryView({
   loading,
   allAttractions,
   preferences,
+  onViewMap,
 }) {
   const [strategy, setStrategy] = useState('drl');
   const [optimizeFor, setOptimizeFor] = useState('balanced');
@@ -30,16 +32,6 @@ export default function ItineraryView({
   };
 
   const isDrl = strategy === 'drl';
-
-  const getTransportIcon = (mode) => {
-    if (!mode) return Navigation;
-    const m = mode.toLowerCase();
-    if (m.includes('train') || m.includes('rail')) return Train;
-    if (m.includes('bus')) return Bus;
-    if (m.includes('car')) return Car;
-    if (m.includes('flight') || m.includes('plane')) return Plane;
-    return Navigation;
-  };
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
@@ -257,6 +249,18 @@ export default function ItineraryView({
                   </div>
                 )}
               </div>
+
+              {onViewMap && (
+                <button
+                  type="button"
+                  onClick={onViewMap}
+                  className="at-btn-secondary"
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: 7, fontSize: '0.85rem', padding: '9px 18px', fontWeight: 700 }}
+                >
+                  <MapPin size={15} color="var(--c-accent)" />
+                  <span>Highlight Path on Map &rarr;</span>
+                </button>
+              )}
             </div>
 
             {/* DRL Budget and Action-Masking Stats */}

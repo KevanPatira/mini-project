@@ -316,6 +316,26 @@ class TestApiSchemaValidation:
                 travel_month=5,
             )
 
+    def test_recommendations_contain_transport_metadata(self):
+        engine = RecommendationEngine()
+        recs = engine.recommend_multicriteria(
+            user_interests=["history", "architecture"],
+            origin_city="delhi",
+            travel_month=11,
+            sustainability_priority=0.5,
+            top_k=5,
+        )
+        assert len(recs) == 5
+        for r in recs:
+            assert "transport_mode" in r
+            assert "distance_km" in r
+            assert "travel_hours" in r
+            assert "estimated_emissions_kg" in r
+            assert "estimated_cost_inr" in r
+            assert "transport_source" in r
+            assert "transit_options" in r
+            assert isinstance(r["transit_options"], dict)
+
 
 # ─── 8. User Study API Endpoints ─────────────────────────────────────────────
 

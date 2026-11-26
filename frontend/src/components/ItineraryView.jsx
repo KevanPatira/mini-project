@@ -9,6 +9,7 @@ export default function ItineraryView({
   loading,
   allAttractions,
   preferences,
+  onViewMap,
 }) {
   const [strategy, setStrategy] = useState('drl');
   const [optimizeFor, setOptimizeFor] = useState('balanced');
@@ -249,6 +250,18 @@ export default function ItineraryView({
                   </div>
                 )}
               </div>
+
+              {onViewMap && (
+                <button
+                  type="button"
+                  onClick={onViewMap}
+                  className="btn-secondary"
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: '0.82rem', padding: '8px 14px' }}
+                >
+                  <MapPin size={14} color="var(--emerald-400)" />
+                  <span>Highlight Path on Map &rarr;</span>
+                </button>
+              )}
             </div>
 
             {/* DRL Budget and Provenance Header Banner */}

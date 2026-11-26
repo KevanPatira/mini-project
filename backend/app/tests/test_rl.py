@@ -256,6 +256,30 @@ class TestDRLIntegration:
         assert res["duration_violation"] is False
         assert res["total_cost_inr"] <= 15000.0
         assert len(res["stops"]) == res["total_stops"]
+        assert "routing_provider" in res
+
+        # Verify route geometry is present for each stop for map highlighting
+        for s in res["stops"]:
+            assert "route_geometry" in s
+            assert "routing_source" in s
+            assert len(s["route_geometry"]) >= 2
+
+    def test_generate_drl_itinerary_with_selected_candidates(self):
+        # When user provides specific attraction candidates, DRL sequences them
+        candidates = ["raj_001", "raj_002", "raj_003"]
+        res = generate_drl_itinerary(
+            origin_city="jaipur",
+            travel_month=11,
+            trip_duration_days=3,
+            budget_inr=15000.0,
+            user_interests=["history"],
+            selected_attraction_ids=candidates,
+        )
+        assert res["strategy_used"] == "drl"
+        assert res["total_stops"] > 0
+        visited_ids = [s["attraction"]["id"] for s in res["stops"]]
+        for vid in visited_ids:
+            assert vid in candidates
 
     def test_api_rl_status(self, client):
         resp = client.get("/api/rl/status")
@@ -285,7 +309,7 @@ class TestDRLIntegration:
                 "budget_level": "medium",
                 "preferred_transport": "train",
             },
-            "selected_attraction_ids": [],
+            "selected_attraction_ids": ["raj_001", "raj_002"],
             "optimize_for": "balanced",
             "strategy": "drl",
         }
@@ -295,3 +319,5 @@ class TestDRLIntegration:
         assert data["strategy_used"] == "drl"
         assert len(data["stops"]) > 0
         assert data["total_cost_inr"] > 0
+        assert "routing_provider" in data
+        assert "route_geometry" in data["stops"][0]
